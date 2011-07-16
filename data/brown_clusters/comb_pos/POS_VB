@@ -1,0 +1,587 @@
+fix	VB;;7	NN;;2
+allay	VB;;4
+encourage	VB;;24	VBP;;5
+simplify	VB;;3
+extend	VB;;32	VBP;;4
+spin	VB;;7	NN;;1
+acquire	VB;;121
+begin	VB;;98	VBP;;13
+administer	VB;;3
+suffice	VB;;3
+safeguard	VB;;3
+boost	VB;;51	VBP;;2	NN;;25
+address	VB;;18	VBP;;1	NN;;6
+retrieve	VB;;4
+initiate	VB;;3	VBP;;1
+overthrow	VB;;3
+unveil	VB;;8
+pull	VB;;19	VBP;;2	NN;;1
+beware	VB;;3
+pass	VB;;27	VBP;;3	NN;;3
+learn	VB;;17	VBP;;5
+sell	VB;;342	VBP;;35	JJ;;11	NN;;38
+seize	VB;;11	VBP;;1
+implement	VB;;5
+reap	VB;;3
+bounce	VB;;6	VBP;;1	NN;;2
+behave	VB;;3
+broaden	VB;;7
+prosper	VB;;3
+realize	VB;;16	VBP;;7
+compete	VB;;23	VBP;;2
+clarify	VB;;5
+provide	VB;;128	VBP;;22
+appreciate	VB;;8	VBP;;1
+renew	VB;;4
+flatten	VB;;3
+occur	VB;;19	VBP;;7
+produce	VB;;75	VBP;;13	NN;;4
+introduce	VB;;21
+extinguish	VB;;3
+develop	VB;;56	VBP;;6
+alleviate	VB;;3
+decide	VB;;44	VBP;;8
+enjoin	VB;;3
+ask	VB;;42	VBP;;5
+reject	VB;;15	VBP;;5
+testify	VB;;16	VBP;;1
+lie	VB;;7	VBP;;3	NN;;2
+simmer	VB;;3
+enforce	VB;;6	VBP;;1
+convert	VB;;20	VBP;;1
+manage	VB;;18	VBP;;5
+meet	VB;;88	VBP;;8	NNP;;3
+achieve	VB;;18	VBP;;1
+interfere	VB;;12	VBP;;1
+lose	VB;;46	VBP;;11
+pinpoint	VB;;4
+stay	VB;;46	VBP;;8	NN;;6	NNP;;1
+foil	VB;;3	NN;;1
+enhance	VB;;11
+survive	VB;;24	VBP;;3
+operate	VB;;29	VBP;;9
+resume	VB;;30
+rattle	VB;;3
+earn	VB;;20	VBP;;6
+dismiss	VB;;5	VBP;;1
+disappear	VB;;6	VBP;;2
+save	VB;;37	IN;;1	NNP;;1
+relieve	VB;;6
+monitor	VB;;21	VBP;;5	NN;;3	NNP;;3
+get	VB;;322	VBP;;54
+tout	VB;;3
+assist	VB;;17
+forgo	VB;;4
+examine	VB;;11	VBP;;1
+stir	VB;;4	VBP;;1
+evade	VB;;4
+withdraw	VB;;12
+translate	VB;;6	VBP;;1
+curb	VB;;12	NN;;2
+cater	VB;;5	VBP;;1
+bail	VB;;8	NN;;1
+fetch	VB;;9
+preclude	VB;;6
+hide	VB;;9
+attract	VB;;34
+consolidate	VB;;4
+incur	VB;;5	VBP;;1
+ensure	VB;;37	VBP;;1
+liquidate	VB;;5
+inform	VB;;6
+stabilize	VB;;17	VBP;;2
+turn	VB;;72	VBP;;9	NN;;28
+outperform	VB;;3
+justify	VB;;18
+cease	VB;;6	VBP;;1
+treat	VB;;11	VBP;;3	NN;;1
+grasp	VB;;3	NN;;1
+sue	VB;;6
+amass	VB;;3
+oversee	VB;;6
+collect	VB;;9	VBP;;4	JJ;;1
+dispel	VB;;4
+explore	VB;;14	VBP;;1
+dissolve	VB;;3
+attend	VB;;5	VBP;;2
+budge	VB;;3
+disclose	VB;;39
+diminish	VB;;4	VBP;;1
+topple	VB;;4
+execute	VB;;12	VBP;;1
+redesign	VB;;3	NN;;1
+relax	VB;;7	VBP;;1
+waive	VB;;3
+listen	VB;;9	VBP;;3
+respond	VB;;17
+preserve	VB;;16
+lift	VB;;11	VBP;;1	NN;;2
+rebut	VB;;3
+crumble	VB;;4
+soothe	VB;;3
+refinance	VB;;4
+prevent	VB;;60	VBP;;3
+educate	VB;;7
+afford	VB;;23
+take	VB;;291	VBP;;30	NN;;1
+presage	VB;;3
+undermine	VB;;7	VBP;;2
+underline	VB;;3
+pick	VB;;30	VBP;;1	NN;;3
+accept	VB;;40	VBP;;6
+propose	VB;;6	VBP;;2
+try	VB;;75	VBP;;17	NN;;1
+imagine	VB;;10	VBP;;1
+cover	VB;;43	VBP;;4	NN;;3	NNP;;1
+see	VB;;230	VBP;;71	NNP;;1
+be	VB;;3087
+reassume	VB;;4
+send	VB;;14	VBP;;3
+let	NNP;;1	VB;;74	VBP;;6	VBN;;3	VBD;;12
+drill	VB;;5	NN;;1
+allow	VB;;82	VBP;;13
+merge	VB;;17	VBP;;2
+stimulate	VB;;6
+steer	VB;;4
+soar	VB;;5
+prove	VB;;39	VBP;;2
+rein	VB;;7	NN;;1
+drum	VB;;4
+avoid	VB;;59	VBP;;3
+funnel	VB;;4
+recognize	VB;;10	VBP;;3
+buoy	VB;;3
+devote	VB;;3	VBP;;1
+organize	VB;;5
+proceed	VB;;15
+repudiate	VB;;3
+satisfy	VB;;16
+remember	VB;;19	VBP;;2
+offend	VB;;5
+forfeit	VB;;4
+dispatch	VB;;3	NN;;1
+rebuild	VB;;8
+finish	VB;;10	VBP;;1	NN;;3
+read	VB;;25	NN;;1	VBD;;6	VBN;;10	VBP;;12	NNP;;7
+renovate	VB;;4
+prepare	VB;;15	VBP;;4
+hire	VB;;15	VBP;;2	NN;;2
+describe	VB;;7
+solicit	VB;;3
+erode	VB;;7	VBP;;1
+die	VB;;12	VBP;;3
+diversify	VB;;3
+woo	VB;;7	NNP;;3
+belong	VB;;5	VBP;;2
+evaluate	VB;;12	VBP;;1
+slash	VB;;8	VBP;;1	NN;;1
+forge	VB;;5	NNP;;1
+go	VB;;188	VBP;;41	NN;;1	NNP;;1
+dilute	VB;;4
+manipulate	VB;;6	VBP;;1
+hesitate	VB;;3	VBP;;1
+invoke	VB;;3
+assess	VB;;7	VBP;;1
+keep	VB;;161	VBP;;14
+attach	VB;;4	VBP;;1
+absorb	VB;;14	VBP;;1
+affect	VB;;39	VBP;;4	NN;;1
+interpret	VB;;5	VBP;;1
+recommend	VB;;7	VBP;;2
+tell	VB;;49	VBP;;9
+give	VB;;167	VBP;;24
+integrate	VB;;4
+stop	VB;;62	VBP;;3	NN;;4	NNP;;1
+comply	VB;;8
+identify	VB;;28	VBP;;2
+entice	VB;;3
+burn	VB;;4	VBP;;1
+assume	VB;;19	VBP;;5
+tilt	VB;;3
+grow	VB;;48	VBP;;4
+relinquish	VB;;5
+carry	VB;;37	VBP;;9	NNP;;2
+pump	VB;;7	VBP;;1	NNP;;1
+cancel	VB;;9	NN;;1
+inject	VB;;5
+represent	VB;;30	VBP;;12
+buttress	VB;;3
+construct	VB;;5
+characterize	VB;;3
+create	VB;;54	VBP;;10
+understand	VB;;30	VBP;;11
+tolerate	VB;;3
+emphasize	VB;;3	VBP;;1
+spend	VB;;59	VBP;;16
+invade	VB;;3
+solidify	VB;;3
+nullify	VB;;3	VBP;;1
+thwart	VB;;8
+conform	VB;;9	VBP;;1
+assure	VB;;5
+tackle	VB;;7	VBP;;1
+buy	VB;;339	VBP;;36	JJ;;7	NN;;24
+enjoy	VB;;9	VBP;;4
+persuade	VB;;12
+loosen	VB;;6
+enter	VB;;23	VBP;;5
+streamline	VB;;9
+regulate	VB;;6
+reorganize	VB;;3
+resist	VB;;8
+improve	VB;;54	VBP;;2
+protect	VB;;39	VBP;;2
+escape	VB;;10	NN;;1
+establish	VB;;27
+reinvest	VB;;3
+accommodate	VB;;12
+hear	VB;;22	VBP;;7
+reconsider	VB;;10
+sing	VB;;3
+rescind	VB;;5
+impose	VB;;22
+require	VB;;62	VBP;;17
+detect	VB;;5
+amend	VB;;4
+communicate	VB;;3
+garner	VB;;4
+invest	VB;;38	VBP;;4
+follow	VB;;39	VBP;;7
+induce	VB;;11
+arise	VB;;4	VBP;;1
+capitalize	VB;;6
+alter	VB;;5	VBP;;2	NNP;;1
+teach	VB;;7	VBP;;2
+generate	VB;;18	VBP;;2
+strengthen	VB;;18	VBP;;1
+aggravate	VB;;3	VBP;;1
+succeed	VB;;25	VBP;;2
+exceed	VB;;16	VBP;;7
+discourage	VB;;8	VBP;;3
+spur	VB;;12	NN;;2
+subscribe	VB;;5	VBP;;2
+enact	VB;;9
+appease	VB;;4
+disturb	VB;;3
+elaborate	VB;;19	JJ;;7
+replace	VB;;36	VBP;;2
+pursue	VB;;29
+participate	VB;;22	VBP;;1
+avert	VB;;3
+leave	VB;;47	VBP;;12	NN;;5
+settle	VB;;36	VBP;;1
+melt	VB;;3
+pretend	VB;;3	JJ;;1
+uncover	VB;;3
+concentrate	VB;;13	VBP;;1	NN;;2
+oust	VB;;8
+enable	VB;;12	VBP;;2
+prevail	VB;;8	VBP;;1
+exploit	VB;;8
+resell	VB;;3	VBP;;1
+prompt	VB;;8	JJ;;2
+refuse	VB;;7	VBP;;3	NN;;1
+speculate	VB;;10	VBP;;3
+reduce	VB;;123	VBP;;3
+qualify	VB;;8	VBP;;1
+jeopardize	VB;;6
+backfire	VB;;3	VBP;;1
+alert	VB;;4	NN;;1	NNP;;1
+continue	VB;;169	VBP;;37
+soften	VB;;9
+wipe	VB;;4	VBP;;1
+dispose	VB;;5
+bother	VB;;5	VBP;;1
+fail	VB;;15	VBP;;6
+bring	VB;;62	VBP;;10
+handle	VB;;39	VBP;;4
+restructure	VB;;15	NN;;1
+convince	VB;;8
+contribute	VB;;11	VBP;;5
+defend	VB;;17	VBP;;3
+whack	VB;;3	NN;;1
+retain	VB;;20	VBP;;3
+hamper	VB;;4
+perform	VB;;15	VBP;;2
+pose	VB;;4	VBP;;1
+float	VB;;4	VBP;;1	NN;;1
+compensate	VB;;8
+re-examine	VB;;3
+happen	VB;;41	VBP;;3
+upgrade	VB;;7	NN;;1
+celebrate	VB;;4	VBP;;1
+throw	VB;;14	VBP;;2
+modify	VB;;3
+help	VB;;163	VBP;;12	NN;;44
+intervene	VB;;7
+publish	VB;;17
+launch	VB;;24	NN;;9
+renegotiate	VB;;3
+look	VB;;84	VBP;;39	NN;;30
+endanger	VB;;3
+liberalize	VB;;3	VBP;;1
+infuse	VB;;3
+quell	VB;;4
+win	VB;;53	VBP;;7
+grab	VB;;5	VBP;;1	NN;;1	NNP;;1
+distinguish	VB;;7
+capture	VB;;3	NN;;1
+hinder	VB;;3
+articulate	VB;;3
+eat	VB;;12
+govern	VB;;8	VBP;;2
+persist	VB;;3
+mean	VB;;43	VBP;;10	NN;;3	JJ;;3
+reassure	VB;;3
+seek	VB;;67	VBP;;10
+explain	VB;;24	VBP;;2
+make	VB;;377	VBP;;82	NNP;;2
+depend	VB;;10	VBP;;4
+shoot	VB;;4	VBP;;1	NN;;1
+join	VB;;33	VBP;;1
+shake	VB;;10	VBP;;1	NN;;2	NNP;;1
+commercialize	VB;;3
+fend	VB;;8
+solve	VB;;13
+file	VB;;27	VBP;;2	NN;;8
+fill	VB;;16	VBP;;1	NN;;1
+abandon	VB;;13	VBP;;1
+revive	VB;;20
+pare	VB;;3
+declare	VB;;6	VBP;;1
+serve	VB;;25	VBP;;8
+override	VB;;7	NN;;2
+remove	VB;;23
+scuttle	VB;;8
+reverse	VB;;8	NN;;1
+spell	VB;;3
+deliver	VB;;23	VBP;;1
+swallow	VB;;3
+curtail	VB;;6	VBP;;1
+abolish	VB;;5
+add	VB;;53	VBP;;11
+match	VB;;18	VBP;;3	NN;;6	NNP;;1
+propel	VB;;3
+violate	VB;;9	VBP;;2
+worsen	VB;;4
+endorse	VB;;3	VBP;;1
+install	VB;;10
+confuse	VB;;3
+depress	VB;;5	VBP;;2
+restrict	VB;;18	VBP;;2
+announce	VB;;14	VBP;;1
+watch	VB;;13	VBP;;5	NN;;5
+erupt	VB;;3
+transform	VB;;13
+subsidize	VB;;4
+emerge	VB;;10	VBP;;1
+cope	VB;;11
+specify	VB;;13
+adopt	VB;;18	VBP;;1
+mount	VB;;7	VBP;;2	NNP;;3
+admit	VB;;7	VBP;;3
+disrupt	VB;;8
+promote	VB;;23
+notify	VB;;4	VBP;;1
+investigate	VB;;6
+advise	VB;;9	VBP;;1
+analyze	VB;;6	VBP;;1
+highlight	VB;;6	NN;;2
+wrestle	VB;;3
+plead	VB;;9
+privatize	VB;;4
+restrain	VB;;4
+flee	VB;;7
+overturn	VB;;3
+obtain	VB;;33	VBP;;1
+linger	VB;;4	NNP;;1
+calculate	VB;;5	VBP;;1
+hold	VB;;65	VBP;;25	NN;;14
+sweeten	VB;;3
+hammer	VB;;3	NN;;1
+distribute	VB;;6	VBP;;1
+ease	VB;;41	NN;;3
+reopen	VB;;17
+destroy	VB;;10	VBP;;1
+borrow	VB;;17	VBP;;5
+spark	VB;;12	NN;;2
+consider	VB;;77	VBP;;19
+adjust	VB;;10	VBP;;3
+condemn	VB;;3
+refrain	VB;;3	NN;;1
+approve	VB;;20	VBP;;2
+submit	VB;;8	VBP;;1
+fulfill	VB;;7	VBP;;1
+receive	VB;;64	VBP;;12
+weaken	VB;;16	VBP;;1
+disband	VB;;3
+terminate	VB;;6
+withstand	VB;;5
+unravel	VB;;4
+legitimize	VB;;4
+conserve	VB;;5
+expand	VB;;50	VBP;;1
+combine	VB;;11	VBP;;1
+revise	VB;;6
+dismantle	VB;;3
+ponder	VB;;3	VBP;;1
+widen	VB;;8	VBP;;1
+shrink	VB;;9
+discover	VB;;5	VBP;;2	NNP;;1
+write	VB;;24	VBP;;3
+discuss	VB;;31	VBP;;2
+accomplish	VB;;8
+recover	VB;;17	VBP;;2
+coordinate	VB;;10
+inflict	VB;;4
+repay	VB;;13
+revoke	VB;;7
+sustain	VB;;7
+intensify	VB;;6
+deter	VB;;7	VBP;;1
+draw	VB;;24	VBP;;1	NN;;3
+resign	VB;;11
+undo	VB;;5
+punish	VB;;4
+contain	VB;;7	VBP;;3
+recoup	VB;;7
+reinforce	VB;;7	VBP;;1
+maximize	VB;;4
+restore	VB;;12
+bolster	VB;;23
+devise	VB;;3
+permit	VB;;18	VBP;;2	NN;;1
+circumvent	VB;;3
+defer	VB;;7
+maintain	VB;;42	VBP;;17
+overcome	VB;;11	VBP;;1	VBN;;1
+extract	VB;;5	NN;;1
+retire	VB;;10	VBP;;1
+commit	VB;;9	VBP;;2
+materialize	VB;;5
+wait	VB;;23	VBP;;3	NN;;2
+fly	VB;;11	VBP;;4	NN;;2
+dominate	VB;;10
+pay	VB;;217	VBP;;21	NN;;39	NNP;;1
+mop	VB;;3
+unload	VB;;6	VBP;;1
+forget	VB;;7	VBP;;1
+build	VB;;103	VBP;;12	VBN;;1
+find	VB;;103	VBP;;25
+resolve	VB;;21	NN;;6
+please	VB;;6	RB;;1
+raise	VB;;109	VBP;;10	NN;;10
+redeem	VB;;9
+accelerate	VB;;9
+eliminate	VB;;26	VBP;;1
+lend	VB;;11	VBP;;5
+arrange	VB;;11
+sink	VB;;3	VBP;;1	NN;;1
+mention	VB;;12	VBP;;1	NN;;5
+postpone	VB;;10	VBP;;1
+steal	VB;;7
+facilitate	VB;;4	VBP;;1
+gather	VB;;9	VBP;;1
+beat	VB;;10	VBP;;2	NN;;4	JJ;;1	VBD;;3
+accrue	VB;;3
+tighten	VB;;5	VBP;;1
+heed	VB;;3	NN;;1
+convey	VB;;4
+regain	VB;;8	VBP;;1
+expire	VB;;16	VBP;;3
+buckle	VB;;4
+lure	VB;;6	NN;;1
+catch	VB;;19	NN;;2
+muster	VB;;4	NN;;1
+trim	VB;;10	VBP;;1	JJ;;2	NNP;;1
+suspend	VB;;8
+lighten	VB;;3
+come	VB;;127	VBP;;23	VBN;;54	VBD;;5
+reimburse	VB;;6	VBP;;1
+minimize	VB;;8
+kill	VB;;17	VBP;;1	NN;;1
+deduct	VB;;5
+determine	VB;;25	VBP;;3
+stick	VB;;5	VBP;;1	NN;;1
+undertake	VB;;3
+reach	VB;;50	VBP;;6	NN;;6	NNP;;1
+dump	VB;;16	VBP;;3
+heighten	VB;;3
+negotiate	VB;;18	VBP;;1
+ignore	VB;;12	VBP;;4
+modernize	VB;;6
+prop	VB;;4	NN;;1
+prod	VB;;5
+apply	VB;;21	VBP;;1
+cooperate	VB;;9
+tap	VB;;8
+choose	VB;;17	VBP;;5
+deny	VB;;14	VBP;;3
+penetrate	VB;;5
+sleep	VB;;7	NN;;1
+call	VB;;13	VBP;;1	NN;;2
+type	VB;;6	VBP;;1
+tell	VB;;18	VBP;;6
+want	MD;;1	VB;;29	VBP;;12
+adduser	VB;;3
+vote	VB;;3
+watch	VB;;5	VBP;;1
+make	VB;;22	VBP;;8
+contact	VB;;3
+git	VB;;3
+happen	VB;;5	VBP;;1
+check	VB;;4
+welcome	VB;;13	UH;;6	JJ;;1
+dance	VB;;4	NN;;1
+join	VB;;683
+die	VB;;8
+wait	VB;;8
+visit	VB;;4
+perv	VB;;5	NN;;2
+suck	VB;;4	VBP;;1
+talk	VB;;30	VBP;;4	NN;;3
+thank	VB;;8
+care	VB;;4	VBP;;1	NN;;1
+hug	VB;;11	UH;;1	NN;;1
+take	VB;;17	VBP;;8
+get	VB;;56	VBP;;14
+come	VB;;19	VBP;;1	VBN;;2	UH;;1
+kill	VB;;9	VBP;;1
+read	VB;;5
+start	VB;;3	VBP;;1
+smooch	VB;;4
+pass	VB;;3
+pick	VB;;5
+scramble	VB;;3
+help	VB;;6
+leave	VB;;8	VBP;;2
+imagine	VB;;3	VBP;;1
+put	VB;;8	VBP;;1
+part	VB;;688	NN;;5
+play	VB;;13	VBP;;3
+find	VB;;11	VBP;;1
+hit	VB;;4	VBD;;1
+pm	VB;;79	JJ;;9	NN;;13
+look	VB;;14	VBP;;2
+cut	VB;;3
+be	VB;;67
+run	VB;;3	VBP;;1	NN;;1
+chat	VB;;88	VBP;;1	NN;;12
+go	VB;;32	VBP;;14
+send	VB;;4	VBP;;1
+sing	VB;;4
+use	VB;;3	VBP;;1
+fuck	VB;;8
+stop	VB;;16	NN;;2
+kiss	VB;;5	NN;;1
+shut	VB;;7	VBN;;1
+keep	VB;;5	VBP;;1
+turn	VB;;3
+bring	VB;;3
+beat	VB;;3
+swim	VB;;3
+walk	VB;;3
+laugh	VB;;3	NN;;1
+kick	VB;;5
+eat	VB;;11	VBP;;2
+stay	VB;;8	VBP;;1

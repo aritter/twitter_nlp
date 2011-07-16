@@ -1,0 +1,2887 @@
+refunding	VBG;;1	NN;;4	JJ;;1
+appropriation	NN;;3
+cooking	VBG;;1	NN;;5	JJ;;1
+controversy	NN;;20
+neurologist	NN;;3
+projection	NN;;5
+music	NN;;46	NNP;;4
+sentencing	VBG;;2	NN;;6
+pigment	NN;;4
+concurrence	NN;;3
+estimate	VB;;10	VBP;;19	NN;;64	NNP;;4
+chlorine	NN;;5
+service	VB;;5	NN;;179	NNP;;71
+master	VB;;1	NN;;18	NNP;;2
+regulator	NN;;12	NNP;;1
+dozen	NN;;26	NNP;;1
+plate	NN;;11
+shape	VB;;6	VBP;;2	NN;;13
+patch	VB;;1	NN;;3
+discipline	NN;;18
+nature	NN;;25	NNP;;4
+extent	NN;;32
+heating	VBG;;2	NN;;10
+disk-drive	NN;;4
+split	VB;;4	VBN;;5	NN;;36	VBD;;6
+academia	NN;;4
+hat	NN;;7
+survival	NN;;7
+shadow	VB;;2	NN;;9	NNP;;1
+crowd	VBP;;1	NN;;19	NNP;;6
+bottom	VB;;1	JJ;;10	NN;;23
+one-fourth	NN;;4
+fabric	NN;;7
+greatness	NN;;3
+passenger	NN;;13
+role	NN;;116
+intent	JJ;;3	NN;;23
+chain	VBP;;1	NN;;72
+chair	NN;;12
+oversight	NN;;12	NNP;;3
+choice	JJ;;2	NN;;32
+minute	NN;;9	JJ;;2
+ground	NNP;;2	VBN;;2	NN;;47	VBD;;2
+influx	NN;;5
+abortion	NN;;87	NNP;;3
+ounce	NN;;26
+reassessment	NN;;3
+suspension	NN;;23
+drilling	VBG;;3	NN;;14	NNP;;2
+quarter	NN;;660
+receipt	NN;;3
+sponsor	VB;;1	VBP;;1	NN;;9
+neglect	NN;;5
+emotion	NN;;6
+shakeup	NN;;3
+illness	NN;;5
+borough	NN;;12	NNP;;1
+concern	VB;;2	NN;;250
+printer	NN;;9
+immigration	NN;;3
+subsidiary	JJ;;3	NN;;110
+vision	NN;;10	NNP;;4
+bankruptcy-court	JJ;;1	NN;;4
+workplace	NN;;5	JJ;;1
+allowance	NN;;6
+containment	NN;;3	NNP;;1
+newspaper	NN;;74	NNP;;1
+situation	NN;;82
+technology	NN;;123	NNP;;39
+advertisement	NN;;4
+temblor	NN;;13
+traffic	NN;;35	NNP;;2
+preference	NN;;10
+world	NN;;254	NNP;;85
+superiority	NN;;3
+leadership	NN;;33	NNP;;1
+restoration	NN;;3	NNP;;1
+rush	VB;;4	VBP;;2	NN;;11	NNP;;2
+rage	VB;;1	NN;;6
+pulp	NN;;21	NNP;;2
+cream	NN;;5	NNP;;1
+sand	NN;;15	NNP;;1
+investment	JJ;;1	NN;;345	NNP;;66
+menswear	NN;;3
+clock	NN;;7
+criminality	NN;;3
+experience	VB;;5	VBP;;2	NN;;46
+cessation	NN;;3
+skepticism	NN;;6
+attendance	NN;;6
+fragrance	NN;;5
+door	NN;;20	NNP;;1
+company	NN;;1823	NNP;;15
+perception	NN;;17
+paper	NNS;;1	NN;;132	NNP;;27
+repayment	NN;;7
+operation	NN;;83
+research	VB;;1	NN;;172	NNP;;47
+definition	NN;;12
+sequester	NN;;5
+self	NN;;3
+virus	NN;;6
+barrel	NN;;21
+bulletin	NN;;5	NNP;;2
+occupation	NN;;5
+cassette	NN;;5
+distraction	NN;;3
+tanker	NN;;7
+prospectus	NN;;8
+connection	NN;;27
+adaptation	NN;;3
+improvement	NN;;43
+lender	NN;;9
+satire	NN;;3
+moderation	NN;;4
+emergency	NN;;41	NNP;;3
+couple	NN;;40	JJ;;1
+bureaucrat	NN;;5
+emergence	NN;;4
+chorus	NN;;5
+contributor	NN;;3
+maturity	NN;;33
+revision	NN;;5	NNP;;1
+suppression	NN;;4
+reinsurance	NN;;19
+land	VB;;2	VBP;;1	NN;;60	NNP;;11
+deficit	NN;;120
+real-estate	JJ;;5	NN;;63
+landfill	NN;;5
+turnaround	NN;;23
+tuition	NN;;7
+survey	VB;;2	NN;;48	NNP;;3
+maker	NN;;220
+confidence	NN;;49
+comparison	NN;;20
+baby	NN;;15	NNP;;5
+customer	NN;;75
+wedge	VB;;1	NN;;4
+process	VB;;3	VBP;;2	NN;;108
+comedy	NN;;18	NNP;;1
+testimony	NN;;27
+robot	NN;;4
+meantime	RB;;3	NN;;13
+shortage	NN;;17
+deficiency	NN;;4
+witness	VB;;1	NN;;9	NNP;;1
+incompetence	NN;;3
+length	NN;;10
+ratification	NN;;3
+scene	NN;;22
+enforcement	NN;;18	NNP;;5
+tonight	RB;;2	NN;;9	NNP;;1
+greenhouse	NN;;9
+terminal	NN;;9	JJ;;2	NNP;;1
+tape	VB;;1	VBP;;1	NN;;29
+prohibition	NN;;4	NNP;;1
+stuff	VBP;;2	NN;;22
+frame	NN;;3
+lawsuit	NN;;34
+doorway	NN;;3
+identity	NN;;9
+audit	VB;;1	NN;;11	NNP;;1
+credibility	NN;;23
+monetarist	NN;;4
+passion	NN;;7
+pressure	VB;;5	VBP;;1	NN;;106
+documentary	NN;;4
+swimming	VBG;;1	NN;;4
+excitement	NN;;10
+problem	NN;;189
+illusion	NN;;6
+exposure	NN;;28
+integrity	NN;;15
+investigator	NN;;6
+protection	NN;;66	NNP;;9
+plot	NN;;10
+ploy	NN;;3
+era	NN;;14	NNP;;4
+recovery	NN;;54	NNP;;2
+resignation	NN;;42
+ladder	NN;;3
+production	NN;;214	NNP;;1
+coffee	NN;;22	NNP;;2
+roommate	NN;;3
+sack	NN;;3
+masseuse	NN;;4
+slew	NN;;3
+barrier	NN;;4	NNP;;1
+baseman	NN;;3
+cereal	NN;;10
+guilt	NN;;3
+bracket	NN;;5
+cooperation	NN;;17	NNP;;1
+handful	NN;;23
+kitchen	NN;;7
+tone	NN;;22
+hospitalization	NN;;3
+tissue	NN;;12
+hand	VB;;1	RB;;1	NN;;85
+client	NN;;51
+trainer	NN;;5
+night	NN;;73	NNP;;12
+participation	NN;;23
+profession	NN;;7
+attorney	NN;;85	NNP;;20
+conservation	NN;;8	NNP;;2
+wrongdoing	NN;;4
+catalyst	NN;;9	NNP;;1
+boon	NN;;4
+request	VB;;2	NN;;42
+expertise	NN;;10
+test	VB;;8	NN;;54
+concept	NN;;27
+battle	VBP;;1	NN;;76	NNP;;10
+gun	NN;;6
+gut	NN;;4
+guy	NN;;29	NNP;;6
+cost	VB;;47	VBP;;3	VBN;;3	NN;;156	VBD;;10
+yard	NN;;5
+dialysis	NN;;5
+discussion	NN;;18
+economy	NN;;253	NNP;;1
+product	NN;;184
+no.	VB;;1	JJ;;1	NN;;50	NNP;;3
+drop	VB;;40	VBP;;5	NN;;179	NNP;;1
+year	NN;;1751	NNP;;1
+transition	NN;;10
+ring	VB;;1	VBP;;1	NN;;6
+tomorrow	NN;;56	NNP;;2
+equipment	NN;;116	NNP;;23
+attractiveness	NN;;4
+reform	VB;;3	NN;;35	NNP;;4
+incinerator	NN;;3
+burst	NN;;6	VBD;;1
+staffer	NN;;3
+import	VB;;3	VBP;;2	NN;;25
+dictator	NN;;5
+masonry	NN;;3
+misanthrope	NN;;3
+inquiry	NN;;16	NNP;;2
+foam	NN;;4
+taxi	NN;;5
+foot	VBP;;1	NN;;20	NNP;;1
+laundering	NN;;3
+fortune	NN;;8	NNP;;3
+output	NN;;61
+assembly	NN;;32	NNP;;8
+ideology	NN;;5
+antibody	NN;;9
+outlook	NN;;42
+intervention	NN;;14
+pitcher	NN;;3
+know-how	NN;;6
+fraud	NN;;38	NNP;;2
+default	VB;;3	NN;;23
+pool	NN;;16	NNP;;3
+month	NN;;426	NNP;;1
+corps	NN;;4	NNP;;1
+horror	NN;;4
+arena	NN;;4
+conviction	NN;;15
+oil-field	JJ;;1	NN;;3
+fast-food	JJ;;1	NN;;21
+outpatient	NN;;3
+publicist	NN;;3
+phrase	NN;;6
+clarinet	NN;;3
+evening	NN;;25	NNP;;2
+cable-television	NN;;3
+safety	NN;;43	NNP;;10
+dishwasher	NN;;3
+horse	NN;;17	NNP;;1
+station	NN;;30	NNP;;4
+divestiture	NN;;9
+phenomenon	NN;;12
+grocery	NN;;9
+retaliation	NN;;4
+hype	NN;;6
+culture	NN;;37	NNP;;11
+stagnation	NN;;3
+spray	NN;;3
+vault	NN;;3
+pact	NN;;37	NNP;;6
+pace	NN;;38	NNP;;7
+guide	VB;;4	NN;;14	NNP;;4
+softness	NN;;9
+quote	VB;;1	VBP;;1	NN;;4
+cable-tv	NN;;10
+injection	NN;;4
+investment-banking	JJ;;2	NN;;5
+application	NN;;17
+e	NN;;3	NNP;;1
+orbit	NN;;3
+wave	NN;;27
+fabrication	NN;;3
+gene	NN;;53	NNP;;4
+buildup	NN;;4
+camera	NN;;9	NNP;;1
+rivalry	NN;;3
+recession	NN;;59
+farm	VB;;1	NN;;24	NNP;;5
+box-office	NN;;3
+slide	VB;;4	NN;;50
+luxury-car	NN;;6
+bloodbath	NN;;3
+vengeance	NN;;4
+gallery	NN;;14	NNP;;3
+tobacco	NN;;23
+widow	NN;;3
+nightmare	NN;;6
+cent	NN;;13
+smoking	VBG;;1	NN;;6
+destruction	NN;;7
+rift	NN;;5
+disappearance	NN;;4
+loss	NN;;316
+glare	NN;;3
+loan-guarantee	NN;;3
+library	NN;;7	NNP;;1
+home	RB;;9	NN;;204	NNP;;61
+refuge	NN;;5	NNP;;1
+ultrasound	NN;;3
+gain	VB;;26	VBP;;2	NN;;148
+display	VB;;3	VBP;;2	NN;;19
+marketplace	NN;;25	NNP;;1
+education	NN;;45	NNP;;8
+spokesman	NN;;269
+niche	NN;;13
+intrigue	NN;;3
+disruption	NN;;7
+room	NN;;73
+roof	NN;;3
+autonomy	NN;;3
+loyalty	NN;;12
+windshield	NN;;3
+crew	NN;;8
+combination	NN;;26
+magnate	NN;;5
+curator	NN;;4
+wage	NN;;62
+trading	VBG;;106	JJ;;1	NN;;796	NNP;;15
+user	NN;;9
+downside	JJ;;1	NN;;5
+database	NN;;6
+bitterness	NN;;3
+quarterback	NN;;4
+scotch	NN;;4	NNP;;1
+probe	VBP;;1	NN;;18
+supplier	NN;;19
+troop	NN;;5
+cousin	NN;;3
+deregulation	NN;;6
+uncertainty	NN;;51
+aftermath	NN;;15
+basis	NN;;88
+stock-market	JJ;;5	NN;;22
+buy-out	JJ;;9	NN;;154
+deal	VB;;22	VBP;;3	NN;;178	NNP;;4
+confrontation	NN;;10
+magazine	NN;;122	NNP;;9
+afternoon	NN;;60
+editor	NN;;30	NNP;;2
+fraction	NN;;5
+landing	VBG;;1	NN;;10	NNP;;1
+analyst	NN;;238	NNP;;1
+one-third	RB;;1	JJ;;7	NN;;23
+handicap	VB;;1	NN;;3
+journey	NN;;3	NNP;;1
+weekend	NN;;69	NNP;;2
+jacket	NN;;3
+anticipation	NN;;18
+swoon	NN;;4
+father	NN;;29	NNP;;5
+sovereignty	NN;;5
+adviser	NN;;50	NNP;;1
+round	VB;;2	JJ;;1	NN;;23
+filler	NN;;3
+box	NN;;9	NNP;;3
+boy	UH;;1	NN;;6
+transplant	VB;;1	NN;;5
+estate	NN;;153	NNP;;30
+hazardous-waste	NN;;6	JJ;;1
+membership	NN;;24	NNP;;2
+basket	NN;;30	NNP;;1
+policy	NN;;188	NNP;;9
+lunch	VB;;1	NN;;16
+bailout	NN;;39
+memo	NN;;11
+pastry	NN;;4
+performance	NN;;119	NNP;;3
+barrage	NN;;4
+enthusiasm	NN;;6
+awareness	NN;;5
+gem	NN;;3
+morning	NN;;101	NNP;;8
+seat	NN;;24
+label	NN;;10
+infrastructure	NN;;8
+about-face	NN;;3
+wake	VBP;;2	NN;;32
+declaration	NN;;7	NNP;;2
+sleeping	VBG;;1	NN;;4	NNP;;1
+strain	VB;;1	NN;;6
+protein	NN;;8
+aerobics	NN;;3
+companion	JJ;;1	NN;;5	NNP;;1
+leeway	NN;;8
+flavor	NN;;6
+dock	NN;;5
+fitness	NN;;10	NNP;;3
+coupon	NN;;36
+imagination	NN;;5
+founder	NN;;29
+commute	NN;;7
+perspective	NN;;12	NNP;;4
+resemblance	NN;;4
+hour	NN;;75
+biography	NN;;3
+shareholding	NN;;3
+mystery	NN;;9
+evaluation	NN;;10
+charm	NN;;3
+merger	NN;;82	NNP;;1
+breast	NN;;4
+expert	JJ;;3	NN;;12
+point	VB;;7	VBP;;14	NN;;191	NNP;;3
+politician	NN;;7
+century	NN;;38	NNP;;4
+ethylene	NN;;10
+development	NN;;116	NNP;;54
+task	NN;;36	NNP;;4
+cup	NN;;7	NNP;;1
+source	NN;;95	NNP;;1
+cue	NN;;3
+delegation	NN;;8
+culprit	NN;;4
+decision	NN;;164
+cloud	NN;;4
+retailer	NN;;34
+planet	NN;;5
+nervousness	NN;;11
+microprocessor	NN;;10	NNP;;1
+talent	NN;;11
+defendant	NN;;22
+profile	VB;;1	NN;;6
+cease-fire	NN;;8
+explanation	NN;;18
+nobody	NN;;36
+incentive	NN;;19
+payment	NN;;66
+disease	NN;;23
+occasion	VB;;1	NN;;4
+knowledge	NN;;13
+monopoly	NN;;7
+intensity	NN;;4
+liberalization	NN;;5
+imposition	NN;;3
+brunt	NN;;3
+joke	NN;;6
+partner	NN;;84	NNP;;1
+productivity	NN;;20	NNP;;1
+recourse	NN;;4
+builder	NN;;3
+hair	NN;;11
+recommendation	NN;;11
+jurisprudence	NN;;3
+discretion	NN;;6
+beneficiary	NN;;3
+insurer	NN;;16
+sequel	NN;;4
+propylene	NN;;3
+corporation	NN;;30
+detail	NN;;16
+appetite	NN;;9
+school	NN;;70	NNP;;27
+patience	NN;;5
+advocacy	NN;;4
+hemoglobin	NN;;3
+ceremony	NN;;4
+toxin	NN;;11
+pullout	NN;;4
+plumbing	NN;;5
+counterterrorism	NN;;3
+independence	NN;;16	NNP;;1
+soda	NN;;8
+researcher	NN;;14
+insulation	NN;;6
+lunchtime	NN;;4
+spite	NN;;4
+borrower	NN;;4
+mud	NN;;4
+finger	VB;;1	NN;;5
+discovery	NN;;11
+news	NNS;;1	NN;;234	NNP;;74
+fault	NN;;12	NNP;;2
+expense	NN;;27
+exhibit	NN;;7
+conference	NN;;84	NNP;;9
+unemployment	NN;;29
+tactic	NN;;6
+rumor	NN;;7
+election	NN;;49
+newsprint	NN;;15
+newcomer	NN;;3
+dinner	NN;;11
+bath	NN;;3
+regime	NN;;18
+picture	VBP;;1	NN;;41	NNP;;2
+football	NN;;35	NNP;;12
+row	VB;;1	NN;;16	NNP;;1
+clarification	NN;;5
+passage	NN;;12
+level	VB;;2	JJ;;3	NN;;189
+pork	NN;;14
+trend	VB;;2	NN;;42	NNP;;2
+injunction	NN;;21
+witch	NN;;3
+bribery	NN;;5
+crisis	NN;;51
+prey	VBP;;1	NN;;3
+today	RB;;1	NN;;264	NNP;;7
+nursing	VBG;;1	NN;;7	NNP;;1
+figure	VB;;6	VBP;;8	NN;;49
+critic	NN;;9
+representation	NN;;6
+fallout	NN;;6	NNP;;1
+platform	NN;;7
+farmer	NN;;23	NNP;;1
+loophole	NN;;3
+regulation	NN;;32	NNP;;1
+turf	JJ;;1	NN;;5
+continent	NN;;5	NNP;;1
+legacy	NN;;5
+donation	NN;;4
+jazz	NN;;4
+subcompact	NN;;4
+contract	VB;;1	VBP;;1	NN;;271	NNP;;1
+period	NN;;243	NNP;;1
+subscriber	NN;;3
+direction	NN;;50
+spirit	NN;;13	NNP;;1
+pilot	JJ;;2	NN;;21
+case	NN;;288	NNP;;1
+cash	VB;;4	NN;;290	NNP;;2
+refinery	NN;;16	NNP;;1
+participant	NN;;6
+author	NN;;20
+status	NN;;24	FW;;1
+director	NN;;217	NNP;;22
+statue	NN;;4	NNP;;1
+relief	NN;;35	NNP;;2
+inability	NN;;13
+influence-peddling	NN;;3
+towel	NN;;6
+erosion	NN;;4
+competition	NN;;101
+depletion	NN;;4
+relocation	NN;;8	NNP;;3
+fastball	NN;;5
+mischief	NN;;4
+photography	NN;;11	NNP;;2
+immunity	NN;;4
+wife	NN;;44
+directory	NN;;4	NNP;;1
+shortfall	NN;;6
+apartment	NN;;18
+dairy	NN;;5
+infringement	NN;;8
+list	VB;;2	NN;;53
+negotiator	NN;;5
+sum	VB;;1	NN;;10
+version	NN;;53	NNP;;4
+tragedy	NN;;5
+high-school	NN;;6	JJ;;2
+arms-control	JJ;;1	NN;;4
+flap	NN;;4
+flag	NN;;17
+adventure	NN;;6
+balloon	VB;;2	NN;;14	NNP;;1
+bout	NN;;5
+somebody	NN;;13
+schoolteacher	NN;;3
+weight	VB;;1	NN;;23	NNP;;1
+alcohol	NN;;7	NNP;;1
+leverage	VB;;1	NN;;28
+story	NN;;64	NNP;;2
+automobile	NN;;10	NNP;;4
+storm	NN;;15
+store	VB;;5	VBP;;2	NN;;54	NNP;;2
+mainstay	JJ;;1	NN;;7
+kind	RB;;2	JJ;;1	NN;;86	NNP;;1
+motivation	NN;;6
+precaution	NN;;3
+defense	NN;;133	NNP;;33
+mismatch	NN;;3
+viewership	NN;;3
+solo	NN;;6	RB;;1	JJ;;1
+franchisee	NN;;6
+distress	NN;;3
+sweep	VB;;2	NN;;8
+village	NN;;7	NNP;;3
+flight	NN;;45	NNP;;3
+precision	NN;;5	NNP;;1
+demand	VB;;13	VBP;;11	NN;;155
+demon	NN;;5
+obstacle	NN;;13
+restraint	NN;;9
+machinery	NN;;17	NNP;;3
+turbulence	NN;;10
+advocate	VB;;1	VBP;;1	NN;;4
+cogeneration	NN;;3
+bankruptcy-law	NN;;19
+vaccine	NN;;13
+pipeline	NN;;33	NNP;;3
+range	VB;;3	VBP;;8	NN;;80	NNP;;1
+reassurance	NN;;3
+coordinator	NN;;4
+rally	VB;;8	VBP;;1	NN;;92	NNP;;18
+peace	NN;;20
+meaning	VBG;;3	NN;;9
+fertilizer	NN;;3
+gang	NN;;7
+theorist	NN;;3
+confirmation	NN;;10
+mainstream	JJ;;2	NN;;8	NNP;;1
+malice	NN;;3
+folk	NN;;5
+degree	NN;;22
+duck	NN;;9	NNP;;1
+examination	NN;;10	NNP;;1
+timetable	NN;;11
+syndrome	NN;;8
+normalcy	NN;;3
+tenure	NN;;9
+holiday	NN;;9	NNP;;4
+ambition	NN;;3
+successor	NN;;15
+sentiment	NN;;19
+chaos	NN;;13
+embryo	NN;;10
+trespassing	NN;;3
+feat	NN;;5
+litigation	NN;;35	NNP;;15
+massacre	NN;;16	NNP;;1
+burglary	NN;;4
+requirement	NN;;10
+favor	VB;;6	VBP;;11	NN;;28
+chairmanship	NN;;3
+identification	NN;;3
+ability	NN;;69
+job	NN;;104
+takeover	NN;;212
+trademark	NN;;3
+arbitrator	NN;;7
+scrutiny	NN;;8
+speculator	NN;;4
+warming	VBG;;2	NN;;5
+correspondent	NN;;5
+usage	NN;;5
+press	VB;;20	VBP;;1	NN;;65	NNP;;22
+parity	NN;;9
+employment	NN;;40	NNP;;4
+receivership	NN;;4
+pasta	NN;;7
+carrier	NN;;53
+outset	NN;;7
+weather	VB;;2	NN;;19
+promise	VB;;1	VBP;;2	NN;;18	NNP;;1
+spiral	NN;;7
+volume	NN;;205
+conclusion	NN;;17
+down-payment	NN;;5
+electricity	NN;;16
+similarity	NN;;3
+prize	NN;;5	NNP;;2
+succession	NN;;6
+charter	JJ;;1	NN;;18	NNP;;7
+budget	NN;;143	NNP;;39
+substance	NN;;10
+cheating	VBG;;1	NN;;3
+household	JJ;;1	NN;;24	NNP;;1
+artillery	NN;;3
+damage	VB;;2	NN;;143
+machine	NN;;72
+wing	NN;;4
+wine	NN;;5
+restriction	NN;;8
+silver	JJ;;2	NN;;15
+semiconductor	NN;;16	NNP;;3
+strategist	NN;;18
+cholesterol	NN;;13
+devastation	NN;;4
+collapse	VB;;6	NN;;52
+wisdom	NN;;14
+person	NN;;52
+aftershock	NN;;5
+letter	NN;;90	NNP;;2
+drought	NN;;8
+morality	NN;;3
+episode	NN;;10
+professor	NN;;26	NNP;;4
+polypropylene	NN;;4
+bomb	NN;;4
+reactor	NN;;3
+copy	VB;;4	VBP;;1	NN;;20	NNP;;2
+menu	NN;;5
+theme	NN;;20
+disaster	NN;;40
+natural-gas	JJ;;1	NN;;6
+score	VBP;;1	NN;;8
+felony	NN;;7
+carbon	NN;;11
+life	NN;;155	NNP;;34
+child	NN;;31	NNP;;1
+presidency	NN;;11
+trustee	NN;;4
+restaurant	NN;;25	NNP;;1
+plight	NN;;7
+gridlock	NN;;8
+birth	NN;;9
+brokerage	NN;;126	NNP;;2
+despair	NN;;3
+stockholder	NN;;4
+accounting	VBG;;8	JJ;;1	NN;;41	NNP;;12
+dealer	NN;;35
+solicitation	NN;;3
+actor	NN;;11
+reorganization	NN;;53
+subway	NN;;5	NNP;;1
+team	VB;;1	NN;;105
+ipo	NN;;7
+forefront	NN;;3
+behalf	NN;;28
+winter	NNPS;;4	NN;;23	NNP;;3
+elephant	NN;;4
+spot	VB;;4	JJ;;1	NN;;26
+sideline	NN;;4
+date	VBP;;2	NN;;59
+attraction	NN;;3
+petition	VB;;1	NN;;9
+breakthrough	NN;;5
+canvas	NN;;4
+possibility	NN;;39
+intuition	NN;;3
+vote	VB;;28	NN;;67
+drugstore	NN;;5
+high-technology	NN;;4	JJ;;1
+maneuvering	VBG;;1	NN;;3
+refining	VBG;;2	NN;;8	NNP;;1
+surplus	JJ;;2	NN;;24
+deck	NN;;6
+index-arbitrage	JJ;;1	NN;;6
+surgery	NN;;19
+supermarket	NN;;7	NNP;;1
+deduction	NN;;4
+expression	NN;;4
+underwriting	VBG;;3	NN;;8
+vacation	NN;;4
+influence	VB;;7	VBP;;2	NN;;24
+brow	NN;;3
+weakness	NN;;54
+breakdown	NN;;11
+colony	NN;;18
+rhetoric	NN;;10
+pop	VB;;4	VBP;;1	JJ;;2	NN;;10
+tube	NN;;5
+standpoint	NN;;5
+industry	NN;;469	NNP;;21
+image	NN;;53
+ad	NN;;150	NNP;;5
+behest	NN;;3
+fairness	NN;;7	NNP;;2
+reasoning	NN;;4
+labor	NN;;80	NNP;;35
+condition	NN;;30
+section	,;;1	NN;;45	NNP;;5
+nurse	NN;;4
+microchip	NN;;3
+contrast	VB;;1	NN;;44
+backlash	NN;;6
+compliance	NN;;20	NNP;;1
+pico	NN;;4
+action	NN;;129	NNP;;3
+coercion	NN;;3
+homework	NN;;4
+science	NN;;16	NNP;;6
+sense	VB;;1	VBP;;3	NN;;74
+gallon	NN;;5
+information	NN;;118	NNP;;10
+countryside	NN;;5
+mapping	NN;;3
+misuse	NN;;3
+tro	NN;;8
+week	NN;;560	NNP;;5
+highway	NN;;26	NNP;;3
+refusal	NN;;7
+proxy	JJ;;2	NN;;5
+number	NN;;242
+protectionism	NN;;4
+relationship	NN;;47
+appreciation	NN;;22
+marriage	NN;;9
+plan	VB;;8	VBP;;27	NN;;320	NNP;;7
+session	NN;;84
+impact	VB;;1	NN;;97	NNP;;1
+indicator	NN;;16
+sex	NN;;20
+avoidance	NN;;3
+steelmaker	NN;;10
+roofing	NN;;5
+firm	VB;;2	JJ;;43	NN;;388
+fire	VB;;2	NN;;30	NNP;;5
+fund	VB;;16	VBP;;1	NN;;180	NNP;;61
+clearance	NN;;14
+location	NN;;22	NNP;;1
+homeland	NN;;4
+agreement	NN;;289	NNP;;4
+anything	NN;;98	NNP;;1
+bargaining	VBG;;1	NN;;10
+tally	NN;;4
+link	VB;;5	VBP;;2	NN;;16
+line	VB;;5	NN;;180	NNP;;19
+supervisor	NN;;8	NNP;;1
+mood	NN;;14
+summit	NN;;17
+urgency	NN;;6
+garden	VB;;1	NN;;32	NNP;;5
+index	NN;;300	NNP;;70
+bird	NN;;3
+leg	NN;;9
+insulin	NN;;10
+doubt	VB;;3	VBP;;10	RB;;1	NN;;33
+organized-crime	NN;;5
+animal	JJ;;4	NN;;10	NNP;;1
+notebook	NN;;10
+spill	VB;;1	NN;;11
+owner	NN;;54
+co-op	NN;;3
+steel	NN;;116	NNP;;57
+malpractice	NN;;3
+briefing	NN;;3
+bacterium	NN;;6
+mechanism	NN;;11
+bonanza	NN;;4
+bourbon	NN;;16
+edition	NN;;28
+subcommittee	NN;;34	NNP;;9
+drug	NN;;137	NNP;;27
+adjuster	NN;;6
+taste	VBP;;1	NN;;8
+rioting	NN;;3
+laser	NN;;7	NNP;;1
+expiration	NN;;16
+dusk	NN;;3
+dust	NN;;8
+glut	VB;;1	NN;;4
+replacement	NN;;17
+footage	NN;;3
+thief	NN;;6
+ballot	NN;;7
+stage	VB;;5	VBP;;1	NN;;31	NNP;;2
+sister	JJ;;4	NN;;14
+alliance	NN;;27	NNP;;7
+commitment	NN;;26
+housing	NN;;70	NNP;;21
+function	VB;;1	VBP;;3	NN;;7
+delivery	NN;;78
+construction	NN;;105	NNP;;4
+beeper	JJR;;1	NN;;4
+official	JJ;;59	NN;;131	NNP;;3
+reinforcement	NN;;5
+variety	NN;;24	NNP;;1
+pension	NN;;57	NNP;;5
+blanket	NN;;3
+evacuation	NN;;3
+exception	NN;;8
+walkout	NN;;3
+pursuit	NN;;8
+celebration	NN;;9
+glance	NN;;3
+experimentation	NN;;3
+tariff	NN;;11
+shame	NN;;4
+greed	NN;;3	NNP;;1
+consent	VB;;1	NN;;11	NNP;;1
+luncheon	NN;;3	NNP;;1
+manner	NN;;17
+strength	NN;;66
+notion	NN;;20
+guidance	NN;;4
+predecessor	NN;;11
+accord	VB;;2	NN;;49	NNP;;5
+candidate	NN;;22
+negotiation	NN;;6
+physician	NN;;13
+voice	VB;;1	NN;;24	NNP;;2
+patent	JJ;;1	NN;;34	NNP;;3
+indictment	NN;;17
+raid	NN;;3
+disadvantage	NN;;5
+foreign-currency	NN;;3
+dilemma	NN;;5
+interest-rate	NN;;15	JJ;;6
+placement	NN;;7	NNP;;3
+flaw	NN;;5
+evidence	NN;;73
+carpeting	NN;;6
+affidavit	NN;;10
+videocassette	NN;;5
+reception	NN;;6
+lineup	NN;;3
+write-off	NN;;10
+drop-off	NN;;3
+zone	NN;;3	NNP;;1
+graph	NN;;3
+liability	NN;;42	NNP;;1
+blast	VB;;2	NN;;5
+revolution	NN;;18	NNP;;4
+explosion	NN;;14
+trial	NN;;76	NNP;;2
+lending	VBG;;10	NN;;44	JJ;;2
+minimum-wage	NN;;5
+ordinance	NN;;4
+foreclosure	NN;;3	NNP;;1
+window	NN;;16
+halt	VB;;11	VBP;;1	NN;;37
+half	DT;;27	PDT;;55	JJ;;13	NN;;113	RB;;3
+space	NN;;71	NNP;;8
+promotion	NN;;18	NNP;;1
+size	VBP;;1	NN;;68
+sheet	NN;;16
+breed	VBP;;1	NN;;4
+friend	NN;;25	NNP;;7
+optimism	NN;;10
+correction	NN;;8
+anger	NN;;7
+breakfast	NN;;11
+brainchild	NN;;3
+ratio	NN;;34
+proportion	NN;;9
+husband	NN;;19
+concert	NN;;4	NNP;;1
+article	NN;;71	NNP;;1
+self-interest	NN;;5
+pesticide	NN;;9
+editorial	JJ;;8	NN;;20
+soil	NN;;11
+bias	NN;;16	NNP;;5
+reappearance	NN;;3
+document	VB;;1	NN;;20
+fruit	NN;;8	NNP;;1
+tradition	NN;;14
+theater	NN;;25	NNP;;11
+speed	VB;;15	NN;;39
+treatment	NN;;44	NNP;;4
+momentum	NN;;19
+execution	NN;;13	NNP;;2
+lady	NN;;4	NNP;;1
+recorder	NN;;6
+shipbuilding	NN;;7	NNP;;1
+operator	NN;;31
+interpretation	NN;;8
+circulation	NN;;41
+commuter	NN;;3
+storage	NN;;18	NNP;;7
+coverage	NN;;30	NNP;;2
+mph	NN;;5
+austerity	NN;;6
+injury	NN;;8	NNP;;2
+underwriter	NN;;9
+hurry	VB;;1	NN;;6
+tenor	NN;;4
+yeast	NN;;9
+foreign-policy	NN;;3
+food	NN;;111	NNP;;19
+capability	NN;;7
+magnet	NN;;3
+dirt	NN;;3
+base	VB;;1	VBP;;1	JJ;;10	NN;;69	NNP;;1
+epicenter	NN;;4
+juice	NN;;9
+quota	NN;;17
+salary	NN;;11
+completion	NN;;16
+copyright	JJ;;1	NN;;9	NNP;;1
+perfume	NN;;4
+maintenance	NN;;26	NNP;;1
+crack	VB;;2	NN;;6
+governor	NN;;17	NNP;;5
+shah	NN;;7
+transformation	NN;;3
+creation	NN;;15
+fanfare	NN;;7
+rum	NN;;3
+processing	VBG;;10	NN;;24	NNP;;2
+faith	NN;;6	NNP;;1
+trucking	NN;;3
+accountability	NN;;3
+consultation	NN;;4
+cotton	NN;;17	NNP;;6
+re-election	NN;;4
+depth	NN;;5
+cyclosporine	JJ;;1	NN;;3
+arbitrager	NN;;3
+experiment	NN;;14
+stance	NN;;15
+clout	NN;;7
+missile	NN;;13	NNP;;1
+agenda	NN;;12
+exclusion	NN;;4
+housewife	NN;;3
+auto	NN;;128	NNP;;7
+adjournment	NN;;3
+mode	NN;;8
+chunk	NN;;10
+route	NN;;8	NNP;;1
+attack	VB;;5	VBP;;1	NN;;25	NNP;;4
+photograph	NN;;4
+bed	NN;;10
+spurt	VBP;;1	NN;;5
+bet	VB;;5	NN;;15	VBD;;5	VBN;;1	VBP;;2	RB;;1	NNP;;1
+border	NN;;15
+instance	NN;;78
+demise	NN;;9
+businessman	NN;;13
+affair	NN;;14	NNP;;2
+envy	NN;;5
+fuel	VB;;5	NN;;20
+evolution	NN;;6
+inkling	NN;;3
+usefulness	NN;;3
+approval	NN;;93
+franchise	VB;;1	NN;;18
+addition	NN;;155
+discrimination	NN;;14
+expenditure	NN;;4
+mail	VB;;4	VBP;;1	NN;;40	NNP;;5
+novel	NN;;19	JJ;;3
+resident	NN;;5	JJ;;1
+transaction	NN;;136
+reflection	NN;;4
+warrant	VB;;2	VBP;;2	NN;;16
+fate	NN;;10
+candy	NN;;11
+clarinetist	NN;;3
+backlog	NN;;11
+upswing	NN;;3
+expansion	NN;;54
+escrow	NN;;3
+twist	NN;;4
+fledgling	JJ;;1	NN;;3
+protest	VB;;3	NN;;12
+rescue	VB;;4	NN;;11
+solution	NN;;15
+vulnerability	NN;;3
+mortality	NN;;5
+type	NN;;27
+keyboard	NN;;5
+luck	NN;;7	NNP;;1
+interruption	NN;;3
+dawn	NN;;4
+collector	NN;;3
+surprise	VB;;4	NN;;19	NNP;;1
+grease	NN;;3
+cement	VB;;2	NN;;6	NNP;;2
+playwright	NN;;7
+inflow	NN;;3
+matter	VB;;4	NN;;75
+bidder	NN;;9
+visitor	NN;;9
+reference	NN;;8
+distinction	NN;;5
+whisper	NN;;3	NNP;;1
+tank	VB;;2	NN;;5
+motorist	NN;;3
+waterworks	NN;;5
+stopgap	NN;;4
+notification	NN;;3
+nerve	NN;;6
+form	VB;;14	VBP;;3	NN;;55	NNP;;1
+syndicate	VB;;1	NN;;25	NNP;;4
+bellwether	JJ;;2	NN;;7
+exporter	NN;;6
+diet	NN;;7	NNP;;3
+ammonium	NN;;4
+skin	NN;;9
+ballooning	VBG;;2	NN;;7
+string	NN;;13	NNP;;2
+billionaire	NN;;5
+bandwagon	NN;;5
+comptroller	NN;;16	NNP;;6
+insider	NN;;17	NNP;;1
+effort	NN;;112
+wallet	NN;;3
+tile	NN;;3
+designer	NN;;11
+jail	NN;;10
+entity	NN;;7
+stability	NN;;18
+killer	NN;;3
+deficit-reduction	JJ;;4	NN;;23
+objectivity	NN;;3
+monster	NN;;4
+underwear	NN;;5
+entitlement	NN;;4
+language	NN;;39
+question	VB;;4	VBP;;14	NN;;110
+venture	VB;;2	JJ;;1	NN;;112	NNP;;5
+tractor	NN;;3
+conspiracy	NN;;20	NNP;;1
+pain	NN;;10
+pair	VB;;1	NN;;5
+mettle	NN;;3
+legalization	NN;;3
+outpost	NN;;4
+summary	NN;;3
+honesty	NN;;3
+calendar	NN;;6
+forecasting	VBG;;3	NN;;7
+cancer	NN;;65	NNP;;5
+custody	NN;;4
+graveyard	NN;;3
+margin	JJ;;1	NN;;52
+disappointment	NN;;7
+drain	VB;;2	NN;;7
+audience	NN;;39
+nose	NN;;7
+robbery	NN;;4
+profit-sharing	NNS;;1	JJ;;1	NN;;3
+broker	NN;;41
+opium	NN;;3
+tycoon	NN;;4
+debt-limit	NN;;12
+girlfriend	NN;;4
+lifetime	NN;;6
+field	VB;;1	NN;;61	NNP;;12
+brandy	NN;;3
+lawyer	NN;;70	NNP;;1
+material	JJ;;1	NN;;39
+search	VBP;;1	NN;;25
+extinction	NN;;3
+town	NN;;50	NNP;;8
+none	NN;;42
+marble	NN;;6
+par	NN;;34	JJ;;8	NNP;;11
+blood	NN;;32	NNP;;1
+faculty	NN;;6
+coal	NN;;22
+existence	NN;;13
+everyone	NN;;57
+seniority	NN;;7
+insurance	NN;;194	NNP;;50
+sitcom	NN;;7
+paint	VB;;2	VBP;;2	NN;;6
+mentality	NN;;8
+commentary	NN;;5
+province	NN;;8	NNP;;1
+pennant	NN;;4
+permission	NN;;18
+gospel	NN;;3
+tender	VB;;2	JJ;;1	NN;;50
+supply	VB;;23	VBP;;1	NN;;71	NNP;;3
+recycling	VBG;;2	NN;;8	NNP;;1
+shutdown	NN;;9
+openness	NN;;3
+platinum	NN;;5
+creativity	NN;;8
+fun	NN;;14
+copying	VBG;;2	NN;;6	NNP;;1
+assignment	NN;;4
+moment	NN;;38
+landmark	JJ;;1	NN;;6	NNP;;1
+chemistry	NN;;3
+dishonesty	NN;;5
+rebound	VB;;11	NN;;25
+indication	NN;;23
+integration	NN;;14
+pen	NN;;3
+offshoot	NN;;5
+rejection	NN;;12
+engineering	VBG;;1	NN;;35	NNP;;7
+surgeon	NN;;3
+knight	NN;;13	NNP;;5
+remark	NN;;4
+harvest	NN;;7
+praise	VB;;1	VBP;;1	NN;;3
+contempt	NN;;3
+philosophy	NN;;10
+fray	VB;;1	NN;;3
+bunch	NN;;5
+latitude	NN;;3
+announcer	NN;;7
+franc	NN;;7
+payroll	NN;;8	NNP;;2
+likelihood	NN;;6
+hurdle	NN;;8
+recapitalization	NN;;9
+calamity	NN;;4
+transcript	NN;;4
+organ	NN;;3
+quake	NN;;44
+climate	NN;;19
+value	VBP;;3	NN;;254	NNP;;9
+shuttle	NN;;9
+kidnapping	NN;;4
+center	RB;;1	JJ;;2	NN;;97	NNP;;39
+weapon	NN;;8	NNP;;1
+procurement	JJ;;1	NN;;4
+bench	NN;;16
+citizen	NN;;6
+petrochemical	NN;;13	NNP;;3
+shelter	NN;;4
+microcassette	NN;;3
+panel	NN;;55
+bus	NN;;18	NNP;;1
+embargo	NN;;3
+biotechnology	NN;;28	NNP;;3
+pride	NN;;13	NNP;;2
+studio	NN;;37
+path	NN;;14
+auction	VB;;3	NN;;112
+end	VB;;56	VBP;;5	JJ;;1	NN;;242	NNP;;2
+mess	VB;;1	NN;;13
+victory	NN;;27
+fiction	NN;;4
+damper	NN;;4
+syndication	NN;;10	NNP;;1
+priority	NN;;20
+euphoria	NN;;6	NNP;;1
+ceiling	NN;;30
+tool	NN;;22	NNP;;2
+fashion	VB;;1	NN;;29	NNP;;2
+contact	VB;;2	NN;;14	NNP;;1
+retinoblastoma	NN;;7
+effectiveness	NN;;6
+flow	VB;;5	VBP;;1	NN;;45	NNP;;1
+treaty	NN;;22	NNP;;8
+enterprise	NN;;7	NNP;;2
+photo	NN;;9	NNP;;2
+mixture	NN;;3
+liquor	NN;;10
+confusion	NN;;20
+boss	NN;;10	NNP;;1
+aquarium	NN;;3
+censorship	NN;;6
+contamination	NN;;3
+sanitation	NN;;3
+beef	VB;;2	NN;;8
+beer	NN;;15	NNP;;1
+inventory	NN;;19
+amortization	NN;;5
+forfeiture	NN;;15	NNP;;1
+gift	NN;;13
+ice	NN;;15	NNP;;2
+core	JJ;;9	NN;;35
+corn	NN;;25	NNP;;2
+head	VB;;17	VBP;;2	JJ;;2	NN;;119	NNP;;1
+medium	NN;;8	JJ;;2
+heat	VB;;2	NN;;13	NNP;;2
+counsel	VB;;1	NN;;43	NNP;;2
+bargain	NN;;18
+bullet	NN;;5
+morale	NN;;7
+chocolate	NN;;5
+stroke	NN;;4
+refund	VB;;1	NN;;7
+courthouse	NN;;6
+equality	NN;;3
+realism	NN;;5
+profit	VB;;12	VBP;;2	NN;;344	NNP;;3
+theory	NN;;24
+convention	NN;;14	NNP;;4
+hub	NN;;3	NNP;;1
+holder	NN;;25
+prostitution	NN;;5
+emphasis	NN;;19
+freshman	NN;;3
+recipe	NN;;3
+crime	NN;;50	NNP;;3
+setback	NN;;16
+closure	NN;;5
+region	NN;;50
+warehouse-club	NN;;4
+resentment	NN;;5
+colon	NN;;9
+poll	VB;;1	JJ;;1	NN;;12	NNP;;2
+coupe	NN;;4
+conception	NN;;6
+someone	NN;;42
+recital	NN;;3
+termination	NN;;4
+model	JJ;;2	NN;;43
+announcement	NN;;79
+color	VB;;1	NN;;31	NNP;;7
+provider	NN;;13
+racism	NN;;4
+idea	NN;;74
+spouse	NN;;4
+naphtha	NN;;3
+settlement	NN;;96	NNP;;2
+presentation	NN;;5
+woman	NN;;51	NNP;;10
+tea	NN;;9
+rate	VBP;;1	NN;;428	NNP;;11
+design	VB;;6	NN;;43	NNP;;5
+equation	NN;;6
+imitation	NN;;4
+offspring	NN;;3
+mission	NN;;17
+environmentalism	NN;;3
+health	NN;;87	NNP;;43
+temperature	NN;;5
+utilization	NN;;13
+lobby	VB;;2	NN;;12
+instruction	NN;;5
+chairman	NN;;292	NNP;;132
+subsidy	NN;;9
+shareholder	NN;;60
+mineral	NN;;4
+memorandum	NN;;5
+penalty	NN;;20
+counterpoint	NN;;3
+activity	NN;;98	NNP;;2
+corruption	NN;;10	NNP;;1
+go-ahead	NN;;4
+license	VB;;2	VBP;;1	NN;;20
+duo	NN;;5
+strategy	NN;;124	NNP;;2
+pc	NN;;13	NNP;;4
+brick	NN;;8
+cartridge	NN;;3	NNP;;1
+anybody	NN;;15
+loading	NN;;3
+plateau	NN;;5
+condemnation	NN;;4
+newsletter	NN;;12	NNP;;1
+income	NN;;296	NNP;;12
+issuer	NN;;7
+disposal	NN;;6
+drinking	VBG;;2	NN;;8
+separation	NN;;6
+fee	NN;;21
+chip	NN;;25	NNP;;1
+sort	VB;;1	NN;;36
+heir	NN;;4
+topic	NN;;14
+carbon-dioxide	NN;;3
+something	NN;;110
+tension	NN;;15
+hazard	NN;;5
+readiness	NN;;3
+contention	NN;;8
+conservatism	NN;;3
+disarray	NN;;11
+host	VB;;1	NN;;26	NNP;;1
+rout	NN;;18
+brain	NN;;26
+admonition	NN;;3
+culmination	NN;;3
+embarrassment	NN;;7
+packaging	NN;;15
+respect	VB;;2	NN;;16
+outflow	NN;;4
+depreciation	NN;;9
+layer	NN;;8
+radiation	NN;;9	NNP;;1
+member	NN;;76	NNP;;1
+fishing	VBG;;1	NN;;8
+penchant	NN;;3
+growth	JJ;;1	NN;;318	NNP;;4
+extension	NN;;15	NNP;;1
+column	NN;;10
+intention	NN;;14
+record	VB;;8	JJ;;25	NN;;118
+resumption	NN;;3
+racehorse	NN;;4
+jewel	NN;;3
+propane	NN;;8	NNP;;1
+bill	VB;;1	VBP;;1	NN;;278	NNP;;30
+unwillingness	NN;;5
+criticism	NN;;39
+cocaine	NN;;5
+personal-computer	NN;;6
+strike	VB;;14	VBP;;2	NN;;69
+example	NN;;181
+conservatorship	NN;;5
+currency	NN;;114	NNP;;4
+caution	VB;;1	VBP;;4	NN;;13
+counseling	VBG;;3	NN;;8
+feature	VB;;1	VBP;;2	NN;;6
+invitation	NN;;5
+outcry	NN;;11
+slate	NN;;8	NNP;;3
+competitiveness	NN;;6
+basketball	NN;;14	NNP;;1
+tree	NN;;8
+project	VB;;4	VBP;;4	NN;;91	NNP;;5
+willingness	NN;;13
+runner	NN;;3	NNP;;1
+organization	NN;;37	NNP;;18
+camp	NN;;6	NNP;;2
+headline	NN;;11	NNP;;1
+pocket	VB;;1	NN;;4	NNP;;1
+impetus	NN;;3
+debt	NN;;327	NNP;;1
+planner	NN;;5
+country	NN;;218	NNP;;3
+logic	NN;;9	NNP;;1
+pregnancy	NN;;10
+reconsideration	NN;;4
+privilege	NN;;12
+worker	NN;;23
+severity	NN;;3
+exchange-rate	JJ;;3	NN;;7
+desire	VBP;;2	NN;;24
+p.m.	NN;;42	RB;;17
+facility	NN;;44
+son	NN;;26	NNP;;7
+support	VB;;53	VBP;;11	NN;;122
+breadth	NN;;3
+hole	VBP;;1	NN;;7	NNP;;2
+spate	NN;;8
+speculation	NN;;64
+sign	VB;;16	NN;;55
+jeopardy	NN;;3	NNP;;1
+toxic-waste	NN;;3
+jury	NN;;60
+redemption	NN;;12
+wicker	NN;;3
+scope	NN;;8
+prosecutor	NN;;12
+virtue	NN;;3
+stature	NN;;3
+pollution	NN;;21	NNP;;1
+tendency	NN;;8
+overhaul	VB;;4	NN;;11
+suspicion	NN;;5
+nation	NN;;177	NNP;;2
+investigation	NN;;56	NNP;;8
+convent	NN;;3
+bite	VB;;1	NN;;3
+iceberg	NN;;3
+folly	NN;;3
+argument	NN;;28
+lawn	NN;;10
+liquidity	NN;;44
+merit	VB;;1	NN;;7
+liberation	NN;;4	NNP;;1
+outrage	NN;;6
+resource	NN;;3	NNP;;1
+middle-class	JJ;;3	NN;;7
+workweek	NN;;4
+screen	VB;;1	NN;;21
+centerpiece	NN;;7
+consultant	NN;;63
+sterling	JJ;;4	NN;;28	NNP;;8
+rest	VB;;5	VBP;;2	NN;;76
+presumption	NN;;4
+vacuum	VB;;1	NN;;4
+package	VB;;3	NN;;48
+portrayal	NN;;7
+waiver	NN;;4
+debris	NN;;3
+welfare	NN;;7	NNP;;2
+appointment	NN;;12
+cable	NN;;40	NNP;;19
+mayoralty	NN;;3
+lobbyist	NN;;6
+turbine	NN;;5
+upstairs	JJ;;1	NN;;3
+slowdown	NN;;36
+belief	NN;;19
+conditioning	NN;;4
+contingency	NN;;6
+guest	NN;;6
+jet	NN;;16
+introduction	NN;;11
+oil-service	NN;;3
+crop	VB;;1	NN;;33
+defect	NN;;5
+monastery	NN;;3	NNP;;1
+affordability	NN;;3
+golf	NN;;13	NNP;;3
+gold	JJ;;18	NN;;52	NNP;;21
+freight	NN;;6	NNP;;2
+writer	NN;;19
+factor	VB;;1	NN;;36
+enemy	NN;;10
+cry	VB;;1	NN;;7
+banking	VBG;;13	JJ;;1	NN;;103	NNP;;16
+pickup	NN;;9
+compliment	NN;;3
+incident	NN;;9
+death	NN;;56	NNP;;1
+dividend	NN;;72
+legislature	NN;;16	NNP;;3
+champion	NN;;5	NNP;;2
+error	NN;;14
+necessity	NN;;7
+stunt	NN;;3
+admission	NN;;4
+format	NN;;8
+spring	VB;;2	NN;;63
+pall	NN;;5	NNP;;1
+mistrust	NN;;3
+crackdown	NN;;10
+suit	VB;;3	RB;;1	NN;;126
+slump	VBP;;1	NN;;23
+payola	NN;;3
+paradox	NN;;3	NNP;;1
+prosecution	NN;;11
+emigration	NN;;4
+scratch	VB;;1	NN;;4
+transmission	NN;;4	NNP;;1
+race	NN;;27
+pledge	NN;;4
+poverty	NN;;14	NNP;;1
+casino	NN;;23	NNP;;1
+midday	NN;;9
+coffin	NN;;3
+pawn	NN;;8
+element	NN;;9
+move	VB;;72	VBP;;13	NN;;170
+suppressor	NN;;5
+truth	NN;;12
+irritation	NN;;3
+dismissal	NN;;10
+leasing	VBG;;4	NN;;14	NNP;;3
+system	NN;;249	NNP;;40
+warfare	NN;;3
+pertussis	NN;;6
+accuracy	NN;;4
+segment	NN;;48
+face	VB;;29	VBP;;21	JJ;;1	NN;;79	NNP;;2
+painting	VBG;;2	NN;;15
+fact	NN;;149
+economist	NN;;74	NNP;;3
+decade	NN;;57
+allegation	NN;;3
+outsider	NN;;4
+runway	NN;;6
+site	NN;;46
+hardware	NN;;11	NNP;;1
+outbreak	NN;;3
+flesh	NN;;3
+day	NN;;311	NNP;;11
+government	NN;;677	NNP;;19
+adversary	NN;;5
+software	NN;;66	NNP;;3
+lung	NN;;10
+valuation	NN;;3
+distribution	NN;;34
+rubble	NN;;4
+ink	NN;;7
+ghost	NN;;26
+mansion	NN;;3	NNP;;1
+unrest	NN;;6
+triumph	NN;;4
+horn	NN;;5	NNP;;2
+chef	NN;;3
+crunch	VB;;1	NN;;15
+conglomerate	NN;;18
+daughter	NN;;12
+infusion	NN;;3
+award	VB;;1	NN;;24
+rookie	NN;;4
+interview	VB;;2	NN;;70
+fever	NN;;6
+frequency	NN;;5
+band	VB;;1	NN;;10	NNP;;1
+medicine	NN;;12	NNP;;5
+veto	VB;;10	NN;;50
+morass	NN;;3
+air-traffic	NN;;3
+realm	NN;;3
+luxury	NN;;31
+timidity	NN;;3
+voting	VBG;;10	JJ;;3	NN;;23	NNP;;7
+personality	NN;;3
+leisure	NN;;7	NNP;;1
+bran	NN;;5
+seizure	NN;;11
+aim	VB;;1	VBP;;3	NN;;13	NNP;;3
+aid	VB;;6	NN;;61
+property	NN;;101	NNP;;1
+advertising	VBG;;9	NN;;108	NNP;;13
+disagreement	NN;;5
+debt-reduction	NN;;4
+retreat	NN;;9
+illustration	NN;;4
+wad	NN;;3
+way	RB;;3	NN;;306	NNP;;3
+war	VB;;1	NN;;65	NNP;;24
+medication	NN;;5
+precedent	JJ;;1	NN;;6
+shrinkage	NN;;5
+rhythm	NN;;3
+division	NN;;114	NNP;;9
+cargo	NN;;5
+havoc	NN;;6
+exemption	NN;;9
+homecoming	NN;;4
+car	NN;;154	NNP;;10
+heart	RB;;1	NN;;38
+clothing	NN;;19	NNP;;1
+restitution	NN;;4
+dominance	NN;;8
+timing	NN;;20
+rake	NN;;9
+irony	NN;;4
+repurchase	VB;;2	VBN;;1	NN;;9	JJ;;1	VBD;;2
+obligation	NN;;34
+card	NN;;18	NNP;;1
+care	VB;;10	VBP;;6	NN;;51	NNP;;15
+message	NN;;24
+television	NN;;116	NNP;;7
+respectability	NN;;5
+undercurrent	NN;;3
+price	VB;;8	VBP;;1	NN;;553	NNP;;42
+rationale	NN;;10
+sport	NN;;12	NNP;;1
+comeback	NN;;15	NNP;;1
+installation	NN;;4
+hypoglycemia	NN;;8
+buy-back	VB;;1	JJ;;5	NN;;16
+absence	NN;;16
+commander	NN;;3
+racketeering	NN;;17	NNP;;1
+proponent	NN;;3
+miracle	NN;;4
+unraveling	NN;;3
+wheat	JJ;;2	NN;;26	NNP;;6
+unease	NN;;4
+inclusion	NN;;3
+lot	RB;;5	NN;;151	NNP;;1
+peak	JJ;;1	NN;;19
+groundwork	NN;;3
+fervor	NN;;3
+supercomputer	NN;;9
+rape	NN;;16
+rehearing	NN;;3
+family	NN;;124	NNP;;8
+excuse	VB;;1	NN;;10
+history	NN;;81
+prose	NN;;3
+workstation	NN;;6
+deterioration	NN;;14
+dream	VB;;1	VBP;;3	NN;;14
+administration	NN;;173	NNP;;53
+helm	NN;;4
+hell	UH;;1	NN;;10
+taxpayer	NN;;8	NNP;;1
+stopper	NN;;3
+balance	VB;;7	NN;;44
+issue	VB;;28	VBP;;2	NN;;291
+reason	VB;;1	VBP;;1	NN;;115
+arbitration	NN;;4
+scheme	NN;;24
+evasion	NN;;5
+popularity	NN;;13
+carry-forward	NN;;4
+conflict-of-interest	JJ;;1	NN;;3
+soft-drink	NN;;18
+vessel	NN;;6
+bidding	VBG;;9	JJ;;3	NN;;41
+mainframe	JJ;;3	NN;;16
+conflict	NN;;20
+assortment	NN;;5
+chore	NN;;3
+retirement	NN;;42	NNP;;7
+game	NN;;78	NNP;;4
+day-care	NN;;3
+step	VB;;18	VBP;;1	NN;;62
+nonsense	NN;;4
+renewal	NN;;5
+specialty	JJ;;1	NN;;29	NNP;;1
+segregation	NN;;3
+kidney	NN;;9
+validity	NN;;4
+suite	NN;;4
+rollback	NN;;4
+trough	NN;;6
+picket	NN;;3
+marketer	NN;;7
+wit	NN;;3
+arrangement	NN;;24
+guerrilla	NN;;4
+literacy	NN;;3
+write-down	NN;;4
+withdrawal	NN;;17
+counterpart	NN;;5
+management	NN;;225	NNP;;67
+manipulation	NN;;8
+reunification	NN;;9	NNP;;2
+portrait	NN;;9
+mileage	NN;;5
+violation	NN;;17
+tire	NN;;8	NNP;;3
+rash	JJ;;1	NN;;6	NNP;;1
+parlance	NN;;3
+roller-coaster	NN;;5
+quotation	NN;;4
+liquidator	NN;;3
+spree	NN;;8
+dose	NN;;5
+page	NN;;19	NNP;;1
+arbitrage	NN;;80
+competitor	NN;;12
+freedom	NN;;19	NNP;;5
+tongue	NN;;4
+ear	NN;;7
+diagnosis	NN;;4
+wreck	NN;;3
+socialism	NN;;10
+credit	VB;;1	VBP;;1	NN;;169	NNP;;34
+soybean	NN;;9
+frenzy	NN;;6
+adult	NN;;6
+programming	VBG;;2	NN;;18
+minority	NN;;49	NNP;;6
+president	NN;;603	NNP;;213
+attempt	VB;;6	VBP;;4	NN;;63
+eavesdropping	NN;;3
+therapy	NN;;6
+meat	NN;;15
+reader	NN;;11	NNP;;2
+p53	NN;;10	CD;;1
+distance	VB;;1	NN;;7	NNP;;2
+mine	NNP;;1	VBP;;1	JJ;;3	NN;;25	PRP;;2
+seed	NN;;21
+reimbursement	NN;;4
+alarm	NN;;6
+dog	NN;;7	NNP;;2
+principle	NN;;24
+hunger	NN;;4
+jurisdiction	NN;;6
+sugar	NN;;20	NNP;;2
+architecture	NN;;9	NNP;;1
+initiative	NN;;39	NNP;;4
+mismanagement	NN;;6
+mouse	NN;;5	NNP;;1
+delight	VB;;1	NN;;3
+opportunity	NN;;54	NNP;;1
+butter	NN;;5
+consciousness	NN;;4
+assassination	NN;;8
+character	NN;;22
+shoulder	VB;;1	NN;;6
+dignity	NN;;8
+failure	NN;;46
+propaganda	NN;;9
+anthrax	NN;;6
+potato	NN;;5
+manager	NN;;134	NNP;;4
+makeup	NN;;4
+superconductor	NN;;3
+cuckoo	NN;;4
+suggestion	NN;;9	NNP;;2
+verge	NN;;6
+wealth	NN;;14	NNP;;1
+man	VB;;1	UH;;1	NN;;92	NNP;;2
+neck	NN;;10
+tale	NN;;8	NNP;;1
+adhesive	JJ;;1	NN;;3
+dioxide	NN;;10
+advance	VB;;4	JJ;;2	NN;;33	NNP;;1
+thing	NN;;112
+cheese	NN;;3
+shipyard	NN;;6
+anyone	NN;;52
+broadcast	VB;;2	VBN;;7	NN;;21	NNP;;4
+consortium	NN;;13	NNP;;1
+ghostbusting	NN;;4
+shop	VB;;2	NN;;24	NNP;;5
+rating	NN;;38
+corner	VB;;1	JJ;;1	NN;;8
+harbinger	NN;;3
+speech	NN;;36
+oil	NN;;246	NNP;;33
+diversion	NN;;5
+money	NN;;487	NNP;;14
+pill	NN;;22
+grip	NN;;10
+film	NN;;51	NNP;;9
+resale	NN;;6
+dollar	NN;;309	NNP;;5
+zinc	NN;;3
+modernization	NN;;4
+bleach	NN;;3
+difference	NN;;56
+extrusion	NN;;3
+component	NN;;7
+table	NN;;29	NNP;;1
+eye	NN;;39	NNP;;2
+libel	NN;;8
+advice	NN;;26
+responsibility	NN;;36
+radar	NN;;8
+inception	NN;;4
+harm	VB;;2	VBP;;1	NN;;5
+fish	NN;;6
+disobedience	NN;;14
+allocation	NN;;9
+copper	NN;;56	NNP;;2
+assumption	NN;;21
+conduit	NN;;5
+part	VB;;1	JJ;;1	NN;;342	NNP;;3
+carnage	NN;;4
+recording	VBG;;4	NN;;11	NNP;;1
+nominee	NN;;5
+majority	JJ;;1	NN;;71	NNP;;14
+salmon	NN;;5
+sector	NN;;58	NNP;;1
+theft	NN;;12
+merchandise	NN;;36
+powerhouse	NN;;3
+half-hour	NN;;8	JJ;;3
+gas	NN;;125	NNP;;28
+gap	NN;;20	NNP;;3
+wedding	NN;;5
+sociologist	NN;;6
+purpose	NN;;19
+prevention	NN;;7	NNP;;1
+junk-bond	JJ;;2	NN;;34
+law-enforcement	NN;;4
+boardroom	NN;;3
+pricing	VBG;;4	NN;;35
+jewelry	NN;;19
+patient	NN;;8	JJ;;3
+lesson	NN;;14
+opponent	NN;;9
+exploration	NN;;30	NNP;;4
+queen	NN;;5	NNP;;2
+surface	VB;;3	VBP;;1	NN;;9
+exercise	VB;;6	VBP;;4	NN;;28
+preamble	NN;;8
+trait	NN;;3
+account	VB;;8	VBP;;10	NN;;117	NNP;;4
+democracy	NN;;24	NNP;;5
+furnace	NN;;3
+legality	NN;;5
+death-penalty	JJ;;1	NN;;6
+extradition	NN;;10
+courtroom	NN;;10
+salesman	NN;;14
+math	NN;;5	NNP;;1
+hyperinflation	NN;;4
+acceleration	NN;;3
+mix	VB;;1	NN;;14	NNP;;2
+sedan	NN;;9
+capacity	NN;;77
+staff	VB;;2	NN;;84	NNP;;6
+polyurethane	NN;;4
+pattern	NN;;19
+proposal	NN;;160
+aramid	NN;;3
+volunteer	VB;;2	NN;;7	NNP;;1
+imbalance	NN;;3
+dissent	NN;;8
+muscle	NN;;7
+ozone	NN;;11
+authority	NN;;59	NNP;;29
+seriousness	NN;;4
+certainty	NN;;3
+playoff	NN;;3
+campus	NN;;5
+oat	NN;;4
+hitch	NN;;3
+snack-food	NN;;8
+stationery	NN;;3
+poison	JJ;;2	NN;;24
+punishment	NN;;7
+smelter	NN;;5
+hospital	NN;;29	NNP;;12
+assessment	NN;;12	NNP;;2
+jetliner	NN;;6
+shakeout	NN;;3
+tourist	NN;;13	NNP;;5
+tourism	NN;;12	NNP;;2
+affiliate	NN;;20
+hearing	VBG;;10	NN;;33
+toy	JJ;;6	NN;;17	NNP;;4
+ton	NN;;12
+murder	NN;;15
+flame	NN;;3
+capitalization	NN;;11
+plenty	JJ;;2	RB;;6	NN;;20
+reputation	NN;;31
+asbestos	NN;;11
+commodity	NN;;45	NNP;;20
+herd	NN;;3
+habit	NN;;4
+approach	VB;;1	VBP;;3	NN;;50
+credit-card	NN;;10
+procedure	NN;;8
+market-maker	NN;;3
+suburb	NN;;8
+mother	NN;;26	NNP;;8
+officer	NN;;193	NNP;;3
+doorstep	NN;;4
+everything	NN;;61	NNP;;3
+sewing	NN;;3
+discount	VB;;1	JJ;;6	NN;;68	NNP;;3
+shopping-center	NN;;3
+item	NN;;10
+discharge	NN;;3
+coach	NN;;6
+environment	NN;;43	NNP;;4
+charge	VB;;9	VBP;;14	NN;;113
+hard-disk	JJ;;1	NN;;6
+autumn	NN;;9
+student-athlete	NN;;3
+term	VB;;1	NN;;60	NNP;;1
+name	VB;;10	NN;;77
+oasis	NN;;3
+place	VB;;18	VBP;;5	NN;;123
+childhood	NN;;5
+revenue	NN;;327	NNP;;11
+array	NN;;14
+engineer	VB;;2	NN;;8
+population	NN;;35	NNP;;2
+outcome	NN;;23
+rent	VB;;4	NN;;13	NNP;;2
+polysilicon	NN;;3
+trespass	NN;;5
+dramas	NN;;3
+college	NN;;39	NNP;;7
+duty	NN;;18
+pot	NN;;5	NNP;;1
+satisfaction	NN;;13
+helicopter	NN;;12
+engine	NN;;24	NNP;;1
+blessing	NN;;8
+mound	NN;;3
+discrepancy	NN;;6
+trip	NN;;26
+cartoon	NN;;3	NNP;;1
+reward	VB;;2	NN;;8
+inflation	NN;;141
+furniture	NN;;17	NNP;;2
+hotel-casino	NN;;7
+bishop	NN;;3
+psychology	NN;;6
+apparel	NN;;7
+spacecraft	NN;;5
+disk	NN;;26
+tennis	NN;;7
+court	VB;;1	NN;;265	NNP;;120
+goal	NN;;40
+acrimony	NN;;3
+catalog	NN;;8
+turnover	NN;;20
+essence	NN;;5
+developer	NN;;27	NNP;;1
+style	NN;;35
+resort	VB;;1	NN;;17	NNP;;1
+contender	NN;;3
+debacle	NN;;13
+friendship	NN;;7
+brother	NN;;19
+shipment	NN;;4
+stampede	VB;;1	NN;;3
+consequence	NN;;3
+bushel	NN;;6
+feed	VB;;2	NN;;7
+sympathy	NN;;3
+hotel	NN;;42	NNP;;14
+midmorning	NN;;3
+donor	NN;;5
+cigarette	NN;;11
+nothing	NN;;89	NNP;;1
+prestige	JJ;;1	NN;;4
+advertiser	NN;;5
+publicity	NN;;12
+kylix	NN;;4
+downturn	NN;;25
+outfit	VB;;1	NN;;3
+prelude	NN;;8
+prescription	NN;;8
+context	NN;;15
+decline	VB;;27	VBP;;4	NN;;179
+refrigeration	NN;;3
+literature	NN;;3
+pollen	NN;;5
+contractor	NN;;22
+complaint	NN;;15
+vendor	NN;;7
+seller	NN;;23
+innovation	NN;;5
+raider	NN;;11
+plunge	VB;;7	VBP;;3	NN;;121
+glamour	NN;;3
+motive	NN;;3
+access	NN;;43
+vice	FW;;1	RB;;1	NN;;232	NNP;;22
+resistance	NN;;14
+artery	NN;;8
+cover-up	NN;;4	NNP;;1
+posture	NN;;4
+polling	NN;;3
+consumption	NN;;25
+virulence	NN;;3
+posturing	VBG;;1	NN;;3
+patron	NN;;4
+abuse	NN;;13
+flea	NN;;3
+frontier	NN;;4	NNP;;1
+publication	NN;;14
+creator	NN;;3	NNP;;1
+classroom	NN;;4	NNP;;1
+shelf	NN;;19
+isolation	NN;;6
+clash	NN;;6
+class	NN;;36	NNP;;16
+statute	NN;;6
+gouging	NN;;3
+piano	NN;;5
+plaintiff	NN;;5
+midnight	NN;;14
+acquirer	NN;;4
+encouragement	NN;;7
+unity	NN;;4
+inch	VB;;2	NN;;5
+student	NN;;27	NNP;;1
+back-office	NN;;4
+export	VB;;6	JJ;;1	NN;;41	NNP;;2
+severance	JJ;;1	NN;;3
+detergent	NN;;12
+clutter	VB;;1	NN;;9
+universe	NN;;3
+sweat	VBP;;1	NN;;5	VBD;;1
+squeeze	VB;;6	VBP;;2	NN;;15
+hitter	NN;;4
+ruling	VBG;;13	JJ;;1	NN;;63
+eagerness	NN;;5
+narrator	NN;;4
+income-tax	JJ;;1	NN;;6
+midafternoon	NN;;3
+herbicide	NN;;5
+hormone	NN;;4
+hdtv	NN;;8
+scholar	NN;;4
+specialist	JJ;;1	NN;;33
+hero	NN;;9
+reporter	NN;;12
+cancellation	NN;;5
+unit	NN;;397	NNP;;2
+midst	NN;;16
+accomplishment	NN;;3
+hog	NN;;4
+significance	NN;;12
+beauty	NN;;12	NNP;;1
+extortion	NN;;3
+revolt	NN;;3
+headquarters	NNS;;13	NN;;48
+backdrop	NN;;5
+debut	NN;;14
+architect	NN;;9
+acquisition	NN;;170	NNP;;23
+bust	NN;;3
+pragmatism	NN;;3
+cushion	VB;;3	NN;;7
+volatility	NN;;62
+release	VB;;12	VBP;;1	NN;;27	NNP;;1
+result	VB;;33	VBP;;3	NN;;166
+downgrade	NN;;5
+roller	NN;;3	NNP;;1
+accident	NN;;15	NNP;;2
+billing	VBG;;2	NN;;12
+perchlorate	NN;;4
+player	NN;;34	NNP;;2
+harmony	NN;;3
+ownership	NN;;34	NNP;;1
+tuna	NN;;3
+tune	VB;;1	NN;;9
+prison	NN;;32
+midyear	NN;;5
+insistence	NN;;7
+repression	NN;;6
+offer	VB;;65	VBP;;24	NN;;275
+rerun	NN;;4
+sight	NN;;7
+floor	NN;;89	NNP;;2
+flood	VB;;1	NN;;7	NNP;;1
+tax-preparation	NN;;3
+smell	VBP;;1	NN;;3
+time	NN;;662	NNP;;80
+consolidation	NN;;10
+inclination	NN;;4
+prediction	NN;;6
+printing	VBG;;2	NN;;24	NNP;;1
+laundry	NN;;4
+stress	VB;;3	VBP;;3	NN;;8
+truck	VBP;;1	NN;;43	NNP;;3
+truce	NN;;3
+sell-off	NN;;35
+course	NN;;94	NNP;;1
+thumb	VB;;1	NN;;5
+formula	NN;;13
+plea	VB;;1	NN;;21
+remainder	NN;;11
+training	VBG;;5	NN;;36
+clause	NN;;12
+draft	NN;;12
+realization	NN;;3
+inventor	NN;;3
+financier	NN;;18
+note	VB;;6	VBP;;19	NN;;46
+knee	NN;;3
+sale	NN;;298
+slot	NN;;6
+dispute	VB;;2	VBP;;1	NN;;53
+artist	NN;;17
+arrival	NN;;3
+residence	NN;;6
+flextime	NN;;4
+boat	NN;;6	NNP;;2
+stretch	VB;;3	NN;;9
+prominence	NN;;3
+corporatism	NN;;3
+corporatist	NN;;3
+constituency	NN;;3
+fame	NN;;4	NNP;;1
+surveillance	NN;;5
+scholarship	NN;;7
+summer	NNPS;;3	NN;;85	NNP;;1
+instrument	NN;;7	NNP;;1
+stranger	NN;;4
+noon	NN;;4
+ventilation	NN;;4
+exit	NN;;4
+power	VB;;1	NN;;174	NNP;;44
+side	VB;;1	VBP;;1	JJ;;5	NN;;83	NNP;;3
+tumor	NN;;8
+neighbor	NN;;5
+bond	NN;;228	NNP;;60
+elimination	NN;;7
+aide	NN;;27
+advantage	VB;;1	NN;;41
+hunting	NN;;4
+method	NN;;19
+struggle	VB;;1	NN;;15
+enactment	NN;;5
+mall	NN;;10	NNP;;2
+fruition	NN;;3
+plant	VB;;6	NN;;201	NNP;;5
+soundtrack	NN;;3
+plane	NN;;16
+trade	VB;;42	VBP;;3	NN;;268	NNP;;61
+attitude	NN;;20
+ally	VB;;1	NN;;12
+designation	NN;;3
+indexation	NN;;7
+driver	NN;;7
+collaboration	NN;;9
+lounge	NN;;5
+equity	NN;;133	NNP;;9
+tumult	NN;;3
+preparation	NN;;5	NNP;;1
+movie	NN;;45	NNP;;1
+load	VB;;1	NN;;18
+loan	VB;;1	NN;;168	NNP;;49
+coincidence	NN;;5
+publishing	VBG;;10	NN;;24	NNP;;2
+mind	VB;;9	NN;;37
+upstart	NN;;3	JJ;;1
+pound	VB;;1	NN;;93	NNP;;3
+picocassette	NN;;3
+centennial	NN;;11	JJ;;2	NNP;;5
+input	NN;;6
+consensus	NN;;25	NNP;;1
+disorder	NN;;3
+religion	NN;;5	NNP;;1
+garbage	NN;;7	NNP;;1
+spending	VBG;;32	JJ;;2	NN;;138
+blueprint	NN;;7
+fighter	NN;;5
+consumer	NN;;99	NNP;;6
+age	VBP;;1	NN;;47	NNP;;3
+feud	NN;;5
+gossip	NN;;3
+pullback	NN;;7
+recruitment	NN;;4
+proliferation	NN;;5
+consideration	NN;;20
+opinion	NN;;49	NNP;;1
+grower	NN;;8
+certificate	NN;;6
+charity	NN;;14
+establishment	NN;;14
+producer	NN;;62
+kroner	NN;;7
+thrust	NN;;5	VBD;;1
+scare	VB;;1	NN;;4	NNP;;1
+viewer	NN;;3
+partnership	NN;;44	NNP;;13
+device	NN;;28
+atmosphere	NN;;11
+vacancy	NN;;6
+wire	NN;;15
+hobby	NN;;3
+diversification	NN;;13
+arrest	VB;;1	NN;;7
+desk	NN;;19
+garage	NN;;4
+liquidation	NN;;11
+championship	NN;;5
+schedule	VB;;4	NN;;21
+payout	NN;;9
+concession	NN;;3
+frustration	NN;;10
+interest	NN;;520	NNP;;3
+candidacy	NN;;4
+scandal	NN;;43
+chance	VBP;;1	NN;;65
+rule	VB;;10	VBP;;1	NN;;49	NNP;;1
+inning	NN;;6
+self-incrimination	NN;;8
+voter	NN;;3
+handout	NN;;4
+toll	NN;;6
+removal	NN;;8	NNP;;1
+insult	VB;;1	NN;;3
+program	VB;;2	VBP;;1	NN;;360	NNP;;6
+word	NN;;39
+work	VB;;104	VBP;;17	NN;;209	NNP;;1
+psyllium	NN;;32
+lag	VB;;1	VBP;;2	NN;;5
+lab	NN;;7
+law	NN;;267	NNP;;12
+ambulance	NN;;5
+fan	NN;;11
+order	VB;;10	IN;;1	NN;;143	NNP;;4
+office	NN;;256	NNP;;59
+misconduct	NN;;6
+suitor	NN;;18
+bread	NN;;6
+oxygen	NN;;4
+network	NN;;104	NNP;;9
+amazement	NN;;3
+compromise	VB;;4	JJ;;1	NN;;28
+upshot	NN;;3
+target	VB;;4	VBP;;3	NN;;46	NNP;;3
+pessimism	NN;;4
+phase	VB;;1	NN;;9
+implication	NN;;4
+steam	NN;;12
+observer	NN;;4	NNP;;1
+receiver	NN;;3
+department-store	JJ;;2	NN;;11
+catering	VBG;;1	NN;;3
+exile	NN;;4
+descent	NN;;3
+victim	NN;;14
+humor	NN;;12
+marketing	VBG;;19	JJ;;1	NN;;115	NNP;;10
+banker	NN;;29	NNP;;3
+horizon	NN;;9
+indecency	NN;;3
+legislation	NN;;110	NNP;;1
+peninsula	NN;;3
+crystal	NN;;6	NNP;;2
+stake	NN;;246
+reality	NN;;20
+dance	VB;;3	NN;;9	NNP;;1
+superpower	NN;;4
+trouble	JJ;;1	NN;;61
+assistance	NN;;25
+market	VB;;18	VBP;;3	NN;;1912	NNP;;33
+envelope	NN;;3
+clue	NN;;5
+catastrophic-care	NN;;3
+inefficiency	NN;;4
+provision	NN;;65
+showroom	NN;;3
+filing	VBG;;15	NN;;72
+nemesis	NN;;3
+title	NN;;22	NNP;;1
+leather	NN;;6
+notice	VB;;4	VBP;;3	NN;;13	NNP;;2
+favoritism	NN;;3
+incest	NN;;11
+dilution	NN;;5
+privatization	NN;;5
+questionnaire	NN;;3
+dealership	NN;;9
+business	NN;;671	NNP;;68
+processor	NN;;4
+involvement	NN;;16
+area	NN;;134	NNP;;14
+appliance	NN;;4
+deadline	NN;;24
+carpet	NN;;8
+fence	NN;;5
+turmoil	NN;;37
+amount	VB;;6	VBP;;2	NN;;148
+shuffle	NN;;4
+mediator	NN;;11
+authorization	NN;;7
+coalition	NN;;22	NNP;;4
+circuit	NN;;38	NNP;;15
+ego	NN;;4
+egg	NN;;7	NNP;;2
+yuppie	NN;;3
+romance	NN;;4
+reluctance	NN;;9
+terrorism	NN;;22
+event	NN;;44
+viability	NN;;5
+translation	NN;;3
+financing	VBG;;23	NN;;133	NNP;;7
+attention	VB;;1	NN;;58
+concentration	NN;;3
+lid	NN;;3
+circle	NN;;13	NNP;;2
+territory	NN;;13
+dialogue	NN;;10
+ruble	NN;;7	FW;;1
+determination	NN;;5
+fleet	NN;;19	JJ;;1	NNP;;6
+baseline	NN;;5	JJ;;1
+bonus	NN;;6
+auditor	NN;;3
+coup	NN;;30	FW;;1
+cast-iron	NN;;3
+pillar	NN;;3
+parade	NN;;6	NNP;;2
+disclosure	NN;;21
+objection	NN;;4
+structure	NN;;37
+co-author	NN;;5
+proposition	NN;;5	NNP;;1
+button	NN;;3
+verdict	NN;;13
+inspection	NN;;5
+cartel	NN;;8
+cell	NN;;19
+danger	NN;;19
+metaphor	NN;;6
+vehicle	NN;;40	NNP;;1
+bureaucracy	NN;;12
+double-decking	NN;;3
+sample	NN;;9
+control	VB;;24	VBP;;7	JJ;;1	NN;;137	NNP;;38
+dictation	NN;;3
+shrift	NN;;3
+front	RB;;1	NN;;25	JJ;;12	NNP;;5
+magnitude	NN;;6
+measure	VB;;6	NN;;85
+playground	NN;;4
+umbrella	NN;;3
+mankind	NN;;3
+quality	JJ;;2	NN;;71	NNP;;2
+privacy	NN;;8
+occupancy	NN;;5
+market-making	JJ;;1	NN;;3
+instrumentation	NN;;5
+microphone	NN;;3
+arm	VB;;1	NN;;25
+balloting	NN;;3
+co-chairman	NN;;4
+impression	NN;;11
+well-being	NN;;3
+winner	NN;;10
+employer	NN;;13
+employee	NN;;40	NNP;;5
+buyer	NN;;46	NNP;;1
+pitch	VB;;1	NN;;10
+computer	NN;;261	NNP;;58
+state	VB;;3	VBP;;3	NN;;404	NNP;;82
+importance	NN;;19
+efficiency	NN;;20
+group	VB;;1	NN;;503	NNP;;211
+career	NN;;24	NNP;;1
+poet	NN;;3
+diversity	NN;;6
+effect	VB;;2	NN;;131
+coordination	NN;;5
+burden	NN;;19
+linage	NN;;10
+receptor	NN;;3
+utility	NN;;34	NNP;;4
+recruiter	NN;;4	NNP;;1
+piece	VB;;2	NN;;39
+penny	NN;;6
+chromosome	NN;;12
+contest	NN;;18	NNP;;1
+strike-force	NN;;3
+portion	NN;;48
+obstruction	NN;;3
+force	VB;;40	VBP;;3	NN;;85	NNP;;27
+batch	NN;;5
+barometer	NN;;11
+campaign	VB;;1	NN;;98	NNP;;3
+landscape	NN;;12	NNP;;1
+cough	VB;;1	NN;;7
+gasoline	NN;;24
+vodka	NN;;5
+briefcase	NN;;3
+purchase	VB;;44	VBP;;2	NN;;128
+capitalism	NN;;4
+workout	NN;;7
+intimidation	NN;;3
+signature	NN;;5
+grade	NN;;7	NNP;;1
+anxiety	NN;;11
+chest	NN;;4
+chess	NN;;3
+bat	NN;;4
+bar	VB;;2	NN;;17	NNP;;4
+bag	NN;;8
+tolerance	NN;;4
+ignorance	NN;;4
+contribution	NN;;12
+exhibition	NN;;9
+study	VB;;12	VBP;;1	NN;;89	NNP;;1
+sentence	NN;;11
+devaluation	NN;;12
+background	NN;;17
+assault	VBP;;1	NN;;6
+lien	NN;;3
+offering	VBG;;65	NN;;134	NNP;;1
+mile	NN;;10	NNP;;1
+mill	NN;;16	NNP;;2
+bomber	NN;;3
+milk	VB;;4	NN;;16
+technique	NN;;25
+apartheid	NN;;17	NNP;;1
+resurgence	NN;;4
+clerk	NN;;7
+earthquake	NN;;116
+massage	VB;;1	NN;;21	NNP;;1
+flexibility	NN;;19
+everybody	NN;;35
+downtown	NN;;11	JJ;;3
+claim	VB;;1	VBP;;11	NN;;41
+agent	NN;;26	NNP;;2
+borrowing	VBG;;8	NN;;21
+spinoff	NN;;3
+s&l	NN;;19	NNP;;9
+girl	NN;;4	NNP;;1
+stock-fund	JJ;;1	NN;;4
+mining	VBG;;2	NN;;17	NNP;;6
+spectacle	NN;;3
+track	VB;;7	VBP;;5	NN;;28	NNP;;1
+tract	NN;;3
+forecast	VB;;4	VBP;;2	VBN;;6	NN;;22	VBD;;5
+parent	JJ;;3	NN;;99
+trader	NN;;89
+shirt	NN;;5
+mark	VB;;6	VBP;;1	NN;;44	NNP;;19
+acre	NN;;3
+shopping	VBG;;6	NN;;38	NNP;;2
+doctor	VB;;1	NN;;16	NNP;;1
+tour	VB;;1	NN;;5
+bottle	VB;;1	NN;;3
+aspect	NN;;9
+mom	NN;;6
+secrecy	NN;;3
+mob	NN;;3	NNP;;1
+railroad	NN;;7
+lightning	NN;;4
+imprisonment	NN;;7
+manufacturer	NN;;35
+violence	NN;;15
+airline	NN;;116	NNP;;5
+road	NN;;29	NNP;;2
+cleanup	NN;;13
+premium	NN;;52	JJ;;4
+parcel	VBP;;1	NN;;3	NNP;;1
+celebrity	NN;;4
+neighborhood	NN;;24
+dial	VB;;1	NN;;4
+movement	NN;;31	NNP;;1
+publisher	NN;;33
+furor	NN;;4
+diamond	NN;;7	NNP;;3
+share	VB;;19	VBP;;5	NN;;1067	NNP;;2
+rye	NN;;3	NNP;;1
+response	NN;;82	NNP;;2
+infant	NN;;4
+syndicator	NN;;4
+flower	NN;;4	NNP;;1
+creditor	NN;;14
+difficulty	NN;;24
+divorce	NN;;4
+statement	NN;;138
+youth	NN;;21	NNP;;2
+meltdown	JJ;;1	NN;;3
+relation	NN;;3
+aircraft	NNS;;3	NN;;65	NNP;;9
+meeting	VBG;;20	NN;;156
+textile	JJ;;2	NN;;7	NNP;;1
+yesterday	NN;;587	RB;;11	NNP;;1
+flurry	NN;;3
+entry	NN;;18
+snag	NN;;4
+bid	VB;;25	VBP;;1	VBN;;7	NN;;262	VBD;;7
+bit	JJ;;1	RB;;6	NN;;38
+scale	VB;;1	NN;;21
+drama	NN;;16
+bankruptcy	NN;;53	NNP;;23
+%	JJ;;9	NN;;3971
+lens	NN;;4	NNP;;1
+desert	VB;;1	NN;;11	NNP;;3
+debenture	NN;;7	NNP;;1
+ingredient	NN;;4
+shock	VB;;1	NN;;16
+exclusivity	NN;;7
+depression	NN;;9	NNP;;4
+reconciliation	NN;;10
+body	NN;;23	NNP;;1
+justification	NN;;5
+tremor	NN;;5
+breakup	NN;;3
+subscription	NN;;6
+tunnel	NN;;3	NNP;;1
+stock	VB;;4	JJ;;1	NN;;1148	NNP;;217
+collection	NN;;45	NNP;;1
+dam	NN;;4
+profit-taking	NN;;11
+administrator	NN;;8	NNP;;1
+exodus	NN;;8
+gear	VB;;1	VBP;;1	NN;;7	NNP;;3
+compensation	NN;;21
+lover	NN;;3
+demonstration	NN;;10
+capita	NNS;;1	NN;;4
+selection	NN;;11
+text	NN;;8
+portfolio	NN;;102	NNP;;10
+audits	NNS;;1	NN;;5
+progress	VB;;2	NN;;31	NNP;;2
+tailspin	NN;;4
+nostalgia	NN;;3
+homer	VB;;1	NN;;5	NNP;;1
+appearance	NN;;15
+promoter	NN;;5
+inspector	NN;;6	NNP;;2
+judgment	NN;;16
+position	VB;;1	NN;;141
+investor	NN;;142	NNP;;6
+royalty	NN;;6
+journalism	NN;;8	NNP;;2
+journalist	NN;;7
+countersuit	NN;;8
+noise	NN;;3
+maze	NN;;3
+ivory	NN;;5	JJ;;1	NNP;;2
+brand	NN;;38
+glory	NN;;6	NNP;;1
+pie	NN;;4
+pig	NN;;5
+crusade	NN;;4
+pit	VB;;2	NN;;21
+longing	NN;;5
+sleep	VB;;1	NN;;3	NNP;;1
+merchant	NN;;30
+risk	VB;;6	VBP;;3	NN;;110	NNP;;1
+profitability	NN;;27
+mistake	VB;;1	NN;;10
+asset	NN;;49	NNP;;14
+phone	NN;;70
+scheduling	VBG;;1	NN;;3
+guarantee	VB;;9	VBP;;3	NN;;30	NNP;;1
+rail	NN;;4
+formation	NN;;8
+rain	NN;;10
+revival	NN;;10
+percentage	NN;;87
+scenario	NN;;20	NNP;;2
+catastrophic-illness	JJ;;1	NN;;3
+metal	NN;;24	NNP;;4
+policewoman	NN;;3
+availability	NN;;12
+temptation	NN;;6
+binge	NN;;5
+craft	NN;;3
+cracker	NN;;3
+brewer	NN;;3
+cycle	NN;;27	NNP;;2
+laptop	NN;;7	JJ;;3
+reversal	NN;;9
+presence	NN;;29	NNP;;1
+entrepreneur	NN;;6
+insider-trading	NN;;3
+critique	NN;;3
+upheaval	NN;;6
+tip	NN;;5
+water	NN;;56	NNP;;12
+baseball	NN;;42	NNP;;1
+restructuring	VBG;;21	NN;;70
+resonance	NN;;3
+memory	NN;;20
+butterfat	NN;;3
+flagship	JJ;;3	NN;;9
+streak	NN;;3
+stream	NN;;8
+endorsement	NN;;4
+birthday	NN;;9	NNP;;1
+comfort	NN;;14	NNP;;3
+authenticity	NN;;3
+distributor	NN;;17
+hysteria	NN;;3
+hacker	NN;;7
+middleman	NN;;5
+factory	NN;;61	NNP;;1
+maneuver	VB;;1	NN;;8
+motion	NN;;23	NNP;;2
+plastic	NN;;26	JJ;;8
+season	NN;;56
+overcapacity	NN;;7
+spokeswoman	NN;;70
+bakeware	NN;;3
+prosperity	NN;;5
+conversion	NN;;12	NNP;;1
+trafficking	NN;;5
+quantity	NN;;6
+detective	NN;;3
+wood	NN;;9	NNP;;3
+wool	NN;;3
+viewpoint	NN;;3
+expectation	NN;;9
+aluminum	JJ;;2	NN;;17	NNP;;7
+parking	NN;;11
+reaction	NN;;39
+columnist	NN;;3
+telephone	NN;;78	NNP;;27
+reminder	NN;;5
+gerrymandering	NN;;6
+blow	VB;;2	NN;;25
+hint	VB;;1	NN;;3
+cabinet	NN;;14	NNP;;2
+toilet	NN;;4
+trash	NN;;9
+preoccupation	NN;;3
+symbol	NN;;17
+applause	NN;;4
+lack	VBP;;7	NN;;48	NNP;;1
+catastrophe	NN;;7
+lining	VBG;;1	NN;;3
+fax	NN;;4
+song	NN;;18	NNP;;4
+print	VBP;;1	NN;;12
+ticket	NN;;14
+fad	NN;;5
+synergy	NN;;3
+anniversary	NN;;5
+idealism	NN;;3
+relaxation	NN;;3
+thrift	NN;;87	NNP;;14
+domination	NN;;3
+buzzword	NN;;3
+sandwich	NN;;5
+prepayment	NN;;4
+departure	NN;;19
+scientist	NN;;6
+return	VB;;44	VBP;;2	JJ;;1	NN;;98
+generation	NN;;38
+fiber	NN;;7
+thread	NN;;4
+success	NN;;69	NNP;;5
+threat	NN;;46
+script	NN;;8
+option	VBP;;1	NN;;55	NNP;;1
+treasurer	NN;;9	NNP;;1
+achievement	NN;;5
+polyethylene	NN;;23
+art	NN;;67	NNP;;17
+collateral	NN;;24
+barn	NN;;3	NNP;;1
+opposition	NN;;61
+small-business	NN;;15
+reduction	NN;;55	NNP;;2
+behavior	NN;;23
+rig	NN;;4
+anguish	NN;;3
+analysis	NN;;25	NNP;;2
+edge	VB;;3	NN;;17	NNP;;1
+inference	NN;;6
+capital-punishment	NN;;4
+resilience	NN;;7
+caller	NN;;6
+adjustment	NN;;15
+leader	NN;;93	NNP;;16
+ammunition	NN;;3
+metro	NN;;3	NNP;;1
+condominium	NN;;3	NNP;;1
+proof	NN;;9
+tab	NN;;4
+panic	VB;;5	NN;;47
+perjury	NN;;4
+crash	VB;;2	JJ;;1	NN;;153
+practice	VB;;6	NN;;61
+re-enactment	NN;;3
+trap	NN;;5
+category	NN;;20
+dive	VB;;1	VBP;;1	NN;;10
+conversation	NN;;11
+nomination	NN;;7
+institution	NN;;26	NNP;;6
+agency	NN;;229	NNP;;27
+dent	NN;;3
+burner	NN;;3
+debate	VB;;3	NN;;56
+view	VB;;8	VBP;;13	NN;;95	NNP;;8
+closet	NN;;4
+genius	NN;;5
+grain	NN;;18
+retailing	VBG;;4	NN;;25
+premiere	VB;;1	NN;;3	JJ;;1
+issuance	NN;;8
+breaker	NN;;7
+rocket	NN;;3
+adoption	NN;;9
+tax	NN;;307	NNP;;15
+branch	VB;;2	NN;;27	NNP;;1
+empire	NN;;14	NNP;;2
+dependence	NN;;6
+surge	VB;;4	NN;;31	NNP;;1
+warranty	NN;;3
+registration	NN;;7
+grapevine	NN;;4
+dearth	NN;;3
+percent	NN;;17
+book	VB;;1	NN;;51	NNP;;3
+boom	VB;;2	NN;;20
+junk	VB;;1	NN;;185
+air	NN;;3
+daughter	NN;;3
+sammich	NN;;5
+phone	NN;;7
+room	NN;;59
+player	NN;;14
+roof	NN;;3
+place	NN;;8
+beach	NN;;5
+wine	NN;;3
+luck	NN;;3
+mercy	NN;;3
+shower	NN;;4
+friend	NN;;5
+mind	VB;;2	NN;;5
+nobody	NN;;4
+mouth	NN;;3
+m	VBP;;2	NNS;;7	NN;;50
+bar	NN;;5
+bag	NN;;3
+boss	NN;;3
+wz	NN;;10
+beer	NN;;4
+life	NN;;16
+nic	NN;;3
+hand	NN;;5
+redneck	NN;;3
+kid	NN;;6
+mother	NN;;5
+night	UH;;6	NN;;24	NNP;;1
+everything	NN;;5
+o	UH;;9	NN;;31	IN;;2
+virgin	JJ;;1	NN;;10
+way	RB;;1	NN;;14
+music	NN;;17
+head	NN;;7
+sock	NN;;6
+time	NNS;;1	JJ;;1	NN;;33
+choice	NN;;3
+minute	NN;;3
+team	NN;;3
+guy	NNS;;1	NN;;15	NNP;;1
+attic	NN;;3
+uniform	NN;;3
+bot	NN;;8
+everybody	NN;;6
+soul	NN;;3
+cat	NN;;11
+cam	NN;;3
+pumpkin	NN;;5
+laundry	NN;;4
+course	NN;;5
+lunch	NN;;4
+name	NN;;17	NNP;;1
+year	NN;;8
+girl	UH;;7	NN;;17
+sunrise	NN;;3
+fabric	NN;;3
+thing	VBP;;1	NN;;13
+question	NN;;12
+anyone	NN;;35
+wax	NN;;3
+pro	NN;;3
+pain	NN;;3
+show	VB;;1	VBP;;1	NN;;4
+corner	NN;;7
+comp	NN;;4
+color	VB;;1	NN;;3
+case	NN;;5
+coffee	NN;;6
+someone	NN;;16
+somebody	NN;;4
+food	NN;;6
+reminder	NN;;3
+week	NN;;5
+bottle	NN;;3
+death	NN;;4	NNP;;1
+world	NN;;6	NNP;;1
+lady	NN;;4
+road	NN;;3	NNP;;1
+moped	NN;;5
+lot	NN;;4
+football	NN;;5	NNP;;1
+cream	NN;;8
+wife	NN;;6
+mp3	NN;;12
+woman	NN;;5	NNP;;1
+song	NN;;33
+action	NN;;208
+family	NN;;9	NNP;;1
+kittie	NN;;4
+hour	NN;;9
+dew	NN;;3
+male	JJ;;2	NN;;8
+blood	NN;;4
+fool	NN;;3
+everyone	NN;;37
+idea	NN;;4
+ass	NN;;12
+cookie	NN;;3
+asl	NN;;7
+number	NN;;4
+min	NNS;;1	NN;;3
+razor	NN;;3
+couch	NN;;6
+nothing	NN;;10
+summer	NN;;4
+sex	NN;;4
+movie	NN;;5
+marriage	NN;;3
+point	VB;;3	NN;;7
+pc	NN;;3
+gal	NN;;3
+anybody	NN;;8
+person	NN;;8
+elev	NN;;3
+mom	NN;;3
+game	NN;;11	NNP;;1
+bit	NN;;7
+religion	NN;;7
+crap	UH;;1	NN;;4
+anything	NN;;6
+nick	CC;;1	NN;;22	NNP;;1
+desert	NN;;4
+car	NN;;4
+booty	NN;;4
+video	NN;;4
+lime	NN;;5
+f	VB;;1	JJ;;1	NN;;35
+something	NN;;20
+control	VB;;1	NN;;4
+profile	:;;1	NN;;4
+day	UH;;1	NN;;18	NNP;;2
+mode	NN;;32	NNP;;1
+temp.	NN;;4
+length	NN;;3
+bitch	UH;;1	NN;;3
+bed	GW;;1	NN;;6
+face	NN;;9
+chicken	NN;;4
+stuff	NN;;3
+computer	NN;;4
+comment	NN;;3
+tv	NN;;4
+pie	NN;;6
+ice	NN;;4
+party	VB;;1	NN;;4
+ball	NN;;5
+candy	NN;;3
+hail	NN;;4
+hair	NN;;4
+home	RB;;1	NN;;7
+trout	NN;;6
+tongue	NN;;3
+pussy	NN;;6
+female	JJ;;2	NN;;9
+problem	NN;;4
+pic	NN;;15
+chance	NN;;4

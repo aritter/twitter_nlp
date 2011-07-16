@@ -1,0 +1,49 @@
+broader	JJR;;24
+fewer	JJR;;41
+cooler	JJR;;3	NN;;1
+elder	JJR;;3
+deeper	JJR;;7	RBR;;2
+thinner	JJR;;3
+safer	JJR;;10
+thicker	JJR;;3
+tougher	JJR;;16	RBR;;1
+freer	JJR;;4
+steeper	JJR;;4
+larger	JJR;;50
+firmer	JJR;;5	RBR;;1
+poorer	RBR;;1	JJR;;4
+sharper	JJR;;3
+higher	NNP;;2	JJR;;297	RBR;;40
+cheaper	JJR;;15	RBR;;1
+looser	JJR;;3
+lesser	JJR;;9	NNP;;4
+worse	NNP;;1	JJR;;39	RBR;;8
+lower	VBP;;1	VB;;26	NNP;;4	RBR;;51	JJR;;253
+narrower	JJR;;4
+easier	RBR;;5	RB;;1	JJR;;23
+softer	JJR;;9
+older	JJR;;31
+riskier	JJR;;5
+heavier	JJR;;6	RBR;;1
+greater	JJR;;73	NNP;;1
+clearer	JJR;;3
+slower	JJR;;25
+simpler	JJR;;3
+smaller	JJR;;91
+shorter	JJR;;6
+weaker	JJR;;33
+stronger	JJR;;46	NNP;;1
+harsher	JJR;;3
+wider	JJR;;6	RBR;;1
+bigger	JJR;;51	RBR;;1
+newer	JJR;;4
+better	VB;;1	RB;;30	RBR;;44	JJR;;104	JJ;;1	NNP;;8
+tighter	JJR;;7	RBR;;1
+wealthier	JJR;;5
+younger	JJR;;14
+lighter	JJR;;5
+cleaner	JJR;;8	NN;;1
+richer	JJR;;4
+better	NNP;;1	JJR;;11	JJ;;1	RBR;;3
+shorter	JJR;;3
+worse	JJR;;3

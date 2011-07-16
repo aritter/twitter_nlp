@@ -1,0 +1,1659 @@
+errors	NNS;;8
+shocks	NNS;;7
+affiliates	NNS;;11
+kids	NNPS;;1	NNS;;15
+circumstances	NNS;;32
+effects	VBZ;;1	NNPS;;1	NNS;;51
+currencies	NNS;;31
+ministries	NNS;;5
+seizures	NNS;;4
+olds	NNS;;3
+rewards	VBZ;;2	NNS;;6
+affairs	NNPS;;10	NNS;;26	NNP;;7
+doubts	VBZ;;5	NNS;;12
+principals	NNS;;3
+reruns	NNS;;4
+beings	NNS;;8
+complications	NNS;;3
+megawatts	NNS;;4
+paychecks	NNS;;4
+ghostbusters	NNS;;3
+defaults	NNS;;10
+shirts	NNS;;6
+riders	NNS;;3
+minicomputers	NNS;;6
+years	NNPS;;1	NNS;;916
+professors	NNS;;4
+episodes	NNS;;4
+troubles	VBZ;;1	NNS;;30
+recipients	NNS;;4
+disasters	NNS;;12
+curbs	NNS;;7
+incentives	NNS;;32
+precious-metals	NNS;;3
+subcompacts	NNS;;3
+specialists	NNS;;46
+locations	NNS;;14
+backlogs	NNS;;6
+jitters	NNS;;5
+awards	NNS;;5
+motives	NNS;;4
+relations	NNPS;;6	NNS;;41	NNP;;1
+photos	NNS;;9
+sums	VBZ;;1	NNS;;4
+gestures	NNS;;6
+abuses	NNS;;7
+tricks	NNS;;3
+legislatures	NNS;;5
+riots	NNS;;3
+displays	VBZ;;2	NNS;;16
+diapers	NNS;;3
+substances	NNS;;3
+anxieties	NNS;;3
+signs	VBZ;;1	NNS;;49
+roots	NNS;;5
+symptoms	NNS;;9
+courses	NNS;;8
+reactions	NNS;;12
+advertisers	NNPS;;1	NNS;;55	NNP;;1
+calculations	NNS;;13
+bookings	NNS;;7
+broker-dealers	NNS;;4
+columns	NNS;;11
+superconductors	NNS;;3
+activists	NNS;;26
+presses	NNS;;3
+raiders	NNS;;7
+parents	NNS;;34	NNP;;1
+wives	NNS;;8
+individuals	NNS;;60
+shipments	NNS;;28
+uncertainties	NNS;;8
+gases	NNS;;3
+deductions	NNS;;8
+dissents	NNS;;4
+clients	NNS;;121
+unknowns	NNS;;3
+thieves	NNS;;5
+physicians	NNPS;;2	NNS;;5	NNP;;1
+suitors	NNS;;6
+books	NNPS;;2	NNS;;47	NNP;;1
+gallons	NNS;;6
+interests	NNS;;96
+lots	NNS;;29
+taxes	VBZ;;1	NNS;;82
+differentials	NNS;;5
+balloonists	NNS;;3
+valuations	NNS;;4
+patterns	NNS;;7
+mathematics	NNS;;3
+debentures	NNS;;48
+letters	NNS;;26
+places	VBZ;;4	NNS;;19
+nurses	NNS;;8
+details	NNS;;56	NNP;;1
+outlets	NNS;;14
+searches	VBZ;;1	NNS;;3
+machines	NNPS;;21	NNS;;83	NNP;;16
+coins	NNS;;11
+carriers	NNPS;;1	NNS;;26	NNP;;3
+trainers	NNS;;3
+disputes	VBZ;;2	NNS;;11
+takeovers	NNS;;36
+dogs	VBZ;;1	NNS;;13	NNP;;1
+portraits	NNS;;3
+contents	NNS;;4
+subjects	VBZ;;1	NNS;;12
+scripts	NNS;;4
+discussions	NNS;;38
+techniques	NNS;;8
+tons	NNS;;75
+counterparts	NNS;;14
+traditions	NNS;;3
+thanks	NNS;;12
+concerns	VBZ;;6	NNS;;92
+designers	NNS;;4
+songs	NNS;;7
+shares	VBZ;;4	NNS;;928	NNP;;5
+giveaways	NNS;;4
+challenges	VBZ;;4	NNS;;13
+advantages	NNS;;6
+brains	NNS;;7
+'70s	NNS;;4	CD;;1
+professionals	NNS;;19
+apples	NNS;;14	JJ;;1
+implications	NNS;;17
+impediments	NNS;;3
+jeans	NNS;;8
+congressmen	NNPS;;1	NNS;;8
+abortion-rights	NNS;;14	JJ;;1
+stars	VBZ;;2	NNS;;7
+pitches	VBZ;;1	NNS;;3
+philosophers	NNS;;3
+two-thirds	NNS;;29	JJ;;1
+streets	NNPS;;2	NNS;;12	NNP;;1
+losses	NNS;;243
+budgets	NNS;;19
+charities	NNS;;6
+systems	NNPS;;42	NNS;;112	NNP;;44
+houses	NNS;;57
+organs	NNS;;4
+tolls	NNS;;3
+minorities	NNS;;9
+payers	NNS;;4
+youngsters	NNS;;4
+settlements	NNS;;13
+technicians	NNS;;6
+lips	NNS;;4
+negatives	NNS;;3
+vacancies	NNS;;3
+amounts	VBZ;;10	NNS;;65
+fears	VBZ;;6	NNS;;30
+positions	VBZ;;1	NNS;;68
+radicals	NNS;;3
+patents	NNS;;8
+servants	NNS;;3
+averages	VBZ;;1	NNS;;9
+delegates	NNS;;3
+times	CC;;6	NNPS;;4	NNS;;145	NNP;;65
+chemicals	NNPS;;2	NNS;;48	NNP;;1
+dwellings	NNS;;4
+officials	NNS;;450	NNP;;3
+tens	NNS;;6
+hits	VBZ;;9	NNS;;19
+limits	VBZ;;5	NNS;;37
+strains	NNS;;3
+diplomats	NNS;;4
+liberals	NNS;;7
+guerrillas	NNS;;10
+abortions	NNS;;18
+parts	NNS;;77
+payments	NNS;;93
+moderates	NNS;;5
+limitations	NNPS;;1	NNS;;9
+fountains	NNS;;3
+compromises	VBZ;;1	NNS;;5
+functions	NNS;;12
+ingredients	NNS;;6
+crops	NNS;;10
+landlords	NNS;;3
+men	NNPS;;1	NNS;;72	NN;;3	NNP;;2
+guests	NNS;;6
+movies	NNS;;40
+exceptions	NNS;;11
+manuals	NNS;;3
+athletes	NNS;;7
+glycols	NNS;;3
+comedies	NNS;;3
+curators	NNS;;3
+merchants	NNPS;;1	NNS;;9	NNP;;3
+floors	NNS;;11
+digs	VBZ;;1	NNS;;4
+competitors	NNS;;65
+ears	NNS;;3
+ceilings	NNS;;4
+cans	NNS;;6
+programs	NNS;;166
+investments	NNPS;;5	NNS;;73	NNP;;13
+copyrights	NNS;;3
+supervisors	NNPS;;3	NNS;;7
+subscriptions	NNS;;3
+factions	NNS;;3
+clinics	NNS;;4
+utilities	NNPS;;4	NNS;;30	NNP;;10
+premises	NNS;;3
+proposals	NNS;;60
+majors	NNS;;4
+rebates	NNS;;10
+pitchers	NNS;;3
+bushels	NNS;;6
+shoes	NNS;;10
+spreadsheets	NNS;;3
+fatalities	NNS;;3
+petrochemicals	NNS;;8
+setbacks	NNS;;8
+speculators	NNS;;26
+bets	NNS;;8
+sheets	NNS;;10
+complaints	NNS;;26
+playoffs	NNS;;7
+sites	NNS;;11
+bearings	NNS;;3
+miles	NNS;;45	NNP;;3
+approvals	NNS;;8
+coupons	NNS;;4
+laptops	NNS;;3
+sights	NNS;;4
+credentials	NNS;;5
+images	NNS;;9
+pockets	VBZ;;1	NNS;;10
+deadlines	NNS;;6
+strikers	NNS;;3
+assets	NNPS;;2	NNS;;252
+colleges	NNS;;3	NNP;;1
+farms	VBZ;;1	NNS;;10
+anti-abortionists	NNS;;5
+creatures	NNS;;7
+shareholders	NNS;;111
+restraints	NNS;;5
+halts	VBZ;;2	NNS;;9
+salesmen	NNS;;4
+days	NNPS;;2	NNS;;436	NN;;2
+numbers	NNPS;;1	NNS;;57
+acts	VBZ;;7	NNS;;19
+pcs	NNS;;10	NNP;;1
+viewers	NNS;;33
+heights	NNPS;;1	NNS;;4	NNP;;1
+paper-products	NNS;;3
+showers	NNS;;4
+three-quarters	NNS;;5
+programmers	NNS;;5
+eggs	NNS;;13	NNP;;5
+services	VBZ;;1	NNPS;;38	NNS;;169	NNP;;23
+rebels	NNS;;16
+commissions	VBZ;;1	NNS;;24
+businesses	NNS;;169
+headlines	NNS;;7
+divestitures	NNS;;3
+restaurants	NNPS;;1	NNS;;21
+appropriations	NNPS;;8	NNS;;19	NNP;;6
+rivals	VBZ;;2	NNS;;28
+grains	NNS;;6
+elections	NNS;;50
+denominations	NNS;;6
+strips	VBZ;;1	NNS;;7
+adjusters	NNS;;13
+collectors	NNS;;7
+pickers	NNS;;4
+planes	NNS;;20
+antiquities	NNS;;3
+bankers	NNPS;;16	NNS;;84	NNP;;3
+reductions	NNS;;18
+prizes	NNS;;3
+highs	NNS;;13
+horns	NNS;;3
+approaches	VBZ;;2	NNS;;7
+allies	NNS;;24
+recipes	NNS;;4
+teams	NNS;;24
+excesses	NNS;;8
+difficulties	NNS;;28
+trips	NNS;;11
+notebooks	NNS;;5
+assessments	NNS;;3
+arrangements	NNS;;14
+comparisons	NNS;;7
+stores	VBZ;;1	NNPS;;15	NNS;;119	NNP;;23
+crudes	NNS;;4
+periods	NNS;;18
+commentators	NNS;;3
+public-relations	NNS;;3	NN;;1	JJ;;1
+guidelines	NNS;;45
+supplies	VBZ;;4	NNS;;36
+museums	NNPS;;1	NNS;;6
+issuers	NNS;;7
+prints	VBZ;;1	NNS;;3
+tenders	NNS;;6
+deficiencies	NNS;;6
+receivables	NNS;;3	NN;;1
+gadgets	NNS;;3
+hotel-casinos	NNS;;3
+diseases	NNS;;12
+mega-issues	NNS;;6
+revisions	NNS;;5
+attractions	NNS;;3
+immigrants	NNS;;5
+tourists	NNS;;19
+promotions	NNS;;8
+colors	NNS;;13
+situations	NNS;;7
+warehouses	NNS;;3
+s&ls	NNS;;7	NNP;;2
+accessories	NNS;;3	NNP;;1
+peaks	NNS;;6
+grades	NNS;;6
+dissenters	NNS;;6
+attacks	VBZ;;1	NNS;;15
+nerds	NNPS;;1	NNS;;4
+papers	NNS;;26	NNP;;2
+deliveries	NNS;;8
+durable-goods	NNS;;3
+tanks	NNS;;15
+clouds	NNS;;5
+posts	VBZ;;4	NNS;;15
+standards	NNPS;;3	NNS;;54
+equivalents	NNS;;6
+cases	VBZ;;1	NNS;;103
+syndicates	NNS;;6
+tensions	NNS;;7
+wholesalers	NNS;;5
+cards	NNS;;17
+jokes	VBZ;;1	NNS;;6
+commitments	NNS;;40
+refiners	NNS;;4
+bodies	NNS;;5
+donations	NNS;;24
+swaps	NNS;;5
+beaches	NNS;;4
+instruments	NNPS;;5	NNS;;35	NNP;;4
+cultures	NNS;;5
+bullets	NNS;;3
+finals	NNS;;3
+directors	NNPS;;2	NNS;;97
+decisions	NNS;;44
+lawmakers	NNS;;52
+breakers	NNS;;26
+horses	NNS;;6
+disclosures	NNS;;5
+instructions	NNS;;7
+policyholders	NNS;;3
+mainframes	NNS;;17
+roofs	NNS;;3
+interviews	NNS;;16
+scanners	NNS;;3
+architects	NNPS;;1	NNS;;7
+dealers	NNPS;;7	NNS;;125	NNP;;3
+gains	VBZ;;1	NNS;;144
+grievances	NNS;;3
+threats	NNS;;10
+ups	NNS;;3
+daughters	NNS;;10
+contractors	NNS;;16
+questions	VBZ;;1	NNS;;68
+sightings	NNS;;3
+policy-makers	NNS;;3
+seamen	NNS;;8
+fleets	VBZ;;1	NNS;;4
+inventories	NNS;;44
+rows	NNS;;3
+fluctuations	NNS;;8
+users	NNS;;26
+posters	NNS;;3
+departments	NNS;;20
+languages	NNS;;3
+makers	NNPS;;1	NNS;;162
+concessions	NNS;;17
+assumptions	NNS;;4
+mushrooms	NNS;;8
+accountants	NNPS;;1	NNS;;6
+respondents	NNS;;7
+reservations	NNS;;4
+remedies	NNS;;3
+decliners	NNS;;4
+provisions	NNS;;57
+hosts	VBZ;;1	NNS;;4
+kinds	NNS;;17
+writings	NNS;;5
+specialties	NNS;;3
+borrowers	NNS;;10
+woes	NNS;;9
+legs	NNS;;4
+seminars	NNS;;4
+lenders	NNS;;42	NNP;;1
+conclusions	NNS;;8
+pioneers	NNS;;3
+opinions	NNS;;13
+collections	NNS;;4
+steps	VBZ;;4	NNS;;46
+people	NNPS;;4	NNS;;621	NN;;1	NNP;;2
+dollars	NNPS;;1	NNS;;142
+citizens	NNPS;;7	NNS;;25	NNP;;4
+defendants	NNS;;40
+methods	NNS;;9
+halls	NNS;;6
+manufacturers	NNPS;;14	NNS;;57	NNP;;11
+panels	NNS;;10
+supporters	NNS;;25
+developers	NNS;;27	NNP;;2
+allegations	NNS;;35
+studies	NNPS;;1	NNS;;41
+carpets	NNS;;6
+predictions	NNS;;13
+values	VBZ;;6	NNS;;39
+write-downs	NNS;;8	NN;;2
+agendas	NNS;;5
+t-shirts	NNS;;4
+applications	NNS;;25
+acceptances	NNPS;;2	NNS;;10
+sectors	NNS;;14
+decades	NNS;;15
+subordinates	VBZ;;1	NNS;;3
+records	VBZ;;2	NNPS;;8	NNS;;21	NNP;;4
+jetliners	NNS;;5
+financings	NNS;;3
+tastes	NNS;;3
+infections	NNS;;3
+forecasters	NNS;;5
+realists	NNS;;3
+jets	NNS;;4
+downs	NNS;;3
+costs	VBZ;;28	NNS;;225
+trains	VBZ;;1	NNS;;5
+ratios	NNS;;9
+parties	NNS;;51
+listeners	NNS;;8
+penalties	NNS;;18
+installations	NNS;;10
+hours	NNS;;105
+states	VBZ;;6	NNPS;;21	NNS;;107	NNP;;4
+equities	NNPS;;1	NNS;;15
+earnings	NNS;;489	NN;;4
+evaluations	NNS;;4
+acquisitions	NNS;;54
+radios	NNS;;4
+exposures	NNS;;4
+refrigerators	NNS;;7
+fights	VBZ;;1	NNS;;3
+defections	NNS;;4
+researchers	NNS;;62	NNP;;1
+stockholders	NNS;;13
+agents	NNPS;;2	NNS;;27
+pistons	NNS;;5
+insiders	NNS;;15
+towns	NNS;;5	NNP;;2
+levels	NNS;;132
+pillars	NNS;;4
+victims	NNS;;37
+demands	VBZ;;3	NNS;;27
+criticisms	NNS;;4
+customers	NNS;;172
+codes	NNS;;3
+portables	NNS;;3
+actors	NNS;;12
+robots	NNS;;3
+sides	NNS;;44
+results	VBZ;;3	NNS;;231
+categories	NNS;;12
+shivers	NNS;;3	NNP;;1
+residents	NNS;;43
+ministers	NNPS;;1	NNS;;16	NNP;;1
+payrolls	NNS;;3
+blocks	NNS;;14
+intellectuals	NNS;;5
+designs	VBZ;;3	NNS;;14
+mafias	NNS;;3
+blows	NNS;;3
+colleagues	NNS;;31
+necessities	NNS;;3
+documents	VBZ;;1	NNS;;44
+secretaries	NNS;;6
+exchanges	NNS;;89
+committees	VBZ;;1	NNS;;12
+yuppies	NNS;;8
+bidders	NNS;;21
+creditors	NNS;;78
+historians	NNS;;3
+restrictions	NNS;;53
+figures	VBZ;;14	NNS;;93
+quotas	NNS;;24
+degrees	NNS;;6
+forecasts	VBZ;;2	NNS;;31
+coolants	NNS;;3
+moments	NNS;;5
+indications	NNS;;24
+seeds	NNS;;15
+libertarians	NNS;;3
+recapitalizations	NNS;;3
+sellers	NNS;;36
+counters	NNS;;4
+notions	NNS;;4
+employees	NNS;;175	NNP;;2
+homeowners	NNS;;7
+supermarkets	NNS;;5	NNP;;1
+backgrounds	NNS;;3
+crimes	NNS;;22
+dialects	NNS;;3
+appointments	NNS;;5
+practices	NNPS;;1	NNS;;48	NNP;;1
+neighborhoods	NNS;;15
+irregularities	NNS;;3
+deputies	NNPS;;1	NNS;;3
+packages	VBZ;;1	NNS;;16
+requests	NNS;;20
+dozens	NNS;;15
+families	NNS;;38
+closings	NNS;;3
+caps	NNS;;3
+lapses	VBZ;;1	NNS;;3
+productions	NNPS;;2	NNS;;5	NNP;;1
+comments	NNS;;38	NNP;;1
+graduates	VBZ;;1	NNS;;7
+balances	NNS;;3	NNP;;1
+negotiators	NNS;;12
+microprocessors	NNS;;5
+incidents	NNS;;6
+subsidies	NNS;;33
+fortunes	NNS;;9
+eurodollars	NNPS;;2	NNS;;9
+birds	NNS;;4
+defenses	NNS;;5
+milestones	NNS;;11
+households	NNS;;11
+fruits	NNS;;3
+start-ups	NNS;;4
+undertakings	NNS;;3
+dangers	NNS;;5
+shortages	NNS;;9
+wounds	NNS;;4
+observers	NNS;;34
+heels	NNS;;7
+media	NNS;;80	NN;;3	NNP;;9
+traps	NNS;;3
+pesetas	NNS;;4
+pounds	NNS;;22
+suppliers	NNS;;16
+credits	VBZ;;1	NNS;;19
+paints	NNS;;4
+protests	VBZ;;2	NNS;;16
+builders	NNPS;;2	NNS;;11	NNP;;2
+sales	NNS;;860	JJ;;6	NNP;;1
+aftershocks	NNS;;10
+moves	VBZ;;15	NNS;;53
+chords	NNS;;3
+robes	NNS;;3
+witnesses	NNS;;15
+answers	VBZ;;5	NNS;;14
+chunks	NNS;;3
+polyps	NNS;;5
+powerhouses	NNS;;3
+bugs	NNS;;17
+co-chairmen	NNS;;3
+fines	NNS;;6	NNP;;1
+markdowns	NNS;;4
+partnerships	NNS;;18
+performers	NNS;;12
+trees	NNS;;12
+assistants	NNS;;3
+ideologues	NNS;;3
+transcripts	NNS;;3
+voters	NNPS;;1	NNS;;30	NNP;;1
+quarters	NNS;;34
+guarantees	VBZ;;4	NNS;;38
+reits	NNS;;5
+trends	NNS;;18
+rolls	VBZ;;2	NNS;;7
+circuits	NNS;;6
+adults	NNS;;13
+politicians	NNS;;37
+spectators	NNS;;4
+visits	VBZ;;3	NNS;;9
+portfolios	NNS;;24
+cds	NNPS;;12	NNS;;25	NNP;;1
+affidavits	NNS;;7
+products	NNPS;;17	NNS;;299	NNP;;9
+juries	NNS;;5
+statutes	NNS;;4
+pools	NNS;;5
+critics	NNS;;50
+conservatives	NNPS;;2	NNS;;18
+fuels	NNS;;6
+consequences	NNS;;18
+proceedings	NNS;;29
+capitalists	NNS;;6
+squads	NNS;;3
+feet	NNS;;57
+deposits	VBZ;;1	NNPS;;1	NNS;;49
+annuities	NNS;;9
+retirees	NNS;;3
+fronts	NNS;;7
+reforms	NNS;;28
+companies	NNPS;;3	NNS;;668	NNP;;1
+clothes	NNPS;;1	NNS;;15
+spouses	NNS;;8
+shelters	NNS;;3
+rights	NNPS;;4	NNS;;130	NNP;;8
+blips	NNS;;3
+enthusiasts	NNS;;4
+messages	NNS;;8
+economists	NNS;;69
+executions	NNS;;9
+girls	NNS;;3
+villages	NNS;;3
+points	VBZ;;19	NNPS;;1	NNS;;255
+thirds	NNS;;3
+judges	NNPS;;3	NNS;;41	NNP;;2
+debts	NNS;;16
+fields	NNPS;;1	NNS;;23
+zones	NNS;;3
+sorts	NNS;;8
+quantities	NNS;;6
+bottles	NNS;;6
+sidelines	NNS;;14
+facts	NNS;;15
+justices	NNPS;;2	NNS;;8	NNP;;1
+islands	NNPS;;1	NNS;;3
+ribbons	NNS;;4
+authorities	NNS;;31	NNP;;1
+transfers	VBZ;;2	NNS;;12
+editors	NNS;;11
+marks	VBZ;;14	NNS;;67	NNP;;5
+troops	NNS;;11
+scenarios	NNS;;7
+inflows	NNS;;4
+rays	NNS;;3
+guys	NNS;;21
+sitcoms	NNS;;3
+cuts	VBZ;;10	NNS;;68
+aspirations	NNS;;5
+mechanisms	NNPS;;1	NNS;;4
+listings	NNS;;3
+corporations	NNS;;56	NNP;;1
+massages	NNS;;9
+cracks	NNS;;7
+investigations	NNS;;10
+refunds	NNS;;6
+checks	NNS;;12
+holders	NNS;;109
+borders	NNS;;9
+vagaries	NNS;;3
+buy-outs	NNS;;48
+gangs	NNS;;3
+robbers	NNS;;4
+underwriters	NNS;;26
+seconds	NNS;;13
+thefts	NNS;;4
+stations	NNS;;31
+lands	NNS;;3
+solvents	NNS;;5
+videos	NNS;;4
+students	NNS;;44
+brands	VBZ;;1	NNPS;;6	NNS;;18	NNP;;4
+talks	VBZ;;4	NNS;;129
+allowances	NNS;;3
+mothers	NNS;;3
+titles	NNS;;7
+prosecutors	NNS;;50
+suspensions	NNS;;3
+purchases	VBZ;;1	NNS;;56
+galleries	NNS;;3
+energies	NNS;;4
+males	NNS;;6
+walls	NNS;;19
+habits	NNS;;7
+initiatives	NNS;;9
+participants	NNS;;38
+wages	NNS;;12
+depths	NNS;;3
+freedoms	NNS;;9
+generators	NNS;;4
+prices	VBZ;;1	NNS;;703	NN;;1	NNP;;2
+irises	NNS;;3
+vessels	NNS;;7
+cents	NNS;;502
+desks	NNS;;10
+injuries	NNS;;20
+matters	VBZ;;5	NNS;;40
+examples	NNS;;5
+minors	NNS;;5
+staffs	NNS;;8
+demonstrations	NNS;;13
+staffers	NNS;;17
+campuses	NNS;;4
+names	VBZ;;1	NNPS;;1	NNS;;21
+resolutions	NNS;;7
+oils	NNS;;7
+proportions	NNS;;4
+maturities	NNS;;11
+regions	NNS;;12
+winners	NNS;;14
+buildings	NNS;;39
+specifications	NNS;;7
+acres	NNS;;12	NNP;;1
+whites	NNS;;21
+airports	NNS;;7	NNP;;1
+electronics	NNPS;;3	NNS;;27	NN;;8	NNP;;12
+callers	NNS;;5
+improprieties	NNS;;3
+areas	NNS;;97
+purses	NNS;;3
+discounts	VBZ;;1	NNS;;11
+robberies	NNS;;5
+indicators	NNPS;;1	NNS;;23
+airplanes	NNPS;;1	NNS;;7
+splits	VBZ;;4	NNS;;9
+creators	NNS;;5
+seats	VBZ;;2	NNS;;22
+tests	VBZ;;2	NNS;;33
+articles	NNS;;17
+dunes	NNPS;;1	NNS;;5
+billions	NNS;;27
+variations	NNS;;3
+minutes	NNPS;;1	NNS;;85	NNP;;1
+hats	NNS;;3
+leaders	NNS;;119
+estimates	VBZ;;24	NNS;;85
+hundreds	NNS;;36	NNP;;1
+masseurs	NNS;;4
+discrepancies	NNS;;8
+writers	NNS;;7
+reformers	NNS;;7
+expectations	NNS;;62
+revelations	NNS;;3
+brushes	NNS;;3
+localities	NNS;;3
+countries	NNPS;;3	NNS;;107	NNP;;2
+dips	NNS;;3
+shots	NNS;;7
+lenses	NNS;;5
+teachers	NNPS;;1	NNS;;16
+clubs	NNPS;;1	NNS;;10	NNP;;1
+meters	NNS;;6
+landowners	NNS;;4
+bids	VBZ;;3	NNS;;57
+commercials	NNS;;12
+brokerages	NNS;;4
+trustees	NNS;;5
+groups	NNS;;96
+strategies	NNS;;32	NNP;;1
+criteria	NNS;;6
+districts	NNS;;25
+requirements	NNS;;54
+conversations	NNS;;15
+possibilities	NNS;;9
+millions	NNS;;33
+surveys	NNS;;17
+shorts	NNS;;3
+visitors	NNPS;;1	NNS;;18
+weapons	NNS;;25	NNP;;1
+receivers	NNS;;3
+successes	NNS;;6
+coups	NNS;;4
+shifts	NNS;;7
+events	NNS;;84
+producers	NNS;;122
+grounds	NNPS;;2	NNS;;21
+schedules	NNS;;12
+hazards	NNS;;5
+subcontractors	NNS;;4
+politics	NNPS;;1	NNS;;35	NN;;2	NNP;;2
+announcements	NNS;;10
+arsenals	NNS;;5
+odds	NNPS;;2	NNS;;20
+guns	NNS;;4
+recoveries	NNS;;4
+options	NNPS;;9	NNS;;123	NNP;;10
+screens	VBZ;;3	NNS;;11
+debates	NNS;;10
+audiences	NNS;;15
+packaged-goods	NNS;;4	JJ;;1
+automobiles	NNS;;6
+cooperatives	NNS;;11
+units	NNS;;118	NNP;;1
+defects	NNS;;11
+attendants	NNPS;;1	NNS;;12
+middlemen	NNS;;3
+measures	VBZ;;11	NNS;;56
+institutions	NNPS;;2	NNS;;111	NNP;;2
+furnaces	NNS;;3
+reasons	VBZ;;2	NNS;;43
+ages	NNPS;;2	NNS;;7
+advisers	NNPS;;4	NNS;;35	NNP;;4
+lows	NNS;;14
+overtures	NNS;;3
+vendors	NNS;;5
+issues	VBZ;;1	NNPS;;2	NNS;;294	NNP;;2
+dissidents	NNS;;4
+growers	NNS;;14
+journalists	NNS;;17
+ships	NNS;;22
+studios	NNPS;;1	NNS;;20
+thrifts	NNS;;56
+rigs	NNS;;4
+hearings	NNS;;29
+patients	NNPS;;1	NNS;;34
+tactics	NNS;;11
+barrels	NNS;;36
+provinces	NNS;;3
+hunters	NNS;;7
+fertilizers	NNS;;4
+refineries	NNS;;6
+gyrations	NNS;;14
+capabilities	NNS;;4
+elevators	NNS;;4
+mines	NNPS;;3	NNS;;15	NNP;;2
+bosses	NNS;;9
+oceans	NNS;;3
+resignations	NNS;;11
+bonuses	NNS;;11
+atoms	NNS;;3
+beneficiaries	NNS;;8
+opponents	NNS;;18
+derivatives	NNS;;4
+cutbacks	NNS;;6	NNP;;1
+rulings	NNS;;3
+revenues	NNS;;31
+types	NNS;;22
+stockpiles	NNS;;3
+auditors	NNS;;3
+survivors	NNS;;5
+schools	NNS;;41	NNP;;1
+newscasts	NNS;;3
+speeds	VBZ;;1	NNS;;3
+channels	NNS;;12
+lawsuits	NNS;;34	NN;;1
+doors	NNS;;14
+meetings	NNS;;39
+lessons	NNS;;5
+societies	NNS;;4
+sedans	NNS;;3
+pressures	NNS;;25
+damages	NNS;;43
+photographers	NNS;;4	NNP;;1
+palmtops	NNS;;3
+consultants	NNS;;34	NNP;;2
+enemies	NNS;;5
+substitutes	NNS;;4
+magazines	NNS;;62
+devices	NNPS;;1	NNS;;35	NNP;;1
+negotiations	NNS;;73
+models	NNS;;43
+passengers	NNS;;13
+tasks	NNS;;11
+experiments	NNS;;10
+limbs	NNS;;3
+recordings	NNS;;4
+laws	NNS;;51
+steelmakers	NNS;;20
+lbos	NNS;;9	NNP;;1
+worries	VBZ;;3	NNS;;13
+representatives	NNPS;;8	NNS;;41	NNP;;1
+polls	VBZ;;2	NNS;;15
+policies	NNS;;63
+expenditures	NNPS;;1	NNS;;18
+missiles	NNS;;7	NNP;;1
+safeguards	NNS;;6
+aspects	NNS;;19
+memories	NNS;;7
+aggregates	NNS;;5
+planners	NNPS;;1	NNS;;6
+scientists	NNS;;50
+reactors	NNS;;4
+foundations	NNS;;6
+suggestions	NNS;;13
+treatments	NNS;;3
+waves	NNS;;17
+investigators	NNS;;16
+blacks	NNPS;;4	NNS;;34
+owners	NNS;;69	NNP;;1
+housewares	NNPS;;1	NNS;;4
+fishermen	NNS;;3
+reporters	NNS;;30
+spirits	NNPS;;1	NNS;;21
+races	NNS;;3
+readers	NNS;;30
+advertisements	NNS;;5
+baskets	NNS;;17
+anthers	NNS;;4
+yields	VBZ;;4	NNS;;75
+transactions	NNS;;75
+departures	NNS;;5
+apartments	NNS;;8
+inches	NNS;;9
+astronauts	NNS;;4
+highways	NNS;;6
+licenses	VBZ;;4	NNS;;10
+commodities	NNPS;;1	NNS;;16	NNP;;4
+regulators	VBZ;;2	NNS;;113
+ambitions	NNS;;4
+bonds	NNPS;;2	NNS;;491	NNP;;3
+nominees	NNS;;4
+discoveries	NNS;;3
+rooms	NNS;;36
+nerves	NNS;;11
+demonstrators	NNS;;8
+imbalances	NNS;;16
+trials	NNS;;8
+jumbos	NNS;;3
+watchers	NNPS;;1	NNS;;8
+items	NNS;;54
+receipts	NNPS;;2	NNS;;13	NNP;;1
+theories	NNS;;9
+workstations	NNS;;9
+strategists	NNS;;9
+defenders	NNS;;6
+plastics	NNPS;;2	NNS;;28
+bans	VBZ;;1	NNS;;5
+rocks	NNS;;7
+schemes	NNS;;3
+foreclosures	NNS;;4
+imperialists	NNS;;3
+campaigns	NNS;;12
+snags	NNS;;3
+scenes	NNS;;8
+projections	NNS;;26
+cattle	NNS;;7
+terms	NNS;;161
+foes	NNS;;7
+kronor	NNS;;10	NN;;2
+duties	NNS;;14
+allotments	NNS;;3
+successors	NNS;;4
+boxes	NNPS;;2	NNS;;11
+months	NNS;;576
+assassinations	NNS;;4
+entries	NNS;;3
+purchasers	NNS;;9
+jolts	NNS;;3
+territories	NNPS;;1	NNS;;5
+organizations	NNPS;;1	NNS;;19	NNP;;2
+restructurings	NNS;;3
+forms	VBZ;;1	NNS;;22
+pills	NNS;;15
+cars	NNPS;;1	NNS;;93
+selections	NNS;;4
+monopolies	NNS;;6	NNP;;2
+investors	NNPS;;20	NNS;;568	NNP;;16
+appraisals	NNS;;3
+layoffs	NNS;;13
+overruns	NNS;;4
+televisions	NNS;;3
+losers	NNS;;10
+perceptions	NNS;;6
+realities	NNS;;3
+followers	NNS;;4
+favorites	NNS;;3
+ounces	NNS;;13
+rules	VBZ;;2	NNPS;;3	NNS;;113
+bribes	NNS;;3
+interiors	NNS;;3
+beliefs	NNS;;3
+hospitals	NNPS;;1	NNS;;17
+suites	NNS;;5
+iras	NNPS;;3	NNS;;10
+toys	NNPS;;4	NNS;;10
+factories	NNS;;25
+cows	NNS;;4
+telephones	NNS;;10	NNP;;1
+banks	NNPS;;3	NNS;;359	NNP;;5
+occasions	NNS;;8
+sketches	VBZ;;1	NNS;;3
+trusts	NNS;;7
+labs	NNPS;;1	NNS;;5
+authors	NNS;;9
+norms	NNS;;4
+ducks	VBZ;;1	NNS;;6
+officers	NNS;;22
+loopholes	NNS;;4
+recommendations	NNS;;16
+conditions	NNS;;75
+secrets	NNS;;4
+ballots	NNS;;3
+wings	NNS;;7
+stimulators	NNS;;5
+plots	NNS;;6
+spokesmen	NNS;;4	NNP;;1
+regulations	NNPS;;1	NNS;;34
+lubricants	NNS;;5
+miners	NNS;;5
+paintings	NNS;;35
+advocates	VBZ;;2	NNS;;16
+quotations	NNS;;23
+backers	NNS;;4
+write-offs	NNS;;4	NN;;1
+hands	VBZ;;2	NNS;;56
+margins	NNS;;56	NNP;;1
+intentions	NNS;;10
+partners	NNPS;;13	NNS;;53	NNP;;20
+bases	VBZ;;1	NNS;;17
+procedures	NNS;;23
+humans	NNS;;9
+outsiders	NNS;;12
+recessions	NNS;;4
+municipals	NNS;;12
+appearances	NNS;;4
+mistakes	NNS;;7
+refugees	NNS;;8
+goals	NNS;;28
+courts	NNPS;;1	NNS;;40
+stories	NNS;;25
+friends	NNS;;24
+preferences	NNS;;4
+criminals	NNS;;10
+leaks	NNS;;3
+wars	NNS;;15	NNP;;1
+weeks	NNS;;233
+niches	NNS;;3
+features	VBZ;;10	NNPS;;1	NNS;;27
+bondholders	NNS;;22
+folks	NNS;;9
+offerings	NNS;;24
+guilders	NNS;;10
+materials	NNS;;38	NNP;;1
+buyers	NNS;;109
+feelings	NNS;;9
+dreams	VBZ;;1	NNS;;5
+shippers	NNS;;3
+diabetics	NNS;;10
+plaintiffs	NNS;;13
+teeth	NNS;;5
+cleaners	NNS;;3
+pluses	NNS;;3
+reviews	VBZ;;2	NNS;;9
+classics	NNS;;4
+introductions	NNS;;3
+attorneys	NNS;;34	NNP;;1
+felonies	NNS;;3
+eyes	NNS;;24
+topics	NNS;;5
+speakers	NNS;;3
+pricings	NNS;;8
+employers	NNPS;;1	NNS;;25	NNP;;2
+diamonds	NNS;;8
+conferences	NNS;;7
+arguments	NNS;;23
+multiples	NNPS;;1	NNS;;12
+pipes	NNS;;3
+references	NNS;;5
+strikes	VBZ;;3	NNS;;11
+turbines	NNS;;4
+amendments	NNS;;6
+personnel	NNS;;22	NN;;1	JJ;;1	NNP;;2
+drivers	NNS;;10
+franchisers	NNS;;4
+suits	NNS;;35
+twists	NNS;;3
+priorities	NNS;;11
+members	NNS;;159	NN;;1	NNP;;2
+computers	NNPS;;2	NNS;;127	NNP;;3
+doctors	NNS;;20
+orders	NNS;;170
+networks	NNS;;39	NNP;;1
+repairs	NNS;;11
+fans	VBZ;;1	NNS;;28
+dividends	NNS;;49
+vans	NNS;;8
+haunts	VBZ;;1	NNS;;6
+foreigners	NNS;;25
+disks	NNS;;9
+surpluses	NNS;;3
+goods	NNS;;98	NNP;;1
+extensions	NNS;;4
+pharmaceuticals	NNPS;;3	NNS;;11	NNP;;4
+boys	NNPS;;2	NNS;;11
+brethren	NNS;;3
+freeways	NNS;;7
+rallies	VBZ;;1	NNS;;10
+misdeeds	NNS;;4
+objects	NNS;;7
+hints	NNS;;3
+reserves	NNS;;98
+billings	NNS;;8
+disappointments	NNS;;12
+gurus	NNS;;3
+mice	NNS;;6
+cycles	NNS;;10
+divisions	NNS;;32
+ads	NNS;;71
+boards	NNS;;13
+vegetables	NNS;;5
+accidents	NNS;;3
+facilities	NNS;;48	NNP;;5
+crises	NNS;;7
+legislators	NNS;;20
+ventures	NNPS;;2	NNS;;42	NNP;;2
+swings	NNS;;30
+coffers	NNS;;4
+potatoes	NNS;;6
+ghosts	NNS;;10
+appeals	NNPS;;5	NNS;;43	NNP;;4
+airwaves	NNS;;5
+bulletins	NNS;;3
+roles	NNS;;7
+arbs	NNS;;12
+complexes	NNS;;4
+solutions	NNS;;12
+delays	NNS;;28
+games	NNPS;;9	NNS;;38	NNP;;1
+drugs	NNPS;;1	NNS;;41
+expenses	NNS;;60
+experts	NNS;;56
+interstates	NNS;;3
+relatives	NNS;;8
+addicts	NNS;;3
+offices	NNS;;68
+totals	VBZ;;2	NNS;;5
+portions	NNS;;5
+propagandists	NNS;;3
+bacteria	NNS;;8
+soybeans	NNS;;9
+ballets	NNS;;3	NNP;;1
+sports	VBZ;;1	NNPS;;14	NNS;;53	NNP;;9
+geeks	NNPS;;1	NNS;;3
+subsidiaries	NNS;;19
+returns	VBZ;;5	NNS;;40
+ideas	NNS;;22
+probes	NNS;;5
+dealerships	NNS;;5
+kickbacks	NNS;;5
+connections	NNS;;4
+diners	NNS;;3
+bricks	NNS;;3
+couples	NNS;;12
+insurers	NNS;;37	NNP;;3
+persons	NNS;;4
+actions	NNS;;48
+subcommittees	NNS;;3
+burdens	VBZ;;1	NNS;;6
+tariffs	NNPS;;2	NNS;;12	NNP;;2
+accounts	VBZ;;14	NNPS;;2	NNS;;76
+activities	NNS;;65
+reins	NNS;;3
+pitfalls	NNS;;4
+coatings	NNS;;5
+jurors	NNS;;18
+markets	VBZ;;3	NNPS;;21	NNS;;431	NNP;;33
+weaknesses	NNS;;8
+market-makers	NNS;;4
+inquiries	NNS;;8
+communities	NNS;;14
+fees	NNS;;86
+pipelines	NNPS;;1	NNS;;5	NNP;;2
+risks	VBZ;;4	NNS;;38
+liabilities	NNS;;20
+nights	NNPS;;1	NNS;;7
+pennies	NNS;;4
+rubles	NNS;;10
+medicines	NNS;;3	NNP;;1
+declines	VBZ;;17	NNS;;56
+rollers	NNS;;5
+brokers	NNPS;;2	NNS;;84
+plants	NNS;;117
+alliances	NNS;;11
+examiners	NNS;;6
+holidays	NNS;;3
+chickens	NNS;;3
+tables	NNS;;11
+workers	NNPS;;24	NNS;;168	NNP;;5
+price\/earnings	NNS;;5
+associations	NNS;;13
+sections	NNS;;3
+files	VBZ;;2	NNS;;6
+problems	NNS;;237
+gainers	NNS;;7
+traders	NNS;;363
+minivans	NNS;;4
+worlds	NNPS;;1	NNS;;4
+bills	VBZ;;1	NNPS;;2	NNS;;137
+ipos	NNS;;3
+non-seamen	NNS;;4
+knees	NNS;;4
+chances	NNS;;12
+chips	NNPS;;1	NNS;;24
+publishers	NNPS;;2	NNS;;17
+agencies	NNPS;;1	NNS;;75
+auctions	NNPS;;1	NNS;;6
+bottlers	NNS;;3
+charts	VBZ;;2	NNS;;8
+malls	NNS;;5
+chlorofluorocarbons	NNS;;3
+coaches	NNS;;8
+rumors	VBZ;;1	NNS;;37
+batteries	NNS;;6
+travelers	NNPS;;2	NNS;;5
+volumes	NNS;;6
+aides	NNS;;19
+tires	NNS;;4
+fingers	NNS;;6	NNP;;2
+reports	VBZ;;20	NNPS;;4	NNS;;98	NNP;;1
+marketers	NNS;;10
+temperatures	NNS;;9
+youths	NNS;;4
+senators	NNPS;;2	NNS;;31	NNP;;3
+pleasantries	NNS;;3
+shutdowns	NNS;;3
+grapes	NNS;;3
+shelves	NNS;;7
+nations	NNPS;;4	NNS;;38
+stamps	NNS;;3
+parallels	VBZ;;1	NNS;;3
+pits	NNS;;5
+holdings	NNPS;;27	NNS;;70	NNP;;21
+things	NNS;;157
+strengths	NNS;;3
+statements	NNS;;32
+consumer-products	NNS;;3	JJ;;1
+talents	NNS;;5
+prosecutions	NNS;;12
+linkages	NNS;;3
+depositors	NNS;;3
+rents	VBZ;;1	NNS;;15
+findings	NNS;;15
+yards	NNS;;7
+financiers	NNS;;6
+films	NNS;;13
+transplants	NNS;;7
+subscribers	NNS;;21
+routes	NNS;;11
+shoppers	NNS;;14
+structures	NNS;;12	NNP;;1
+remarks	VBZ;;1	NNS;;30
+pages	NNPS;;1	NNS;;44
+oncogenes	NNS;;3
+decks	NNS;;4
+jobs	NNS;;66	NNP;;7
+births	NNS;;3
+scandals	NNS;;14
+myths	NNS;;4
+pollutants	NNS;;4
+gifts	NNS;;9
+tours	NNS;;5
+disruptions	NNS;;6
+showrooms	NNS;;3
+roadways	NNS;;4
+fetuses	NNS;;3
+objectives	NNS;;12
+objections	NNS;;12
+blues	NNS;;3	NNP;;1
+financial-services	NNS;;6	JJ;;2
+firms	NNPS;;1	NNS;;239	NNP;;1
+knights	NNS;;3
+prospects	NNS;;35
+fibers	NNS;;10
+arrests	NNS;;3
+surprises	NNS;;8
+signals	VBZ;;3	NNS;;14
+projects	VBZ;;2	NNS;;96	NNP;;1
+royalties	NNS;;7
+scraps	NNS;;3
+elements	NNS;;9
+centers	VBZ;;3	NNPS;;2	NNS;;35	NNP;;2
+tools	NNS;;22
+animals	NNPS;;1	NNS;;14
+purposes	NNS;;17
+pieces	NNS;;22
+pigs	NNS;;7
+ties	VBZ;;3	NNPS;;1	NNS;;34
+repercussions	NNS;;3
+traces	VBZ;;1	NNS;;3
+gatherings	NNS;;3
+printers	NNS;;4
+recorders	NNS;;9
+deficits	NNS;;13
+cosmetics	NNPS;;1	NNS;;29
+increases	VBZ;;10	NNS;;97
+salaries	NNS;;12
+loans	NNS;;251
+executives	NNPS;;1	NNS;;234	NNP;;1
+contractions	NNS;;3
+roads	NNS;;12
+spots	VBZ;;1	NNS;;15
+nominations	NNS;;3
+forests	NNS;;4
+relationships	NNPS;;1	NNS;;19
+votes	VBZ;;3	NNS;;34
+exporters	NNS;;6
+tickets	NNS;;13
+casinos	NNS;;6
+1940s	NNS;;3	CD;;1
+phones	VBZ;;1	NNS;;12
+spooks	NNS;;3
+opportunities	NNPS;;1	NNS;;36
+cameras	NNS;;4
+powers	NNS;;11	NNP;;3
+indexes	NNS;;17
+forces	VBZ;;5	NNS;;61
+circles	NNS;;10
+newcomers	NNS;;6
+explanations	NNS;;3
+engines	NNS;;18
+convictions	NNS;;7
+trucks	NNPS;;1	NNS;;33
+fares	VBZ;;1	NNS;;7
+securities	NNPS;;108	NNS;;344	NNP;;94
+t-bills	NNS;;5
+outlays	NNS;;8
+properties	NNPS;;1	NNS;;53	NN;;1	NNP;;2
+newspapers	NNS;;46	NNP;;1
+considerations	NNS;;10
+prisoners	NNS;;3
+editions	NNS;;10
+cancers	NNS;;9
+distributions	NNS;;4
+scores	NNPS;;1	NNS;;16
+volunteers	NNS;;7
+bikes	NNS;;3
+genes	NNS;;38
+czars	NNS;;3
+heroes	NNS;;9
+autos	NNS;;7
+futures	NNPS;;14	NNS;;337	NNP;;9
+managers	NNPS;;1	NNS;;136	NNP;;2
+hackles	NNS;;3
+snapshots	NNS;;3
+happenings	NNS;;3
+variables	NNS;;4
+flowers	NNPS;;1	NNS;;6
+nuances	NNS;;4
+excerpts	NNS;;4
+wood-products	NNS;;3
+outflows	NNS;;11
+wheels	NNS;;3
+centuries	NNS;;4
+charges	VBZ;;15	NNS;;115
+dancers	NNS;;4
+supercomputers	NNS;;4
+conferees	NNS;;4
+chefs	NNS;;5
+cats	NNS;;3
+profits	VBZ;;2	NNPS;;1	NNS;;116
+exhibitions	NNS;;3
+consumers	NNPS;;1	NNS;;68	NNP;;1
+emotions	NNS;;3
+certificates	NNPS;;3	NNS;;24	NNP;;1
+flaws	NNS;;10
+processors	NNS;;7
+lire	NNS;;15
+demographics	NNS;;4
+inspections	NNS;;3
+businessmen	NNS;;23
+sentences	NNS;;11
+ratings	NNS;;32
+targets	VBZ;;2	NNS;;28
+performances	NNPS;;1	NNS;;10
+flights	NNS;;31
+dealings	NNS;;21
+manners	NNS;;3
+lawyers	NNPS;;1	NNS;;130	NNP;;3
+judgments	NNS;;5
+warnings	NNS;;11
+hotels	NNPS;;3	NNS;;11	NNP;;4
+statistics	NNPS;;10	NNS;;23	NNP;;8
+metals	NNPS;;2	NNS;;35	NNP;;3
+stones	NNS;;8
+catastrophes	NNS;;3
+arbitragers	NNS;;19
+filings	NNS;;25
+temblors	NNS;;3
+sanctions	NNS;;24
+helicopters	NNPS;;1	NNS;;3
+masses	NNS;;5
+masters	NNS;;10
+strokes	VBZ;;1	NNS;;5
+skeptics	NNS;;5	NNP;;1
+soldiers	NNS;;8
+distributors	NNS;;8
+unions	NNS;;14
+leases	NNS;;11
+proponents	NNS;;7
+minimills	NNS;;5
+minds	NNS;;16
+industrials	VBZ;;3	NNPS;;2	NNS;;28	NNP;;1
+obstacles	NNS;;7
+sources	NNS;;57
+filers	NNS;;3
+stakes	NNS;;14
+artists	NNS;;12
+additions	NNS;;3
+cells	NNS;;33
+segments	NNS;;10
+skills	NNS;;15
+franchisees	NNS;;17
+lights	NNS;;9
+tips	NNS;;4
+tapes	NNS;;9
+broadcasters	NNPS;;1	NNS;;4
+arms	NNS;;25
+pacts	NNS;;4
+operations	FW;;1	NNPS;;1	NNS;;277	NNP;;3
+victories	NNS;;6
+inserts	NNS;;3
+principles	NNPS;;1	NNS;;11
+advancers	NNS;;6
+junk-holders	NNS;;8
+attempts	VBZ;;5	NNS;;15
+exports	VBZ;;3	NNS;;73
+economies	NNS;;22
+murders	NNS;;5
+governors	NNS;;10	NNP;;1
+claims	VBZ;;29	NNS;;78
+commuters	NNS;;12
+stages	VBZ;;1	NNS;;10
+premiums	NNS;;20
+souls	NNS;;3
+themes	NNS;;5
+governments	NNS;;32
+arrears	NNS;;3
+francs	NNS;;72
+views	VBZ;;6	NNS;;37
+developments	NNS;;23	NNP;;1
+directories	NNS;;5
+proteins	VBZ;;1	NNS;;8
+personalities	NNS;;3
+mountains	NNPS;;1	NNS;;4
+voices	VBZ;;1	NNS;;9
+contracts	VBZ;;3	NNS;;145
+killers	NNS;;3
+trades	VBZ;;8	NNS;;60
+patrons	NNS;;4
+grants	VBZ;;1	NNPS;;3	NNS;;17
+townships	NNS;;4
+traffickers	NNS;;7
+movements	NNS;;14
+bags	NNS;;9
+mortgages	NNS;;65
+careers	NNS;;10
+retailers	NNS;;46	NNP;;2
+forfeitures	NNS;;3
+proceeds	VBZ;;3	NNS;;44
+emissions	NNS;;11
+children	NNS;;81	NNP;;2
+translations	NNS;;4
+ranges	VBZ;;3	NNS;;9
+speeches	NNS;;3
+buses	NNS;;6
+memos	NNS;;4
+arteries	NNS;;4	NN;;1
+possessions	NNS;;3
+bulls	NNPS;;1	NNS;;8
+terminals	NNS;;6
+benefits	VBZ;;3	NNS;;61
+pilots	NNPS;;1	NNS;;70	NNP;;1
+rates	VBZ;;3	NNPS;;5	NNS;;390	NNP;;2
+muscles	NNS;;3
+horizons	NNS;;3	NNP;;1
+obligations	NNS;;21
+adjustments	NNS;;18
+responses	NNS;;8
+environmentalists	NNS;;8
+headaches	NNS;;7
+drawbacks	NNS;;4
+flags	NNS;;5
+contacts	NNS;;8
+virtues	NNS;;4
+hostages	NNS;;3
+piles	NNS;;3	NN;;1
+tenants	NNS;;7
+aliens	NNS;;5
+pullbacks	NNS;;3
+broadcasts	NNS;;10
+pesticides	NNS;;18
+vehicles	NNPS;;1	NNS;;43
+failures	NNS;;10
+others	NNS;;181
+presidents	NNPS;;2	NNS;;10
+bones	NNS;;4
+responsibilities	NNS;;13
+endorsements	NNS;;4
+waters	NNS;;9	NNP;;1
+lines	NNPS;;6	NNS;;68	NNP;;6
+bridges	NNS;;7
+capital-gains	NNS;;52	NN;;1	JJ;;17
+constraints	NNS;;5
+barriers	NNS;;25
+improvements	NNS;;22
+covenants	NNS;;3
+c.d.s	NNPS;;1	NNS;;10
+photographs	NNS;;6
+stripes	NNS;;5
+phases	NNS;;3
+forest-products	NNS;;6
+clues	NNS;;4
+copies	NNS;;19
+homes	NNPS;;4	NNS;;52	NNP;;3
+cereals	NNS;;5
+novels	NNS;;5
+scholars	NNS;;10
+mid-1990s	NNS;;7	CD;;2
+chains	NNS;;30
+deaths	NNS;;25
+bureaucrats	NNS;;14
+borrowings	NNS;;12
+ramps	NNS;;3
+analysts	NNS;;454	NNP;;1
+changes	VBZ;;5	NNS;;153
+accusations	NNS;;6
+corrections	NNS;;5
+classes	NNS;;23
+glimpses	NNS;;3
+camps	NNS;;5
+labels	NNS;;8
+mergers	NNS;;25	NNP;;2
+machinists	NNPS;;5	NNS;;32	NNP;;2
+bargains	NNS;;16
+players	NNPS;;1	NNS;;55
+containers	NNS;;6
+deliberations	NNS;;3
+characters	NNS;;23
+workings	NNS;;5
+hearts	NNPS;;1	NNS;;5
+advances	NNS;;13
+efforts	NNS;;123
+accomplishments	NNS;;4
+differences	NNS;;31
+versions	NNS;;23
+neighbors	NNS;;10
+alternatives	NNS;;29
+kingpins	NNS;;3
+drinks	NNS;;9
+patrols	NNS;;5
+sessions	NNS;;13	NNP;;1
+insights	NNS;;3
+branches	NNS;;25
+constituents	NNS;;7
+corners	NNPS;;1	NNS;;7
+factors	NNS;;52
+commissioners	NNS;;7
+lobbyists	NNS;;8
+pencils	NNS;;8
+clerks	NNS;;5
+verdicts	NNS;;3
+ways	NNPS;;3	NNS;;66	NNP;;7
+cities	NNPS;;6	NNS;;33
+missions	NNS;;3
+gimmicks	NNS;;5
+assertions	NNS;;5
+shops	NNPS;;4	NNS;;26
+drives	VBZ;;9	NNS;;26
+components	NNPS;;2	NNS;;13	NNP;;1
+samples	NNS;;7
+styles	NNS;;7
+distinctions	NNS;;3
+municipalities	NNS;;3
+fundamentals	NNS;;19
+stocks	VBZ;;1	NNS;;574
+clauses	NNS;;3
+attitudes	NNS;;14
+handlers	NNS;;4
+semiconductors	NNS;;5
+appliances	NNS;;8
+punts	NNS;;9
+operators	NNS;;18
+originations	NNS;;5
+chores	NNS;;7
+shortcomings	NNS;;5
+cigarettes	NNS;;7
+finances	NNS;;11
+treasures	NNS;;4
+imports	VBZ;;2	NNS;;61	NNP;;1
+seasons	NNPS;;1	NNS;;8
+windows	NNS;;13
+starters	NNS;;3
+cartoons	NNS;;3
+bars	VBZ;;1	NNS;;6
+importers	NNS;;3
+redemptions	NNS;;16
+bailouts	NNS;;3
+engineers	NNS;;22	NNP;;1
+intervals	NNS;;4
+violations	NNS;;20
+modifications	NNS;;7
+pros	NNS;;13
+withdrawals	NNS;;13
+entrepreneurs	NNS;;14
+contributions	NNS;;30
+notes	VBZ;;30	NNPS;;2	NNS;;142	NNP;;1
+deals	VBZ;;3	NNS;;74
+universities	NNS;;13
+women	NNS;;73	NNP;;4
+hurdles	NNS;;3
+lobbies	NNS;;5
+conflicts	NNS;;12
+candidates	NNS;;27
+thousands	NNS;;40
+ones	NNS;;53
+words	NNPS;;1	NNS;;46
+generations	NNS;;7
+merits	NNS;;8
+chairmen	NNS;;8
+pants	NNS;;4
+agreements	NNS;;42
+killings	NNS;;9
+choices	NNS;;12
+stadiums	NNS;;4
+privileges	NNS;;4
+superconcentrates	NNS;;4
+earthquakes	NNS;;5
+cpas	NNS;;4
+protesters	NNS;;15
+republics	NNS;;4
+taxpayers	NNS;;32	NNP;;1
+warrants	VBZ;;1	NNS;;36
+indictments	NNS;;3
+funds	NNPS;;6	NNS;;363	NNP;;3
+clothes	NNS;;3
+fingers	NNS;;5	NNP;;1
+kids	NNS;;5
+asses	NNS;;3
+females	NNS;;7
+times	NNS;;8
+days	NNS;;4
+girls	NNS;;30
+lbs	NNS;;3
+folks	NNS;;3
+claws	NNS;;3
+men	NNS;;7
+games	NNS;;9
+people	NNPS;;1	NNS;;28
+ppl	NNS;;14
+lies	NNS;;3
+meds	NNS;;4
+sports	NNS;;6
+guys	NNS;;39	NN;;1
+ft	NNS;;4	NN;;1
+eyes	VBZ;;1	NNS;;7
+ways	NNS;;4
+profiles	NNS;;4
+fluids	NNS;;3
+seconds	NNS;;10
+ladies	NNS;;15
+roses	NNS;;4
+cookies	NNS;;7
+hours	NNS;;3
+pics	NNS;;7
+feet	NNS;;3
+pms	VBZ;;1	NNS;;3
+temptations	NNS;;4
+trials	NNS;;4
+knees	NNS;;4
+rules	NNS;;3
+things	NNS;;6
+questions	NNS;;4
+others	NNS;;6
+toes	NNS;;3
+ones	NNS;;4
+years	NNS;;6
+politics	NNS;;3
+elbows	NNS;;11
+gurls	NNS;;7
+minutes	NNS;;15
+friends	NNS;;3

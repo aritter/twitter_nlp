@@ -1,0 +1,429 @@
+therefore	RB;;26
+morally	RB;;5
+positively	RB;;4
+cheaply	RB;;6
+altogether	RB;;17
+openly	RB;;9
+busily	RB;;4
+originally	RB;;21
+modestly	RB;;15
+seriously	RB;;16
+uncharacteristically	RB;;3
+visually	RB;;4
+moderately	RB;;6
+also	RB;;1194
+sometimes	RB;;49
+considerably	RB;;14
+fundamentally	RB;;8
+nonetheless	RB;;22
+lately	RB;;11
+reasonably	RB;;13
+approximately	RB;;22
+vividly	RB;;5
+away	RP;;17	RB;;131
+essentially	RB;;14
+regardless	RB;;14
+still	JJ;;2	RB;;526
+not	RB;;1234
+now	JJ;;1	RB;;699	NNP;;1
+furthermore	RB;;10
+constantly	RB;;12
+neatly	RB;;4
+importantly	RB;;3
+actively	RB;;12
+inexplicably	RB;;4
+annually	RB;;45
+fully	RB;;76
+almost	RB;;167	NNP;;1
+anytime	RB;;7
+randomly	RB;;5
+abruptly	RB;;7
+obviously	RB;;23
+historically	RB;;9	NNP;;1
+formally	RB;;17
+scarcely	RB;;5
+increasingly	RB;;54
+previously	RB;;110
+additionally	RB;;5
+indirectly	RB;;6
+whatsoever	RB;;7
+downright	JJ;;1	RB;;4
+presumably	RB;;3
+yet	CC;;31	RB;;172
+merely	RB;;29
+pointedly	RB;;3
+allegedly	RB;;22
+reportedly	RB;;17
+again	RB;;178	NNP;;1
+seasonally	RB;;17
+socially	RB;;4
+absolutely	RB;;23
+utterly	RB;;7
+subsequently	RB;;3
+regularly	RB;;17
+nevertheless	RB;;34
+vastly	RB;;3
+newly	RB;;28
+frankly	RB;;6	NNP;;2
+traditionally	RB;;18
+thoroughly	RB;;3
+continually	RB;;6
+however	WRB;;3	RB;;366
+mildly	RB;;4
+shortly	RB;;38
+staunchly	RB;;3
+sometime	JJ;;1	RB;;17
+vigorously	RB;;5
+domestically	RB;;9
+drastically	RB;;6
+rather	RB;;147	NNP;;2
+occasionally	RB;;12
+genetically	RB;;5
+indefinitely	RB;;6
+separately	RB;;44	NNP;;10
+hence	RB;;7
+thus	RB;;91
+perhaps	RB;;102
+heavily	RB;;62
+smoothly	RB;;11
+incredibly	RB;;3
+preferably	RB;;3
+necessarily	RB;;17
+predictably	RB;;6	NNP;;1
+summarily	RB;;3
+responsibly	RB;;3
+ever	RB;;120
+fairly	RB;;37
+financially	RB;;23
+possibly	RB;;31
+later	JJ;;6	RBR;;36	RB;;147
+illegally	RB;;15
+commonly	RB;;7
+tightly	RB;;4
+intensely	RB;;6
+prominently	RB;;4
+unsuccessfully	RB;;5
+technically	RB;;4	NNP;;1
+politically	RB;;16
+improperly	RB;;5
+always	RB;;91	NNP;;1
+thereafter	RB;;13
+closely	RB;;74
+primarily	RB;;52
+specifically	RB;;27
+sharply	RB;;109
+efficiently	RB;;7
+surely	RB;;12
+clearly	RB;;59
+temporarily	RB;;31
+naturally	RB;;8
+relentlessly	RB;;3
+somewhere	RB;;20	NNP;;1
+potentially	RB;;21
+then	RB;;368	IN;;1
+forth	RB;;5
+solely	RB;;11
+accordingly	RB;;7
+together	RB;;86
+supposedly	RB;;8	NNP;;1
+permanently	RB;;5
+rarely	RB;;16
+marginally	RB;;4
+indeed	UH;;1	RB;;96
+entirely	RB;;22
+hastily	RB;;5
+inevitably	RB;;7
+mostly	RB;;63
+seldom	RB;;6
+moreover	JJR;;1	RB;;75
+generally	RB;;125
+greatly	RB;;16
+very	JJ;;14	RB;;315	NNP;;1
+ahead	RB;;96	NNP;;1
+environmentally	RB;;8
+desperately	RB;;9
+pretty	JJ;;7	RB;;42
+meanwhile	NN;;2	RB;;131
+partly	RB;;72
+else	NN;;1	JJ;;7	RB;;66
+anymore	RB;;14
+abroad	RB;;44
+factually	RB;;3
+secretly	RB;;3
+anyway	RB;;24
+racially	RB;;3
+never	RB;;166	NNP;;2
+formerly	RB;;18
+maybe	RB;;43
+unduly	RB;;5
+accurately	RB;;8
+n't	RB;;2724
+totally	RB;;23
+voluntarily	RB;;5
+invariably	RB;;4
+economically	RB;;10
+carefully	RB;;19
+back	VB;;16	RP;;51	RB;;302	NN;;29	VBP;;2	JJ;;12
+forward	VB;;1	JJ;;1	RB;;21
+severely	RB;;12
+effectively	RB;;25
+comfortably	RB;;5
+freely	RB;;10
+periodically	RB;;3
+partially	RB;;7
+single-handedly	RB;;3
+already	RB;;277
+twice	JJ;;1	RB;;36
+apart	RB;;28
+broadly	RB;;12
+adequately	RB;;7
+ultimately	RB;;33
+explicitly	RB;;4
+hardly	RB;;17
+strictly	RB;;7
+strongly	RB;;37
+deeply	RB;;14
+recently	RB;;226
+exclusively	RB;;11
+gradually	RB;;9
+fast	RB;;25	JJ;;9
+bitterly	RB;;7
+promptly	RB;;12
+unanimously	RB;;10
+routinely	RB;;9
+intentionally	RB;;6
+specially	RB;;6
+substantially	RB;;45
+everywhere	RB;;12
+ordinarily	RB;;5
+so	CC;;4	RB;;553	IN;;148
+internationally	RB;;6
+thereby	RB;;15
+ironically	RB;;7	NNP;;1
+markedly	RB;;6
+fiercely	RB;;6
+tentatively	RB;;17
+eagerly	RB;;3
+elsewhere	NN;;1	RB;;39	NNP;;1
+consistently	RB;;20
+federally	RB;;11
+gently	RB;;5
+emotionally	RB;;5
+rightly	RB;;5
+officially	RB;;16
+highly	RB;;83
+happily	RB;;4
+painfully	RB;;4
+afloat	RB;;6
+publicly	RB;;41
+incorrectly	RB;;11
+anew	RB;;3
+certainly	RB;;63
+usually	RB;;85
+directly	RB;;78
+forever	RB;;13
+typically	RB;;53
+only	RB;;675	JJ;;142
+truly	RB;;12
+physically	RB;;4
+firmly	RB;;12
+soon	RB;;141
+damn	JJ;;1	RB;;3
+grossly	RB;;5
+properly	RB;;16
+completely	RB;;24
+precisely	RB;;6
+perfectly	RB;;10
+slowly	RB;;14
+frequently	RB;;28
+well	JJ;;2	NN;;8	UH;;10	RB;;344	NNP;;4
+immediately	RB;;55
+eloquently	RB;;3
+equally	RB;;9
+personally	RB;;15
+nearly	RB;;189
+largely	RB;;95
+roughly	RB;;44
+independently	RB;;5
+readily	RB;;11
+extremely	RB;;35
+materially	RB;;3
+simply	RB;;93
+unnecessarily	RB;;3
+stubbornly	RB;;4
+relatively	RB;;68
+deliberately	RB;;10
+jointly	RB;;27
+privately	RB;;28
+afterward	RB;;9
+apparently	RB;;68
+artificially	RB;;7
+normally	RB;;24	NNP;;2
+overwhelmingly	RB;;5
+thinly	RB;;3
+poorly	RB;;9
+tremendously	RB;;3
+badly	RB;;35
+frantically	RB;;7
+too	RB;;297	NNP;;3
+narrowly	RB;;4	NNP;;1
+predominantly	RB;;3
+quickly	RB;;96
+strenuously	RB;;3
+successfully	RB;;15
+consequently	RB;;9
+noticeably	RB;;4
+legally	RB;;8
+unfortunately	RB;;18
+basically	RB;;17
+profitably	RB;;5
+aloft	RB;;3
+once	RB;;135	IN;;30
+dramatically	RB;;8
+someday	RB;;9
+definitively	RB;;5
+anywhere	RB;;14
+instead	RB;;155
+honestly	RB;;5
+plainly	RB;;3
+a.m	NN;;1	RB;;22
+internally	RB;;3
+here	RB;;243
+similarly	RB;;18
+emphatically	RB;;3
+unexpectedly	RB;;13
+slightly	RB;;101
+alone	JJ;;4	RB;;68
+instantly	RB;;3
+quite	PDT;;7	JJ;;1	RB;;41
+aside	RP;;6	RB;;29
+locally	RB;;3
+rapidly	RB;;28
+really	RB;;116
+nervously	RB;;6
+swiftly	RB;;8
+currently	RB;;146	NNP;;2
+barely	RB;;25
+virtually	JJ;;1	RB;;29
+nowhere	RB;;6
+apiece	RB;;6
+likewise	RB;;7
+ago	RB;;286	IN;;118
+respectively	RB;;19
+extraordinarily	RB;;4
+negatively	RB;;3
+nationally	RB;;10
+sufficiently	RB;;9
+literally	RB;;12
+simultaneously	RB;;13
+eventually	RB;;53
+decidedly	RB;;5
+somehow	RB;;11
+unusually	RB;;11
+falsely	RB;;3
+seemingly	RB;;10
+aggressively	RB;;21
+fortunately	RB;;4
+automatically	RB;;4
+vehemently	RB;;5
+namely	RB;;4
+reluctantly	RB;;4
+nowadays	RB;;3
+exceptionally	RB;;7
+surprisingly	RB;;19
+actually	RB;;77
+probably	RB;;116
+alike	RB;;7
+cautiously	RB;;8
+practically	RB;;5
+exactly	RB;;31
+even	VB;;2	JJ;;10	RB;;597
+differently	RB;;7
+somewhat	RB;;30
+definitely	RB;;11
+just	JJ;;6	RB;;526
+finally	RB;;63
+undoubtedly	RB;;11
+especially	RB;;129
+gracefully	RB;;3
+dangerously	RB;;4
+overly	RB;;8
+notably	RB;;14
+quietly	RB;;13
+easily	RB;;37
+mistakenly	RB;;5
+particularly	RB;;114
+profoundly	RB;;6
+thereof	RB;;3
+often	RB;;166
+sadly	RB;;4
+otherwise	RB;;30
+comparatively	RB;;3
+wildly	RB;;8
+steadily	RB;;19
+radically	RB;;3
+remarkably	RB;;4
+expressly	RB;;3
+conversely	RB;;3
+mainly	RB;;42
+oddly	RB;;4
+far	JJ;;11	RB;;280	NNP;;17
+suddenly	RB;;31
+cleverly	RB;;3
+initially	RB;;37
+arbitrarily	RB;;3
+widely	RB;;62
+repeatedly	RB;;20
+purely	RB;;4
+unfairly	RB;;7
+significantly	RB;;49
+ever	RB;;16
+never	RB;;27
+here	VB;;1	RB;;116
+then	RB;;19	IN;;2
+already	RB;;12
+too	TO;;1	RB;;74
+even	RB;;22
+though	RB;;6
+away	RP;;1	RB;;13
+else	RB;;7
+just	RB;;81
+yet	RB;;9
+awhile	RB;;3
+together	RB;;6
+alone	RB;;8
+maybe	RB;;14
+so	UH;;13	RB;;69	IN;;7
+still	RB;;21
+not	RB;;109	NNP;;1
+now	RB;;50
+quite	RB;;4
+later	JJ;;1	UH;;2	RB;;10
+only	RB;;22	JJ;;6
+asleep	RB;;3
+n't	RB;;93
+everyday	RB;;4
+there	EX;;21	RB;;50	UH;;2
+jus	RB;;3
+again	RB;;16
+very	RB;;12
+rather	RB;;3
+soon	RB;;6
+actually	UH;;2	RB;;5
+always	RB;;15
+really	NN;;1	UH;;7	RB;;22
+prolly	RB;;5
+also	RB;;3
+sometimes	RB;;3
+close	RB;;4
+anymore	UH;;1	RB;;4
+back	RP;;1	NN;;11	RB;;41	UH;;1
+ago	RB;;13
+far	RB;;4
+once	RB;;6
+afk	UH;;2	RB;;5
+tonight	NN;;1	RB;;10
+anyway	UH;;1	RB;;4
+slowly	RB;;3
+almost	RB;;6
+kinda	RB;;3	NN;;1

@@ -1,0 +1,621 @@
+hanging	VBG;;6	NN;;1
+screaming	VBG;;3
+designing	VBG;;7	NNP;;2
+bringing	VBG;;30	NN;;1
+castigating	VBG;;3
+committing	VBG;;5
+deferring	VBG;;8
+starring	VBG;;3
+working	VBG;;95	NN;;9	JJ;;8	NNP;;18
+liberalizing	VBG;;3
+approving	VBG;;3
+rebounding	VBG;;4
+following	VBG;;125	NN;;7	JJ;;21
+entering	VBG;;11	NNP;;1
+awaiting	VBG;;8
+being	VBG;;340	NN;;7	JJ;;1
+intensifying	VBG;;4	JJ;;1
+restoring	VBG;;6
+ensuing	VBG;;3
+waving	VBG;;3
+smiling	VBG;;3
+averaging	VBG;;7	NN;;1
+saying	VBG;;118	NN;;2
+flowing	VBG;;6	JJ;;1
+integrating	VBG;;3
+ordering	VBG;;12
+riding	VBG;;11
+comprising	VBG;;3
+choosing	VBG;;3
+alternating	VBG;;3
+blocking	VBG;;10
+dumping	VBG;;5
+bracing	VBG;;10
+asking	VBG;;31	JJ;;1	NN;;2
+rendering	VBG;;3	NN;;1
+mulling	VBG;;3
+sending	VBG;;16
+serving	VBG;;17
+using	VBG;;123
+freeing	VBG;;6	NN;;1
+shrinking	VBG;;8
+forcing	VBG;;18
+investing	VBG;;22	JJ;;1	NN;;6
+producing	VBG;;34	NNP;;1
+competing	VBG;;22	JJ;;1
+missing	VBG;;20	JJ;;2
+showing	VBG;;36	NN;;7
+placing	VBG;;5	NN;;1
+telling	VBG;;16
+pulling	VBG;;10
+including	VBG;;350	JJ;;1
+separating	VBG;;3
+determining	VBG;;9
+grounding	VBG;;3	NN;;1
+halting	VBG;;4
+reaching	VBG;;22	NN;;1
+contending	VBG;;5
+blaming	VBG;;7
+urging	VBG;;25	NNP;;1
+reviving	VBG;;5
+stressing	VBG;;3
+ascending	VBG;;3
+worsening	VBG;;7	NN;;1
+testing	VBG;;11	NN;;4	NNP;;1
+realizing	VBG;;3
+failing	VBG;;13
+resuming	VBG;;4
+trimming	VBG;;6	NN;;1
+predicting	VBG;;18	NN;;1
+marking	VBG;;8
+happening	VBG;;20	NN;;2
+stripping	VBG;;4
+stabilizing	VBG;;12
+swapping	VBG;;3
+dealing	VBG;;18	NN;;3
+quoting	VBG;;5
+making	VBG;;199	NN;;9
+burgeoning	VBG;;3
+overreacting	VBG;;3
+speaking	VBG;;11	NN;;4	NNP;;1
+arguing	VBG;;19
+eliminating	VBG;;14
+satisfying	VBG;;3	JJ;;1
+considering	VBG;;65
+judging	VBG;;3
+investigating	VBG;;16
+compiling	VBG;;3
+identifying	VBG;;4
+enjoying	VBG;;9
+sitting	VBG;;26
+questioning	VBG;;6	JJ;;1
+coming	VBG;;93	JJ;;17
+repeating	VBG;;3	JJ;;1
+depending	VBG;;20
+panicking	VBG;;3
+diversifying	VBG;;8
+portraying	VBG;;4
+lagging	VBG;;6	JJ;;1	NN;;1
+owning	VBG;;15	NN;;2
+attempting	VBG;;22
+commenting	VBG;;8
+liquidating	VBG;;5	JJ;;1	NNP;;1
+recommending	VBG;;9
+excluding	VBG;;34	NNP;;1
+sterilizing	VBG;;3
+distributing	VBG;;4	NN;;1
+preserving	VBG;;6
+reforming	VBG;;4
+banning	VBG;;6	NN;;1
+boosting	VBG;;10
+confirming	VBG;;3
+assembling	VBG;;3
+appearing	VBG;;12
+setting	VBG;;34	NN;;7
+installing	VBG;;4
+catching	VBG;;7
+believing	VBG;;6
+slashing	VBG;;5
+managing	VBG;;40	NN;;14
+acquiring	VBG;;30
+featuring	VBG;;19
+rising	VBG;;75	NN;;1	JJ;;1
+creeping	VBG;;5
+treating	VBG;;12
+employing	VBG;;3
+concentrating	VBG;;4
+lying	VBG;;5
+recognizing	VBG;;7
+fulfilling	VBG;;3
+allowing	VBG;;38
+settling	VBG;;12	NN;;1
+leaving	VBG;;47
+underscoring	VBG;;4
+reeling	VBG;;7
+ensuring	VBG;;6
+draining	VBG;;3	NN;;1
+increasing	VBG;;58	JJ;;4
+complaining	VBG;;7
+cooling	VBG;;5	NN;;1
+touting	VBG;;5
+causing	VBG;;23
+looming	VBG;;3
+retaining	VBG;;4
+departing	VBG;;4
+feuding	VBG;;3	NN;;1
+shifting	VBG;;13	JJ;;1
+reducing	VBG;;35
+suspending	VBG;;5
+wondering	VBG;;11
+introducing	VBG;;10
+yielding	VBG;;7
+suggesting	VBG;;19
+collapsing	VBG;;4
+representing	VBG;;36
+walking	VBG;;8	NN;;2
+circulating	VBG;;6
+affecting	VBG;;12
+spiraling	VBG;;3	JJ;;1
+fixing	VBG;;5
+accompanying	VBG;;5	JJ;;2
+pitching	VBG;;6	NN;;1
+keeping	VBG;;41	NNP;;1
+indicating	VBG;;20
+reversing	VBG;;4
+threatening	VBG;;17	JJ;;4
+focusing	VBG;;9
+attacking	VBG;;5	NN;;1
+preparing	VBG;;18
+hitting	VBG;;10
+emphasizing	VBG;;3
+regulating	VBG;;3	NN;;1
+vowing	VBG;;3
+preventing	VBG;;6
+citing	VBG;;35
+complying	VBG;;5
+recalling	VBG;;4
+studying	VBG;;20
+equaling	VBG;;6
+recurring	VBG;;4
+concealing	VBG;;5
+accelerating	VBG;;8
+sliding	VBG;;4
+recovering	VBG;;10
+enhancing	VBG;;3
+broadening	VBG;;3
+adding	VBG;;71
+sagging	VBG;;5	NN;;1
+responding	VBG;;20
+supporting	VBG;;21
+reacting	VBG;;9
+receiving	VBG;;17
+sprawling	VBG;;3	JJ;;1
+developing	VBG;;47	JJ;;2	NN;;1
+trying	VBG;;160
+gaining	VBG;;10
+pointing	VBG;;7
+referring	VBG;;18
+nearing	VBG;;6
+reshaping	VBG;;3
+renewing	VBG;;6
+scaring	VBG;;7
+computerizing	VBG;;4
+leading	VBG;;87	JJ;;26	NNP;;1
+deciding	VBG;;13	JJ;;1
+exceeding	VBG;;6
+seeing	VBG;;31
+languishing	VBG;;3
+examining	VBG;;5
+pressuring	VBG;;3
+updating	VBG;;4
+providing	VBG;;38
+crumbling	VBG;;4
+projecting	VBG;;4
+supervising	VBG;;3
+disposing	VBG;;3
+heading	VBG;;10
+evolving	VBG;;3
+posting	VBG;;14
+resisting	VBG;;7
+picking	VBG;;16	NN;;2
+declaring	VBG;;6
+lowering	VBG;;10
+growing	VBG;;98	JJ;;1	NN;;4
+consolidating	VBG;;6
+killing	VBG;;17	NN;;2
+according	VBG;;328
+admitting	VBG;;4
+assessing	VBG;;3
+retiring	VBG;;4
+starting	VBG;;39	NN;;2	JJ;;1
+achieving	VBG;;4
+controlling	VBG;;13	JJ;;2
+maturing	VBG;;16
+echoing	VBG;;4
+aiming	VBG;;8
+shouting	VBG;;3
+denying	VBG;;6
+explaining	VBG;;16
+putting	VBG;;54
+giving	VBG;;55	NN;;3
+arranging	VBG;;3
+spreading	VBG;;10
+slipping	VBG;;14
+implementing	VBG;;4
+passing	VBG;;10	NN;;1
+earning	VBG;;13	NN;;4
+pouring	VBG;;11
+tumbling	VBG;;6
+protecting	VBG;;9
+charging	VBG;;23
+demanding	VBG;;8	JJ;;1
+filling	VBG;;5
+combining	VBG;;9
+cooperating	VBG;;5
+talking	VBG;;45	NN;;1
+substituting	VBG;;3
+shutting	VBG;;4
+limiting	VBG;;9
+containing	VBG;;9
+preceding	VBG;;7	JJ;;2
+displaying	VBG;;3
+contemplating	VBG;;3
+bottling	VBG;;5	NN;;2	NNP;;1
+rallying	VBG;;3
+importing	VBG;;3
+soaring	VBG;;9
+regarding	VBG;;32
+simmering	VBG;;3
+insuring	VBG;;3
+paying	VBG;;66	JJ;;1
+seeking	VBG;;104
+changing	VBG;;28	NN;;1
+reinforcing	VBG;;3
+applying	VBG;;8
+totaling	VBG;;23
+acting	VBG;;27	NN;;1	JJ;;1
+belonging	VBG;;3
+sticking	VBG;;3	JJ;;1
+breaking	VBG;;15	NN;;6
+linking	VBG;;10
+costing	VBG;;6
+forbidding	VBG;;5
+overseeing	VBG;;8
+pushing	VBG;;30
+dismissing	VBG;;3
+estimating	VBG;;5	NN;;1
+proposing	VBG;;10
+alienating	VBG;;3
+spurring	VBG;;5
+protesting	VBG;;4
+shedding	VBG;;6	NN;;1
+weighing	VBG;;5
+probing	VBG;;5
+fighting	VBG;;23	NN;;2	NNP;;1
+anticipating	VBG;;11
+contributing	VBG;;12	JJ;;1
+losing	VBG;;43	NN;;2	JJ;;2
+launching	VBG;;9	NN;;1
+disclosing	VBG;;5
+improving	VBG;;21
+establishing	VBG;;13
+stalling	VBG;;3
+addressing	VBG;;7
+curbing	VBG;;8
+vacating	VBG;;3
+plotting	VBG;;5
+accepting	VBG;;11
+knowing	VBG;;6
+alleging	VBG;;9
+dating	VBG;;5	NNP;;1
+relating	VBG;;11
+having	VBG;;111
+experiencing	VBG;;10
+resulting	VBG;;30	JJ;;2
+practicing	VBG;;5
+collecting	VBG;;7	NN;;2
+accusing	VBG;;6
+defending	VBG;;11
+shaping	VBG;;4
+drawing	VBG;;11	NN;;2
+involving	VBG;;41
+covering	VBG;;18	NN;;1	NNP;;1
+succeeding	VBG;;8
+drafting	VBG;;3
+requiring	VBG;;31
+gearing	VBG;;3
+becoming	VBG;;30
+enabling	VBG;;5
+figuring	VBG;;7
+listening	VBG;;9	NN;;3
+enacting	VBG;;3
+removing	VBG;;9
+trumpeting	VBG;;3
+teeming	VBG;;3
+reigning	VBG;;3
+persuading	VBG;;4
+knocking	VBG;;4
+skyrocketing	VBG;;4
+exercising	VBG;;5
+remaining	VBG;;55	JJ;;12
+lacking	VBG;;3	JJ;;1
+describing	VBG;;9
+behaving	VBG;;3
+crossing	VBG;;4
+shaking	VBG;;9
+offsetting	VBG;;14	JJ;;2
+roiling	VBG;;3
+issuing	VBG;;12
+sponsoring	VBG;;5
+governing	VBG;;9	NN;;1
+ignoring	VBG;;6
+adopting	VBG;;7
+advancing	VBG;;12
+aging	VBG;;11
+replacing	VBG;;9
+stealing	VBG;;4
+bouncing	VBG;;3
+assisting	VBG;;3
+wanting	VBG;;6
+performing	VBG;;12	NN;;1
+piggybacking	VBG;;3
+attracting	VBG;;14
+battling	VBG;;3
+scrambling	VBG;;10
+wishing	VBG;;4
+worrying	VBG;;5	JJ;;2
+specializing	VBG;;8
+pressing	VBG;;11	JJ;;1
+climbing	VBG;;7
+easing	VBG;;17	NN;;6
+fueling	VBG;;9
+facing	VBG;;29
+matching	VBG;;8	JJ;;2
+prodding	VBG;;4
+returning	VBG;;7
+comparing	VBG;;3
+playing	VBG;;25	JJ;;1	NN;;8
+formulating	VBG;;3
+deepening	VBG;;3
+minimizing	VBG;;4
+testifying	VBG;;3
+dropping	VBG;;22
+distracting	VBG;;3	JJ;;1
+letting	VBG;;13
+unloading	VBG;;7
+collaborating	VBG;;4
+surging	VBG;;6
+connecting	VBG;;4
+depicting	VBG;;3
+courting	VBG;;4
+taking	VBG;;115	NN;;4
+basing	VBG;;5
+participating	VBG;;17
+arising	VBG;;5
+assuming	VBG;;25
+prevailing	VBG;;4	JJ;;1
+noting	VBG;;28
+jumping	VBG;;3
+decreasing	VBG;;3
+negotiating	VBG;;35	NN;;5
+advising	VBG;;11	NN;;1
+stopping	VBG;;3
+proceeding	VBG;;7	NN;;3
+obtaining	VBG;;9
+submitting	VBG;;3
+promoting	VBG;;13
+discovering	VBG;;4
+flying	VBG;;17	NNP;;1
+counting	VBG;;12
+discussing	VBG;;21
+imposing	VBG;;8
+narrowing	VBG;;7	NN;;3
+acknowledging	VBG;;5
+finding	VBG;;28	NN;;7	NNP;;1
+creating	VBG;;32
+relying	VBG;;7
+advocating	VBG;;4
+raising	VBG;;52	NN;;1
+barring	VBG;;13
+defrauding	VBG;;4
+helping	VBG;;28
+traveling	VBG;;6
+edging	VBG;;4
+repairing	VBG;;3
+reflecting	VBG;;63
+discriminating	VBG;;4
+watching	VBG;;33	NN;;2
+tendering	VBG;;4
+sparking	VBG;;3
+teaming	VBG;;3
+piling	VBG;;4
+interrupting	VBG;;3
+expiring	VBG;;3
+reviewing	VBG;;12
+drying	VBG;;3
+defaulting	VBG;;3
+ranging	VBG;;28
+exploring	VBG;;8
+sacrificing	VBG;;5
+rushing	VBG;;10
+occurring	VBG;;5
+forming	VBG;;4
+rolling	VBG;;12	JJ;;2	NN;;1	NNP;;2
+falling	VBG;;60	NN;;1
+maintaining	VBG;;7
+proving	VBG;;6
+going	VBG;;267	JJ;;2
+condemning	VBG;;4
+mounting	VBG;;14
+laying	VBG;;7
+leaping	VBG;;3
+concluding	VBG;;4
+buzzing	VBG;;3
+coping	VBG;;6
+approaching	VBG;;6
+forgetting	VBG;;3
+evaluating	VBG;;3
+hoping	VBG;;32
+opposing	VBG;;8
+existing	VBG;;43	JJ;;19
+delivering	VBG;;8
+carrying	VBG;;17	NN;;1
+destroying	VBG;;7
+doing	VBG;;95
+detailing	VBG;;6
+intervening	VBG;;3
+slumping	VBG;;5
+combing	VBG;;3
+laboring	VBG;;3
+slowing	VBG;;27	JJ;;1	NN;;5
+planting	VBG;;4	NN;;1
+consisting	VBG;;10
+triggering	VBG;;6
+extending	VBG;;9
+pursuing	VBG;;12	NN;;1
+plummeting	VBG;;7
+concerning	VBG;;17
+wooing	VBG;;5	NN;;1
+dying	VBG;;4
+holding	VBG;;97	NN;;28	NNP;;22
+posing	VBG;;3
+tending	VBG;;4
+rebuilding	VBG;;4
+topping	VBG;;4
+learning	VBG;;13	NN;;1	NNP;;4
+mandating	VBG;;3
+donating	VBG;;4
+agreeing	VBG;;15
+thinking	VBG;;14	NN;;4
+analyzing	VBG;;5
+delaying	VBG;;6	NN;;1
+solving	VBG;;3
+expecting	VBG;;23
+throwing	VBG;;12	NN;;1
+eating	VBG;;7	NN;;2	JJ;;1	NNP;;1
+tracing	VBG;;3
+calculating	VBG;;4
+withdrawing	VBG;;4
+announcing	VBG;;15
+converting	VBG;;7
+attending	VBG;;6
+emerging	VBG;;21	JJ;;1	NNP;;1
+undergoing	VBG;;4
+turning	VBG;;32	NN;;2
+witnessing	VBG;;3
+ending	VBG;;37	NN;;1
+stepping	VBG;;6	JJ;;1
+wearing	VBG;;9
+restricting	VBG;;6
+targeting	VBG;;9
+confronting	VBG;;3
+switching	VBG;;7
+fearing	VBG;;5
+refusing	VBG;;7	NN;;1
+ailing	VBG;;7	JJ;;2
+sharing	VBG;;5	NN;;1
+avoiding	VBG;;12
+staying	VBG;;11	NN;;1
+seizing	VBG;;3
+living	VBG;;25	JJ;;2	NN;;11
+pumping	VBG;;4
+upgrading	VBG;;4	NN;;1
+soliciting	VBG;;7
+finishing	VBG;;3
+struggling	VBG;;18	JJ;;2
+running	RB;;1	VBG;;70	NN;;2	JJ;;3
+organizing	VBG;;9	NN;;1	NNP;;1
+measuring	VBG;;4	NN;;1
+conducting	VBG;;9	NN;;1
+allocating	VBG;;3	NN;;1
+stretching	VBG;;3
+deterring	VBG;;3
+hurting	VBG;;8
+joining	VBG;;21
+visiting	VBG;;8
+prosecuting	VBG;;4
+continuing	VBG;;67	JJ;;10	NNP;;1
+dragging	VBG;;6
+bleeding	VBG;;5	NN;;1
+looking	VBG;;116
+winning	VBG;;14	JJ;;3	NN;;1
+cutting	VBG;;41	NN;;4	JJ;;1
+insisting	VBG;;11
+calling	VBG;;40	NN;;5
+tightening	VBG;;5	NN;;1
+inviting	VBG;;3
+shooting	VBG;;4	NN;;1
+claiming	VBG;;14
+surrounding	VBG;;19	JJ;;2
+writing	VBG;;16	NN;;5
+celebrating	VBG;;4
+abandoning	VBG;;5
+betting	VBG;;10	NN;;1
+transporting	VBG;;3	NN;;1
+resigning	VBG;;7
+endorsing	VBG;;5
+plunging	VBG;;9	NN;;1
+permitting	VBG;;6
+eroding	VBG;;6
+supplying	VBG;;4
+retreating	VBG;;5
+surviving	VBG;;5
+deteriorating	VBG;;10	JJ;;1
+discouraging	VBG;;6	JJ;;2
+executing	VBG;;5
+conspiring	VBG;;4
+challenging	VBG;;9
+prompting	VBG;;10	NN;;1
+stemming	VBG;;13
+asserting	VBG;;5
+moving	VBG;;65	JJ;;1	NN;;1
+completing	VBG;;8
+squeezing	VBG;;3
+swelling	VBG;;4
+waiting	VBG;;41	NN;;3
+expanding	VBG;;30
+pending	VBG;;51	JJ;;4	IN;;1
+violating	VBG;;7
+declining	VBG;;53	JJ;;2
+hovering	VBG;;3
+searching	VBG;;9
+getting	VBG;;126
+rotting	VBG;;3
+tryin	VBG;;14
+talking	VBG;;12
+doin	VBG;;7
+lookin	VBG;;3
+asking	VBG;;5
+scrollin'	VBG;;3
+going	VBG;;15
+wondering	VBG;;3
+making	VBG;;8
+watching	VBG;;9
+looking	VBG;;5
+typing	VBG;;4	NN;;1
+wanting	VBG;;3
+reading	VBG;;3
+killing	VBG;;3
+pming	VBG;;3
+being	VBG;;5
+gonna	VBG;;22
+listening	VBG;;16
+rolling	VBG;;4
+perving	VBG;;3
+having	VBG;;6
+coming	VBG;;4
+joining	VBG;;3
+moving	VBG;;3
+messaging	VBG;;3
+saying	VBG;;4
+waiting	VBG;;3
+leaving	VBG;;4
+singing	VBG;;6
+doing	VBG;;18
+kiddin	VBG;;3
+taking	VBG;;3
+getting	VBG;;10
+kidding	VBG;;6
+talkin	VBG;;7
+pervin	VBG;;5
+goin	VBG;;5

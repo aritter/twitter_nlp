@@ -1,0 +1,15 @@
+alpha     ~ Gam(0.1,1)
+eta       ~ Gam(0.1,1)
+beta_{k}  ~ DirSym(eta, V)             , k \in [1,K]
+theta_{d} ~ DirSym(alpha, K)           , d \in [1,D]
+z_{d,n,m}   ~ Mult(theta_{d})          , d \in [1,D] , n \in [1,N_{d}] , m \in [1,M_{d,n}]
+w_{d,n,m}   ~ Mult(beta_{z_{d,n,m}})   , d \in [1,D] , n \in [1,N_{d}] , m \in [1,M_{d,n}]
+
+--# --define K 40
+--# --loadD test w V D N M ;
+--# --collapse beta
+--# --collapse theta
+--# --define alpha 0.1
+--# --define eta 0.1
+--# --dump best z
+--# --niter 1000

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+ <annotationscheme>
+  <attribute id="tag_level" name="tag" type="nominal_list">
+   <value name="none"/>
+   <value name=":"/>
+   <value name="RT"/>
+   <value name="EMO"/>
+   <value name="USR"/>
+   <value name="URL"/>
+   <value name="HT"/>
+   <value name="CC"/>
+   <value name="CD"/>
+   <value name="DT"/>
+   <value name="EX"/>
+   <value name="FW"/>
+   <value name="IN"/>
+   <value name="JJ"/>
+   <value name="JJR"/>
+   <value name="JJS"/>
+   <value name="LS"/>
+   <value name="MD"/>
+   <value name="NN"/>
+   <value name="NNS"/>
+   <value name="NNP"/>
+   <value name="NNPS"/>
+   <value name="PDT"/>
+   <value name="POS"/>
+   <value name="PRP"/>
+   <value name="PRP$"/>
+   <value name="RB"/>
+   <value name="RBR"/>
+   <value name="RBS"/>
+   <value name="RP"/>
+   <value name="SYM"/>
+   <value name="TO"/>
+   <value name="UH"/>
+   <value name="VB"/>
+   <value name="VBD"/>
+   <value name="VBG"/>
+   <value name="VBN"/>
+   <value name="VBP"/>
+   <value name="VBZ"/>
+   <value name="WDT"/>
+   <value name="WP"/>
+   <value name="WP$"/>
+   <value name="WRB"/>
+   <value name="."/>
+  </attribute>
+ </annotationscheme>

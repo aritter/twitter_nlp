@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE common_paths>
+<common_paths>
+<basedata_path></basedata_path>
+<scheme_path></scheme_path>
+<style_path></style_path>
+<customization_path></customization_path>
+<markable_path></markable_path>
+<views>
+<stylesheet>default_style.xsl</stylesheet>
+</views>
+<annotations>
+<level name="POS" schemefile="POS_scheme.xml" customization_file="POS_customization.xml">$_POS_level.xml</level>
+<level name="NER" schemefile="NER_scheme.xml" customization_file="NER_customization.xml">$_NER_level.xml</level>
+<level name="sentences" schemefile="sentence_scheme.xml" customization_file="sentence_customization.xml">$_sentence_level.xml</level>
+</annotations>
+</common_paths>

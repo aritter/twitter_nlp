@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<customization>
+<rule pattern="{all}" style="handles=green"/>
+</customization>

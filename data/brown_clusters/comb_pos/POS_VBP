@@ -1,0 +1,57 @@
+want	VB;;77	VBP;;156
+understate	VBP;;3
+foresee	VB;;1	VBP;;3
+tend	VB;;5	VBP;;27
+suspect	VB;;2	VBP;;7	NN;;2	JJ;;3
+wonder	VB;;7	VBP;;20	NN;;6	NNP;;1
+'ve	VB;;1	VBP;;135
+insist	VB;;7	VBP;;19
+divide	VB;;1	VBP;;3	NN;;1
+vary	VB;;2	VBP;;18
+ai	VBZ;;1	VBP;;6
+am	VBP;;48	RB;;1	NNP;;14
+await	VB;;1	VBP;;4
+wish	VB;;2	VBP;;12	NN;;1
+argue	VB;;12	VBP;;34
+'m	VBP;;95
+attribute	VBP;;3	NN;;1
+say	VB;;162	VBP;;461	UH;;1	NN;;3
+believe	VB;;45	VBP;;99
+'re	VBP;;289
+suggest	VB;;11	VBP;;29
+echo	VB;;1	VBP;;3	NN;;1	NNP;;1
+observe	VBP;;3
+shun	VB;;1	VBP;;3
+contend	VB;;3	VBP;;25
+suppose	VBP;;4
+accumulate	VBP;;3
+relate	VB;;1	VBP;;6
+are	VBP;;3071	NNP;;3
+hate	VBP;;11
+dunno	VBP;;5
+wana	VBP;;6
+think	VB;;12	VBP;;25
+do	VB;;20	VBP;;85
+'m	VBP;;81
+r	VBP;;15
+aint	VBP;;6
+'ve	VBP;;20
+mean	VB;;1	VBP;;10	JJ;;2
+agree	VBP;;5
+ai	VBZ;;1	VBP;;3
+am	VBP;;53	JJ;;11
+fall	VB;;1	VBP;;3
+dont	VB;;1	VBP;;50
+feel	VB;;3	VBP;;9	NN;;2
+guess	VBP;;14
+are	VBP;;108
+lets	VBP;;9
+donno	VBP;;3
+wanna	VBP;;70
+'re	VBP;;16
+havent	VBP;;3
+bet	VB;;1	VBP;;4
+have	VB;;35	VBP;;79
+need	MD;;1	VB;;6	VBP;;19
+hope	VB;;1	VBP;;6	NN;;2
+swear	VBP;;3

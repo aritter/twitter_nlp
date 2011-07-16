@@ -1,0 +1,6 @@
+#!/usr/bin/perl -w
+
+#Converts features in word-per line format to sentence-per line format (tab seperated)
+
+use strict;
+

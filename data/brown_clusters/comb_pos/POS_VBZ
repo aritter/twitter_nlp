@@ -1,0 +1,314 @@
+confronts	VBZ;;3
+competes	VBZ;;6
+concedes	VBZ;;21
+has	VBZ;;2687	VBN;;1
+opposes	VBZ;;11
+enjoys	VBZ;;5
+wants	VBZ;;95
+retains	VBZ;;8
+occurs	VBZ;;8
+understands	VBZ;;7
+wraps	VBZ;;3
+deserves	VBZ;;7
+opens	VBZ;;13
+makes	VBZ;;127	NNS;;3
+realizes	VBZ;;4
+directs	VBZ;;4
+compares	VBZ;;18
+stresses	VBZ;;3	NNS;;1
+indicates	VBZ;;16
+feeds	VBZ;;5
+runs	VBZ;;42	NNS;;11
+draws	VBZ;;7	NNS;;1
+turns	VBZ;;24	NNS;;3
+teaches	VBZ;;4
+monitors	VBZ;;3	NNS;;1	NNP;;1
+hurts	VBZ;;5
+feels	VBZ;;15
+confesses	VBZ;;3
+likes	VBZ;;12	NNS;;2
+consists	VBZ;;9
+begins	VBZ;;28
+tells	VBZ;;14
+wears	VBZ;;6
+asks	VBZ;;17
+settles	VBZ;;3
+meets	VBZ;;8	NNS;;1
+intends	VBZ;;32
+prevents	VBZ;;8
+advises	VBZ;;10
+involves	VBZ;;13
+declares	VBZ;;8
+specializes	VBZ;;10
+needs	VBZ;;53	NNS;;26
+implies	VBZ;;9
+regains	VBZ;;4
+holds	VBZ;;67
+reaches	VBZ;;7	NNS;;1
+reduces	VBZ;;10
+sparks	VBZ;;3
+watches	VBZ;;3	NNS;;1
+happens	VBZ;;29
+leaves	VBZ;;21	NNS;;7
+proposes	VBZ;;7
+emphasizes	VBZ;;4
+goes	VBZ;;56	NNP;;1
+replies	VBZ;;3	NNS;;1
+relies	VBZ;;6
+lets	VBZ;;4
+alleges	VBZ;;12	NNS;;3
+leads	VBZ;;21	NNS;;4
+weighs	VBZ;;8
+regulates	VBZ;;4
+refuses	VBZ;;5
+concludes	VBZ;;10
+suggests	VBZ;;37
+struggles	VBZ;;7	NNS;;1
+agrees	VBZ;;15
+wonders	VBZ;;3
+carries	VBZ;;25
+attracts	VBZ;;5
+keeps	VBZ;;11
+represents	VBZ;;50
+lays	VBZ;;4
+proves	VBZ;;7
+believes	VBZ;;68
+snaps	VBZ;;4
+matches	VBZ;;3
+thinks	VBZ;;49
+recommends	VBZ;;13
+misses	VBZ;;5
+remembers	VBZ;;5
+owes	VBZ;;9
+insists	VBZ;;25
+adopts	VBZ;;3
+prohibits	VBZ;;6
+chooses	VBZ;;7
+depends	VBZ;;20
+blames	VBZ;;5
+sends	VBZ;;4
+pays	VBZ;;21
+appears	VBZ;;63
+means	VBZ;;72	NNPS;;3	NNS;;15	NN;;6	NNP;;7
+justifies	VBZ;;5
+comes	VBZ;;82
+stems	VBZ;;14
+pushes	VBZ;;3
+lacks	VBZ;;8
+foresees	VBZ;;3
+describes	VBZ;;5
+uses	VBZ;;32	NNS;;10
+clears	VBZ;;3
+requires	VBZ;;36
+focuses	VBZ;;6
+reflects	VBZ;;40
+succeeds	VBZ;;11
+owns	VBZ;;83
+extends	VBZ;;4
+recognizes	VBZ;;4
+vows	VBZ;;3
+is	VBZ;;5794
+depicts	VBZ;;3
+contrasts	VBZ;;4	NNS;;1
+dies	VBZ;;5
+refers	VBZ;;5
+stirs	VBZ;;3
+confirms	VBZ;;5
+announces	VBZ;;3
+treats	VBZ;;3	NNS;;1
+speaks	VBZ;;4
+narrows	VBZ;;6
+reveals	VBZ;;4
+fails	VBZ;;7
+buys	VBZ;;18	NNS;;3
+recalls	VBZ;;23
+provides	VBZ;;55
+includes	VBZ;;86
+throws	VBZ;;6
+flies	VBZ;;3	NNS;;1
+tends	VBZ;;11
+develops	VBZ;;5
+suffers	VBZ;;3
+boasts	VBZ;;6
+looks	VBZ;;43	NNS;;6
+regards	VBZ;;4
+loses	VBZ;;7	NNS;;1
+urges	VBZ;;7
+shakes	VBZ;;3
+raises	VBZ;;18	NNS;;3
+waits	VBZ;;3
+favors	VBZ;;8	NNS;;3
+considers	VBZ;;13
+survives	VBZ;;5
+pulls	VBZ;;6
+writes	VBZ;;12
+fits	VBZ;;4	NNS;;1
+asserts	VBZ;;10
+invites	VBZ;;5
+sits	VBZ;;7
+restricts	VBZ;;7
+creates	VBZ;;12
+exercises	VBZ;;4	NNS;;1
+exceeds	VBZ;;8
+applies	VBZ;;4
+belongs	VBZ;;6
+denies	VBZ;;16
+accepts	VBZ;;6
+hears	VBZ;;5
+looms	VBZ;;5
+earns	VBZ;;7
+takes	VBZ;;57
+contains	VBZ;;16
+anticipates	VBZ;;6
+dominates	VBZ;;4
+reads	VBZ;;7
+lasts	VBZ;;7
+excludes	VBZ;;3	NNS;;1
+oversees	VBZ;;18
+remains	VBZ;;97	NNS;;4
+expires	VBZ;;23
+enables	VBZ;;4
+sees	VBZ;;38	NNP;;1
+decides	VBZ;;14
+transforms	VBZ;;4
+manages	VBZ;;25
+adds	VBZ;;88	NNP;;2
+emerges	VBZ;;8
+sounds	VBZ;;9	NNS;;3
+serves	VBZ;;12
+resembles	VBZ;;7
+distributes	VBZ;;3
+slips	VBZ;;4
+prepares	VBZ;;7
+helps	VBZ;;23
+enhances	VBZ;;3
+recounts	VBZ;;4
+prevails	VBZ;;5
+criticizes	VBZ;;4
+handles	VBZ;;6
+invests	VBZ;;3
+gives	VBZ;;53
+operates	VBZ;;29
+sells	VBZ;;44	NNP;;3
+seems	VBZ;;124
+kills	VBZ;;4
+widens	VBZ;;4
+knows	VBZ;;30
+explains	VBZ;;24
+disagrees	VBZ;;3
+induces	VBZ;;3
+hangs	VBZ;;5
+aims	VBZ;;10	NNS;;1
+complains	VBZ;;10
+generates	VBZ;;5
+demonstrates	VBZ;;5
+relates	VBZ;;3
+maintains	VBZ;;13
+acquires	VBZ;;7
+puts	VBZ;;28	NNPS;;1	NNS;;8
+gets	VBZ;;54
+contributes	VBZ;;3
+brings	VBZ;;12
+calculates	VBZ;;6
+enters	VBZ;;3
+poses	VBZ;;4
+violates	VBZ;;6
+threatens	VBZ;;4
+reverts	VBZ;;5
+walks	VBZ;;5	NNS;;1
+defends	VBZ;;5
+improves	VBZ;;7
+imposes	VBZ;;3
+illustrates	VBZ;;6
+continues	VBZ;;60
+produces	VBZ;;13
+accompanies	VBZ;;4
+predicts	VBZ;;16
+does	VBZ;;415	NNP;;1
+saves	VBZ;;3
+cites	VBZ;;7
+admits	VBZ;;14
+observes	VBZ;;5
+receives	VBZ;;9
+weakens	VBZ;;4
+protects	VBZ;;5
+eliminates	VBZ;;3
+assumes	VBZ;;10
+tries	VBZ;;13
+approves	VBZ;;3
+plays	VBZ;;20	NNS;;4	NNP;;1
+becomes	VBZ;;23
+bears	VBZ;;7	NNPS;;2	NNS;;2
+joins	VBZ;;8
+presents	VBZ;;8	NNS;;2
+connects	VBZ;;3
+warns	VBZ;;8
+laughs	VBZ;;3	NNS;;1
+starts	VBZ;;15	VBP;;1	NNS;;7
+establishes	VBZ;;5
+grows	VBZ;;8
+lies	VBZ;;17	NNS;;2
+builds	VBZ;;10
+covers	VBZ;;15
+argues	VBZ;;26
+forbids	VBZ;;3
+publishes	VBZ;;7
+follows	VBZ;;42
+affects	VBZ;;5
+employs	VBZ;;12
+cautions	VBZ;;3
+exists	VBZ;;6
+promotes	VBZ;;3
+reminds	VBZ;;4
+seeks	VBZ;;32
+acknowledges	VBZ;;12
+expects	VBZ;;202	NNS;;1
+faces	VBZ;;39	NNS;;2
+removes	VBZ;;3
+says	VBZ;;1696
+stands	VBZ;;20	NNS;;6	NN;;1
+encourages	VBZ;;5
+professes	VBZ;;3
+spends	VBZ;;11
+allows	VBZ;;27
+passes	VBZ;;5	NNS;;1
+finds	VBZ;;16	NNS;;1
+underscores	VBZ;;6
+eases	VBZ;;3
+closes	VBZ;;4
+contends	VBZ;;40
+runs	VBZ;;3	NNS;;1
+depends	VBZ;;4
+is	VBZ;;232
+has	VBZ;;27
+shakes	VBZ;;3
+knows	VBZ;;4
+says	VBZ;;5
+goes	VBZ;;10
+sounds	VBZ;;3
+falls	VBZ;;4
+comes	VBZ;;5
+stretches	VBZ;;3
+wants	VBZ;;15
+winks	VBZ;;5
+seems	VBZ;;4
+thinks	VBZ;;6
+watches	VBZ;;13
+walks	VBZ;;3
+takes	VBZ;;4
+sucks	VBZ;;13
+dances	VBZ;;4
+likes	VBZ;;3
+sighs	VBZ;;7	UH;;1
+lasts	VBZ;;7
+smiles	VBZ;;5	UH;;1
+slaps	VBZ;;4
+makes	VBZ;;7
+looks	VBZ;;18
+hands	VBZ;;6	NNS;;1
+loves	VBZ;;4
+sings	VBZ;;6
+sits	VBZ;;5
+gets	VBZ;;8
+happens	VBZ;;3
+does	VBZ;;20

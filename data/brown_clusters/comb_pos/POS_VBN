@@ -1,0 +1,420 @@
+locked	VBN;;7	JJ;;1	VBD;;1
+rewarded	VBN;;4
+conditioned	VBN;;5
+copyrighted	VBN;;3
+accomplished	VBN;;5	JJ;;1
+opposed	VBN;;28	JJ;;2	VBD;;13
+spoken	VBN;;7
+printed	VBN;;4	JJ;;1	VBD;;1
+formed	VBN;;21	VBD;;10
+engaged	VBN;;16	JJ;;1	VBD;;6
+sealed	VBN;;3	JJ;;1	VBD;;1
+initiated	VBN;;6	VBD;;2
+corrected	VBN;;8	JJ;;1	VBD;;1
+installed	VBN;;10	JJ;;2	VBD;;2
+barred	VBN;;7
+rumored	VBN;;11	JJ;;1	VBD;;1
+expanded	VBN;;15	JJ;;3	VBD;;2
+pressed	VBN;;5	VBD;;2
+purged	VBN;;3
+bolstered	VBN;;10	VBD;;1
+stalled	VBN;;9	JJ;;1	VBD;;1
+pressured	VBN;;3	NN;;1
+placed	VBN;;29	VBD;;9
+compared	VBN;;208	VBD;;3
+understated	VBN;;3	VBD;;1
+implicated	VBN;;3
+haunted	VBN;;4	JJ;;1
+drawn	VBN;;13
+born	VBN;;12
+consummated	VBN;;4
+fixed	VBN;;31	JJ;;10	VBD;;1
+underwritten	VBN;;4	JJ;;1
+staffed	VBN;;3
+suspected	VBN;;5	JJ;;1	VBD;;2
+renewed	VBN;;17	JJ;;5	VBD;;4
+heightened	VBN;;6	JJ;;2	VBD;;1
+exposed	VBN;;11	JJ;;1	VBD;;1
+inspired	VBN;;8	JJ;;1	VBD;;2
+trapped	VBN;;3	JJ;;1
+ranked	VBN;;3
+forgotten	VBN;;4
+taxed	VBN;;3
+dashed	VBN;;4
+kidnapped	VBN;;3	VBD;;1
+appointed	VBN;;22	JJ;;2	VBD;;2
+inherited	VBN;;5	VBD;;2
+tuned	VBN;;5
+controlled	VBN;;34	JJ;;2	VBD;;7
+headed	VBN;;38	VBD;;7
+demonstrated	VBN;;7	VBD;;3
+aided	VBN;;10
+arrested	VBN;;17	VBD;;1
+selected	VBN;;14	JJ;;2	VBD;;3
+assigned	VBN;;8	JJ;;1
+refined	VBN;;3	JJ;;1
+restored	VBN;;9	VBD;;4
+filled	VBN;;20	VBD;;5
+pegged	VBN;;5	VBD;;2
+squeezed	VBN;;5	VBD;;1
+embraced	VBN;;7	VBD;;3
+stripped	VBN;;9	JJ;;1	VBD;;2
+consulted	VBN;;3
+assisted	VBN;;4
+composed	VBN;;8
+hammered	VBN;;9
+oversubscribed	VBN;;5	JJ;;1
+revoked	VBN;;5
+nicknamed	VBN;;3
+resolved	VBN;;24
+displaced	VBN;;3
+glued	VBN;;3
+disciplined	VBN;;5	JJ;;2
+greeted	VBN;;3	VBD;;1
+borrowed	VBN;;21	JJ;;1	VBD;;4
+proposed	VBN;;123	JJ;;36	VBD;;30
+uncovered	VBN;;6	JJ;;1	VBD;;1
+leased	VBN;;5	VBD;;1
+succeeded	VBN;;20	VBD;;3
+freed	VBD;;3	VBN;;7	NNP;;1
+fallen	VBN;;43	JJ;;3
+confiscated	VBN;;4	VBD;;1
+regulated	VBN;;7	JJ;;2
+magnified	VBN;;3	VBD;;1
+capitalized	VBN;;3	VBD;;1
+fertilized	VBN;;4
+accrued	VBN;;8	JJ;;2
+restructured	VBN;;10	VBD;;1
+sanctioned	VBN;;3
+linked	VBN;;17	VBD;;3
+undertaken	VBN;;6
+heralded	VBN;;3
+mired	VBN;;5
+hurt	VB;;22	VBP;;4	VBN;;49	JJ;;2	VBD;;5
+organized	NNP;;1	VBN;;14	JJ;;1	VBD;;1
+preceded	VBN;;3
+assured	VBN;;5	JJ;;1	VBD;;1
+listed	VBN;;31	JJ;;4	VBD;;9
+adapted	VBN;;4	VBD;;1
+invested	VBN;;24	VBD;;9
+studied	VBN;;7	VBD;;3
+valued	VBN;;46	VBD;;4
+repaired	VBN;;3
+revised	VBN;;37	JJ;;10	VBD;;6
+disguised	VBN;;3	JJ;;1
+equipped	VBN;;5	JJ;;1	VBD;;1
+combined	NNP;;1	VBN;;33	JJ;;16	VBD;;3
+flawed	VBN;;5	JJ;;2
+gone	VBN;;52
+situated	VBN;;4
+evolved	VBN;;3	VBD;;1
+neglected	VBN;;4	VBD;;1
+determined	VBN;;25	JJ;;1	VBD;;8
+set	VB;;38	NN;;31	VBD;;39	VBN;;90	VBP;;8	JJ;;1
+instituted	VBN;;6	VBD;;2
+owed	VBN;;18	VBD;;4
+plagued	VBN;;5	VBD;;1
+redeemed	VBN;;5
+defined	VBN;;6	VBD;;2
+tailored	VBN;;4	JJ;;1
+compounded	VBN;;3	VBD;;1
+owned	VBN;;62	JJ;;2	VBD;;20
+buoyed	VBN;;10	VBD;;1
+planted	VBN;;7	VBD;;2
+adjusted	VBN;;27	JJ;;10	VBD;;1
+allocated	VBN;;5	VBD;;1
+discounted	VBN;;7	JJ;;1	VBD;;2
+harvested	VBN;;4
+established	VBN;;33	JJ;;4	VBD;;9
+affected	VBN;;36	JJ;;10	VBD;;8
+incorporated	VBN;;6	JJ;;1	NNP;;1
+packaged	VBN;;9
+denominated	VBN;;3
+liquidated	VBN;;4	VBD;;1
+labeled	VBN;;8	VBD;;1
+sweetened	VBN;;5	JJ;;1	VBD;;2
+shown	VBN;;47
+omitted	VBN;;9
+recorded	VBN;;15	JJ;;1	VBD;;6
+administered	VBN;;5
+tendered	VBN;;10	JJ;;2	VBD;;1
+fined	VBN;;8	VBD;;1
+eaten	VBN;;3
+budgeted	VBN;;3
+used	VBN;;201	JJ;;5	VBD;;62
+guaranteed	VBN;;24	JJ;;5	VBD;;3
+besieged	VBN;;3	JJ;;1
+revamped	VBN;;6	VBD;;1
+required	VBN;;67	JJ;;6	VBD;;14
+strapped	VBN;;3	JJ;;1
+located	VBN;;15
+underpinned	VBN;;3
+diminished	VBN;;8	JJ;;3	VBD;;1
+earmarked	VBN;;4
+constrained	VBN;;3
+parked	VBN;;4	VBD;;1
+written	VBN;;36	JJ;;4
+spared	VBN;;3
+recognized	VBN;;16	VBD;;6
+frozen	VBN;;9	JJ;;3
+regarded	VBN;;10	JJ;;2	VBD;;3
+tracked	VBN;;6	JJ;;1	VBD;;2
+designed	VBN;;60	VBD;;3
+dated	VBN;;13	JJ;;3
+specified	VBN;;6	JJ;;2	VBD;;1
+broken	VBN;;18	JJ;;8
+titled	VBN;;5	VBD;;1
+projected	VBN;;14	VBD;;3
+scattered	VBN;;3	JJ;;1
+priced	VBN;;123	VBD;;2
+pared	VBN;;4	VBD;;1
+bored	VBN;;3	JJ;;1
+revived	VBN;;9
+overshadowed	VBN;;3	VBD;;1
+rendered	VBN;;3	VBD;;1
+processed	VBN;;8	JJ;;2	VBD;;2
+paired	VBN;;4
+estimated	VBN;;96	JJ;;33	VBD;;38
+beaten	VBN;;4
+notified	VBN;;11	VBD;;3
+oriented	VBN;;3	JJ;;1
+been	VBP;;1	VBN;;1326
+harmed	VBN;;3	VBD;;1
+undervalued	VBN;;6	VBD;;1
+coordinated	VBN;;3
+begun	VBN;;34
+considered	VBN;;89	JJ;;1	VBD;;13
+robbed	VBN;;5
+poised	VBN;;11
+predetermined	VBN;;3
+subjected	VBN;;5
+thrown	VBN;;8
+measured	VBN;;11	JJ;;1	VBD;;2
+dissolved	VBN;;3
+deployed	VBN;;4	VBD;;1
+associated	VBN;;24	JJ;;4	NNP;;7
+scrutinized	VBN;;4
+slated	VBN;;12	VBD;;1
+depicted	VBN;;3
+shipped	VBN;;7	VBD;;3
+caught	VBN;;22	VBD;;10
+transferred	VBN;;14	VBD;;6
+damaged	VBN;;26	JJ;;6	VBD;;1
+shaken	VBN;;13	JJ;;1
+annualized	VBN;;8	JJ;;2
+funded	VBN;;11	JJ;;1	VBD;;1
+allowed	VBN;;52	JJ;;1	VBD;;24
+buried	VBN;;6	VBD;;1
+aroused	VBN;;3	VBD;;1
+restated	VBN;;10	JJ;;3
+risen	VBN;;26
+rooted	VBN;;5	JJ;;1
+targeted	VBN;;12	JJ;;2	VBD;;1
+stung	VBN;;3
+named	VBN;;70	VBD;;20
+dressed	VBN;;4
+counted	VBN;;16	VBD;;1
+chosen	VBN;;9
+outlined	VBN;;4
+dubbed	VBN;;11	VBD;;1
+delayed	VBN;;13	JJ;;5	VBD;;5
+invited	VBN;;8	VBD;;3
+renegotiated	VBN;;3
+lifted	VBN;;12	VBD;;3
+created	VBN;;59	VBD;;26
+seated	VBN;;3
+exercised	VBN;;4
+calculated	VBN;;11	JJ;;4	VBD;;1
+enjoyed	VBN;;7	VBD;;3
+prescribed	VBN;;3
+expelled	VBN;;3
+bound	VBN;;9	JJ;;2
+taken	VBN;;138
+perceived	VBN;;8	VBD;;1
+rebuffed	VBN;;6	VBD;;2
+heard	NNP;;1	VBN;;21	VBD;;10
+enacted	VBN;;11	VBD;;1
+phased	VBN;;5
+elected	VBN;;19	JJ;;2	VBD;;3
+informed	VBN;;14	JJ;;2	VBD;;6
+canceled	VBN;;15	JJ;;1	VBD;;6
+aimed	VBN;;46	VBD;;4
+anticipated	VBN;;19	JJ;;7	VBD;;4
+positioned	VBN;;7	VBD;;2
+surrounded	VBN;;6
+curtailed	VBN;;5	VBD;;1
+complied	VBN;;3
+delivered	VBN;;20	VBD;;1
+excluded	VBN;;4	VBD;;1
+marketed	VBN;;4	VBD;;1
+documented	VBN;;3
+based	VBN;;237	VBD;;3
+credited	VBN;;8	VBD;;3
+implemented	VBN;;8
+aligned	VBN;;3
+featured	VBN;;7	JJ;;1	VBD;;2
+seen	VBN;;89
+clobbered	VBN;;4	VBD;;1
+defeated	VBN;;9	VBD;;2
+entitled	VBN;;8
+battered	VBN;;10	JJ;;1	VBD;;1
+undermined	VBN;;6	VBD;;1
+educated	VBN;;5
+decorated	VBN;;4
+deteriorated	VBN;;3	JJ;;1	VBD;;1
+conducted	VBN;;18	VBD;;4
+done	VBN;;106	RB;;1
+supposed	VBN;;36	JJ;;1	VBD;;1
+distributed	VBN;;19
+burned	VBN;;5	JJ;;1
+redesigned	VBN;;3	VBD;;1
+obliged	VBN;;3
+framed	VBN;;3
+donated	VBN;;11	VBD;;3
+inundated	VBN;;3
+salvaged	VBN;;3
+reserved	VBN;;6	JJ;;1	VBD;;1
+burdened	VBN;;3
+accumulated	VBN;;5
+completed	VBN;;71	VBD;;25
+enhanced	VBN;;7	JJ;;1	VBD;;1
+reinvested	VBN;;4	VBD;;1
+expected	VB;;1	VBN;;393	JJ;;29	VBD;;43
+bugged	VBN;;3
+permitted	VBN;;13	VBD;;5
+ruined	VBN;;3
+whipsawed	VBN;;5	JJ;;1
+given	VBN;;129	JJ;;1
+released	VBN;;38	VBD;;7
+coupled	VBN;;6
+confined	VBN;;4
+known	VBN;;108	JJ;;4
+compiled	VBN;;15
+achieved	VBN;;17	VBD;;8
+evaluated	VBN;;3
+flown	VBN;;4
+secured	VBN;;18	JJ;;5	VBD;;1
+related	VBN;;76	JJ;;22	VBD;;1
+televised	VBN;;5	JJ;;2
+scared	VBN;;5	JJ;;2	VBD;;2
+incurred	VBN;;12	VBD;;5
+auctioned	VBN;;5	VBD;;2
+outlawed	VBN;;4	JJ;;1	VBD;;1
+absorbed	VBN;;5	VBD;;2
+summoned	VBN;;4	VBD;;1
+underestimated	VBN;;7	VBD;;1
+divided	VBN;;20	JJ;;1
+compelled	VBN;;8
+structured	VBN;;10	JJ;;3	VBD;;1
+discarded	VBN;;3	VBD;;1
+exhausted	VBN;;3	VBD;;1
+reassured	VBN;;3	VBD;;1
+diluted	VBN;;10	JJ;;4	VBD;;1
+convicted	VBN;;19	VBD;;1
+scheduled	VBN;;85	JJ;;3	VBD;;2
+imposed	VBN;;16	VBD;;6
+repaid	VBN;;9	VBD;;1
+consumed	VBN;;9	VBD;;1
+involved	VB;;1	VBN;;75	JJ;;10	VBD;;15
+afforded	VBN;;3
+jailed	VBN;;4	VBD;;1
+tied	VBN;;30	VBD;;6
+accompanied	VBN;;13	VBD;;1
+viewed	VBN;;24	VBD;;7
+extradited	VBN;;3
+drilled	VBN;;4	VBD;;1
+saved	VBN;;5	VBD;;1
+satisfied	VBN;;10	JJ;;4	VBD;;1
+rated	VBN;;42	VBD;;2
+forced	VBN;;59	JJ;;3	VBD;;11
+quoted	VBN;;59	VBD;;6
+evidenced	VBN;;3
+bestowed	VBN;;3
+devoted	VBN;;5
+charged	VBN;;38	VBD;;13
+strained	VBN;;3	JJ;;1
+trained	VBN;;5	JJ;;2
+hampered	VBN;;4	VBD;;1
+derived	VBN;;6
+committed	VBN;;18	JJ;;5	VBD;;4
+motivated	VBN;;3	JJ;;1
+sentenced	VBN;;16	VBD;;2
+relieved	VBN;;5	JJ;;2
+sponsored	VBN;;7	VBD;;1
+surveyed	VBN;;20	VBD;;1
+compromised	VBN;;3
+translated	VBN;;5
+saddled	VBN;;4	VBD;;1
+mentioned	VBN;;12	VBD;;4
+thwarted	VBN;;3
+connected	VBN;;11	JJ;;3
+employed	VBN;;12
+publicized	VBN;;6	JJ;;1
+tapped	VBN;;5	VBD;;2
+discouraged	VBN;;5	JJ;;2	VBD;;2
+devised	VBN;;7	VBD;;2
+crushed	VBN;;3	JJ;;1
+converted	VBN;;11	JJ;;2	VBD;;2
+updated	VBN;;5
+deemed	VBN;;6
+taped	VBN;;9	VBD;;2
+restricted	VBN;;11	JJ;;5	VBD;;1
+grown	VBN;;35	JJ;;2
+attached	VBN;;12	VBD;;2
+misinterpreted	VBN;;4
+protected	VBN;;10	JJ;;1	VBD;;2
+voiced	VBN;;3	VBD;;1
+diverted	VBN;;6
+designated	VBN;;4
+stretched	VBN;;7	JJ;;2	VBD;;1
+worded	VBN;;3
+damped	VBN;;3
+published	VBN;;27	JJ;;1	VBD;;3
+swamped	VBN;;5	VBD;;2
+geared	VBN;;5
+gotten	VBN;;16
+treated	VBN;;5
+aged	VBN;;7
+built	VBN;;63	VBD;;10
+misplaced	VBN;;3
+billed	VBN;;5	VBD;;1
+negotiated	VBN;;17	JJ;;1	VBD;;8
+identified	VBN;;23	VBD;;6
+promoted	VBN;;5
+injured	VBN;;12	JJ;;4	VBD;;1
+executed	VBN;;11	JJ;;1	VBD;;5
+isolated	VBN;;5	JJ;;2	VBD;;1
+faced	VBN;;24	VBD;;8
+removed	VBN;;10	VBD;;3
+constructed	VBN;;5
+filmed	VBN;;3	VBD;;1
+modified	VBN;;3	JJ;;1
+discontinued	VBN;;13	JJ;;4
+encouraged	VBN;;19	JJ;;2	VBD;;6
+foreclosed	VBN;;6	JJ;;1	VBD;;1
+driven	VBN;;16
+captured	VBN;;11	VBD;;1
+booked	VBN;;4
+refinanced	VBN;;4	VBD;;1
+imported	VBN;;11	JJ;;1	VBD;;1
+financed	VBN;;16
+passed	VBN;;43	VBD;;18
+stolen	VBN;;14	JJ;;1	NNP;;1
+engineered	VBN;;9	JJ;;2	NNP;;1
+buffeted	VBN;;4
+scaled	VBN;;6	VBD;;2
+inclined	VBN;;9	JJ;;4
+interrupted	VBN;;3
+covered	VBN;;20	JJ;;1	VBD;;5
+doomed	VBN;;3	VBD;;1
+withdrawn	VBN;;6
+appropriated	VBN;;4
+murdered	VBN;;5
+seen	VBN;;25
+been	VBN;;39
+born	VBN;;3
+confused	VBN;;3
+heard	VBN;;5
+done	VBN;;5
+married	VBN;;3	JJ;;1
+fired	VBN;;4

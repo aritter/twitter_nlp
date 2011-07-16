@@ -1,0 +1,292 @@
+climbed	VBN;;6	VBD;;47
+conceded	VBN;;3	VBD;;15
+marched	VBN;;1	VBD;;4
+had	VBN;;78	VBD;;1473
+surged	VBN;;4	VBD;;34
+tightened	VBD;;3
+edged	VBN;;1	VBD;;13
+sang	VBD;;5
+sank	VBD;;15
+prevailed	VBN;;1	VBD;;7
+replied	VBD;;13
+singled	VBN;;1	VBD;;3
+acted	VBN;;4	VBD;;10
+rode	VBD;;4
+strengthened	VBN;;2	JJ;;1	VBD;;6
+tossed	VBN;;1	VBD;;3
+searched	VBD;;4
+stressed	VBN;;1	VBD;;12
+indicated	VBN;;15	JJ;;3	VBD;;35
+totaled	VBD;;57
+guessed	VBD;;4
+tried	VBN;;15	VBD;;34
+grew	VBD;;60
+unfolded	VBD;;3
+lived	VBN;;2	VBD;;10
+questioned	VBN;;1	VBD;;12
+smiled	VBD;;4
+withdrew	VBD;;15
+unveiled	VBN;;2	VBD;;12
+stole	VBD;;3
+resumed	VBN;;4	VBD;;13
+battled	VBD;;3
+objected	VBN;;1	VBD;;4
+suggested	VBN;;12	JJ;;1	VBD;;28
+waited	VBD;;5
+hailed	VBN;;1	VBD;;7
+declared	VBN;;9	VBD;;19
+founded	VBN;;4	VBD;;11
+doubled	VBN;;9	VBD;;24
+asserted	VBN;;1	VBD;;10
+tumbled	VBN;;1	VBD;;39
+touted	VBN;;1	VBD;;3
+talked	VBN;;1	VBD;;11
+joined	VBN;;11	VBD;;27
+gave	VBD;;79
+departed	VBD;;3
+remarked	VBD;;4
+emphasized	VBN;;1	VBD;;8
+widened	VBN;;5	VBD;;11
+lamented	VBD;;3
+predicted	VBN;;9	VBD;;28
+proclaimed	VBD;;5
+traveled	VBN;;1	VBD;;6
+wrote	VBD;;50
+refused	VBN;;14	VBD;;34
+chose	VBD;;16
+galvanized	VBD;;3
+agreed	VBN;;77	JJ;;1	VBD;;201
+neared	VBD;;4
+bought	VBN;;43	VBD;;93
+explained	VBN;;3	VBD;;15
+spoke	VBD;;10
+oversaw	VBD;;3
+miscalculated	VBN;;1	VBD;;3
+firmed	VBN;;1	VBD;;6
+countered	VBD;;4
+slipped	VBN;;3	VBD;;26
+erupted	VBN;;1	VBD;;5
+walked	VBD;;7
+occurred	VBN;;5	VBD;;25
+figured	VBN;;2	VBD;;7
+gained	VB;;1	VBN;;15	VBD;;69
+threw	VBD;;12
+dwindled	VBD;;3
+accounted	VBN;;3	VBD;;20
+yielded	VBN;;1	VBD;;4
+downgraded	VBN;;1	VBD;;6
+confirmed	VBN;;8	VBD;;29
+opened	VBN;;29	VBD;;66
+staged	VBN;;1	VBD;;11
+broke	RB;;1	JJ;;1	VBD;;27
+ratified	VBN;;1	VBD;;3
+referred	VBN;;3	VBD;;7
+reflected	VBN;;11	VBD;;29
+won	NNP;;3	VBP;;1	VBN;;19	NN;;7	VBD;;48
+liked	VBN;;1	VBD;;3
+drove	VBD;;13
+argued	VBN;;5	VBD;;29
+encountered	VBN;;2	VBD;;5
+drew	NNP;;5	VBD;;11
+appeared	VBD;;47
+proceeded	VBN;;1	VBD;;4
+felt	VBN;;7	VBD;;31
+fell	NN;;1	VBN;;1	JJ;;1	VBD;;327
+exported	VBN;;1	VBD;;4
+died	VBN;;4	VBD;;18
+answered	VBN;;1	VBD;;3
+pointed	VBN;;5	JJ;;1	VBD;;16
+were	VB;;2	VBD;;1608
+dipped	VBN;;1	VBD;;8
+stood	VBN;;1	VBD;;20
+stepped	VBN;;2	VBD;;10
+attributed	VBN;;12	VBD;;33
+snapped	VBN;;1	JJ;;1	VBD;;4
+shrank	VBD;;3
+got	VB;;1	VBP;;1	VBN;;22	VBD;;130
+took	NNP;;1	VBD;;185
+wound	VB;;1	NN;;1	VBD;;3
+denounced	VBN;;1	VBD;;4
+dropped	VBN;;28	VBD;;136
+violated	VBN;;4	VBD;;15
+arose	VBD;;6
+speculated	VBN;;3	VBD;;8
+included	VBN;;34	JJ;;1	VBD;;73
+flowed	VBD;;6
+added	NNP;;1	VBN;;28	JJ;;8	VBD;;209
+slapped	VBN;;1	VBD;;3
+upheld	VBN;;1	VBD;;5
+looked	VBN;;5	VBD;;28
+urged	VBN;;9	VBD;;27
+conspired	VBD;;4
+persisted	VBD;;3
+plunged	VBN;;6	VBD;;50
+showed	VBN;;4	VBD;;82
+came	VBD;;188
+resigned	VBN;;5	JJ;;1	VBD;;47
+bribed	VBN;;1	VBD;;4
+revealed	VBN;;2	VBD;;6
+shouted	VBD;;9
+waved	VBD;;4
+termed	VBN;;2	VBD;;5
+found	VBN;;42	VBD;;93
+inched	VBN;;1	VBD;;8
+posted	VBN;;29	JJ;;1	VBD;;97
+flocked	VBN;;1	VBD;;3
+presided	VBN;;1	VBD;;3
+seemed	VBN;;4	VBD;;47
+balked	VBD;;7
+slid	NNP;;1	VBN;;2	VBD;;27
+reacted	VBN;;3	VBD;;11
+warned	VBN;;9	VBD;;31
+screamed	VBD;;3
+responded	VBN;;2	VBD;;22
+progressed	VBN;;1	VBD;;4
+was	VBD;;3293
+topped	VBN;;1	VBD;;3
+complained	VBN;;8	VBD;;21
+fizzled	VBN;;1	VBD;;3
+plummeted	VBN;;5	VBD;;29
+collapsed	VBN;;6	JJ;;3	VBD;;15
+sounded	VBN;;1	VBD;;3
+started	VBN;;23	VBD;;85
+expired	VBN;;4	JJ;;1	VBD;;11
+decided	VBN;;17	VBD;;56
+amounted	VBN;;1	VBD;;10
+shook	VBD;;10
+emerged	VBN;;3	VBD;;14
+participated	VBN;;2	VBD;;9
+exceeded	VBN;;5	VBD;;16
+reinforced	VBN;;1	VBD;;4
+rallied	VBD;;14
+huddled	VBD;;4
+visited	VBN;;5	VBD;;12
+grabbed	VBN;;2	VBD;;5
+finished	VBN;;4	JJ;;2	VBD;;34
+slammed	VBD;;3
+insisted	VBN;;4	VBD;;17
+hung	NNP;;1	VBN;;1	VBD;;4
+disappeared	VBN;;1	VBD;;5
+vowed	VBN;;1	VBD;;10
+rose	VBP;;1	NNP;;6	NN;;1	VBD;;435
+disagreed	VBN;;1	VBD;;4
+characterized	VBN;;1	VBD;;3
+intervened	VBN;;1	VBD;;6
+declined	VBN;;19	VBD;;180
+drifted	VBD;;5
+flew	VBD;;7
+fled	VBN;;4	VBD;;12
+tacked	VBD;;6
+yanked	VBN;;1	VBD;;3
+reported	VBN;;77	JJ;;3	VBD;;210
+leaped	VBN;;1	VBD;;5
+rolled	VBN;;3	JJ;;1	VBD;;8
+demanded	VBN;;3	VBD;;11
+lacked	VBN;;1	VBD;;8
+decreased	VBN;;1	VBD;;5
+saw	NN;;2	VBD;;51
+sat	VBN;;4	VBD;;16
+knew	VBD;;16
+jumped	VBN;;3	VBD;;81
+pleaded	VBN;;2	VBD;;13
+contended	VBN;;2	VBD;;12
+defended	VBN;;2	VBD;;9
+snowballed	VBD;;3
+reasoned	VBN;;1	VBD;;4
+flopped	VBN;;1	VBD;;3
+behaved	VBN;;1	VBD;;6
+poured	VBN;;1	VBD;;3
+voted	VBN;;6	VBD;;31
+told	VBN;;24	VBD;;134
+wore	VBD;;4
+cited	VBN;;15	VBD;;39
+observed	VBN;;2	JJ;;1	VBD;;7
+fared	VBD;;6
+marked	VBN;;4	JJ;;2	VBD;;10
+remained	VBN;;8	VBD;;37
+analyzed	VBN;;2	VBD;;8
+steered	VBN;;1	VBD;;3
+bowed	VBD;;4
+soared	VBN;;6	VBD;;38
+reiterated	VBD;;7
+testified	VBD;;6
+stemmed	VBN;;1	VBD;;11
+scrambled	VBD;;8
+earned	VBN;;13	VBD;;61
+sensed	VBD;;3
+began	VBD;;189
+sagged	VBN;;1	VBD;;4
+belonged	VBD;;3
+pumped	VBN;;1	VBD;;3
+went	VBD;;120
+bounced	VBD;;9
+said	NNP;;6	VBN;;67	VBD;;4617
+hinted	VBN;;1	VBD;;4
+praised	VBN;;1	VBD;;4
+did	VBD;;535
+slept	VBD;;3
+opted	VBN;;1	VBD;;3
+ranged	VBN;;1	VBD;;6
+crashed	VBD;;5
+volunteered	VBN;;1	VBD;;3
+loved	VBN;;1	VBD;;3
+eased	VBN;;3	VBD;;18
+acknowledged	VBN;;1	JJ;;1	VBD;;23
+wanted	VBN;;5	VBD;;70
+ran	VBD;;28
+rebounded	VB;;1	VBN;;3	NN;;3	VBD;;23
+outnumbered	VBD;;8
+landed	VBD;;6
+slowed	VBN;;7	VBD;;15
+pioneered	VBD;;3
+attended	VBN;;4	VBD;;16
+confessed	VBN;;1	VBD;;3
+cautioned	VBD;;10
+reminded	VBN;;1	VBD;;3
+shunned	VBD;;4
+skidded	VBN;;1	VBD;;8
+exploded	VBN;;2	VBD;;5
+became	VBD;;87
+noted	VBN;;12	VBD;;89
+skyrocketed	VBN;;1	VBD;;3
+closed	NNP;;1	VBN;;48	JJ;;25	VBD;;196
+felt	VBD;;3
+told	VBN;;1	VBD;;9
+kicked	VBN;;2	VBD;;5
+ere	VBD;;3
+went	VBD;;5
+forgot	VBD;;3
+got	VBN;;4	VBD;;49
+wanted	VBD;;7
+ate	VBD;;3
+took	VBD;;4
+came	VBD;;5
+observed	VBD;;3
+said	VBD;;15
+worked	VBD;;3
+played	VBN;;1	VBD;;8
+saw	VBD;;6
+left	VBN;;2	VBD;;5
+had	VBN;;4	VBD;;29
+was	WP;;1	VBD;;88
+shot	VBD;;3
+did	VBD;;59
+perved	VBD;;3
+happened	VBD;;4
+gotta	VBP;;1	VBD;;4
+booted	VBD;;3
+were	WRB;;1	VBD;;26
+knew	VBD;;5
+called	VBN;;1	VBD;;5
+joined	VBD;;3
+sang	VBD;;7
+broke	JJ;;1	VBD;;4
+tried	VBN;;1	VBD;;6
+missed	VBN;;1	VBD;;8
+lived	VBD;;4
+meant	VBD;;3
+didnt	VBD;;14
+pursued	VBD;;4
+figured	VBD;;3
+finished	VBD;;3
+thought	NN;;3	VBD;;11

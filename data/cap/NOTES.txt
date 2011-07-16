@@ -1,0 +1,17 @@
+These tweets are labeled as follows (3rd to last column_
+      1: appear to contain reliable capitalization
+      0: don't appear to contain reliable capitalization
+
+In order to determine if a tweet is reasonably capitalized I used the following criteria:
+   1. Is anything inappropriate capitalized (e.g. verbs, adjectives, etc...)?
+   2. Are any named entities not capitalized?
+   3. Are forms of the word "I" not capitalized?
+   4. Are words beginning a sentence not capitalized?
+
+Some random notes:
+     -URLs, usernames and colins and sometimes quotes '"' seem to function as sentence breaks.
+     -Usernames and HTs should be considered as "capitalized"?
+
+The last two columns label tweets as follows:
+    -The tweet contains capitalized words which don't begin a sentence, and are not part of an entity
+    -The tweet contains entities which are not capitalized

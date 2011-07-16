@@ -1,0 +1,3074 @@
+woods	NNS;;1	NNP;;5
+wednesday	NNP;;102
+innopac	NNP;;5
+skadden	NNP;;5
+china	NN;;4	NNP;;159
+stern	JJ;;2	NNP;;11
+dna	NNP;;4
+matilda	NNP;;3
+wang	NNP;;46
+carew	NNP;;4
+saskatchewan	NNP;;3
+menlo	NNP;;4
+geva	NNP;;5
+wales	NNP;;4
+arrow	NNP;;20
+allan	NNP;;6
+mason	NNP;;24
+eurocom	NNP;;6
+chevron	NNP;;14
+givaudan	NNP;;3
+craven	NNP;;6
+kremlin	NNP;;8
+bradford	NNP;;4
+orleans	NNP;;6
+rico	NNP;;24
+rick	NNP;;4
+rica	NNP;;27
+jaguar	NN;;1	NNP;;133
+conant	NNP;;7
+irs	NNP;;44
+colgate-palmolive	NNP;;3
+dave	NNP;;11
+intan	NNP;;4
+k	NN;;1	NNP;;25
+kohl	NNP;;4
+hong	NNP;;145
+aristech	NNP;;3
+mcnamara	NNP;;4
+istat	NNP;;3
+alice	NNP;;8
+discovision	NNP;;7
+sterba	NNP;;3
+eduard	NNP;;6
+maxwell	NNP;;29
+marshall	NNP;;24
+lieber	NNP;;3
+firstsouth	NNP;;5
+verdi	NNP;;4
+azt	NNP;;5
+cambodia	NNP;;9
+pasadena	NNP;;3
+cincinnati	NNS;;1	NNP;;27
+a.h.	NNP;;4
+calgene	NNP;;3
+corp.	NN;;4	NNP;;1002
+meador	NNP;;3
+l.p.	NN;;1	NNP;;4
+benson	NNP;;12
+bouillaire	NNP;;3
+sierra	NNP;;8
+ashton-tate	NNP;;3
+fresenius	NNP;;15
+f.w.	NNP;;4
+milken	NNP;;3
+jim	NNP;;25
+calabasas	NNP;;4
+fromstein	NNP;;9
+thurmond	NNP;;9
+sioux	NNP;;3
+dalkon	NNP;;4
+turner	NNP;;14
+goodman	NNP;;7
+phil	NNP;;6
+presse	NNP;;3
+weatherford	NNP;;3
+donoghue	NNP;;3
+west	RB;;1	NNPS;;2	NN;;10	JJ;;50	NNP;;161
+otto	NNP;;3
+singapore	NNP;;45
+cluett	NNP;;6
+sunnyvale	NNP;;7
+postal	JJ;;4	NNP;;10
+babylonian	NNP;;3
+tvs	NNS;;4	NNP;;10
+tva	NNP;;12
+seaman	NNP;;4
+francois	NNP;;5
+thailand	NNP;;4
+hopkins	NNP;;6
+johnston	NNP;;6
+lothson	NNP;;3
+thorp	NNP;;3
+sci	NNP;;51
+mccaw	NNP;;57
+cheney	NNP;;10
+nora	NNP;;6
+midwest	JJS;;1	NN;;2	NNP;;11
+calif.	NNP;;71
+matagorda	NNP;;3
+kemper	NNP;;21
+paso	NNP;;6
+november	NNP;;56
+mehl	NNP;;5
+panetta	NNP;;9
+gannett	NNP;;7
+hugo	NNP;;55
+hugh	NNP;;5
+scott	NNP;;18
+denny	NNP;;3
+luzon	NNP;;10
+omaha	NNP;;4
+aikman	NNP;;5
+collor	NNP;;3
+ingram	NNP;;3
+cresson	NNP;;3
+salzman	NNP;;4
+belo	NNP;;7
+bell	NN;;6	NNP;;45
+nrm	NNP;;10
+nrc	NNP;;5
+von	NNP;;10
+mosbacher	NNP;;9
+ltd.	NNP;;147
+ogonyok	NNP;;4
+hercules	NNS;;1	NNP;;3
+o'neill	NNP;;6
+tisch	NNP;;8
+gallagher	NNP;;8
+atlantis	NNP;;5
+atlantic	JJ;;1	NNP;;20
+erich	NNP;;5
+eddie	NNP;;7
+lang	NNP;;36
+lane	NN;;1	NNP;;11
+amish	NNP;;4
+straszheim	NNP;;15
+freind	NNP;;5
+harbor	VBP;;1	NN;;1	NNP;;4
+dynamics	NNPS;;3	NNS;;1	NNP;;10
+victor	NN;;1	NNP;;11
+bronner	NNP;;6
+givens	NNP;;3
+businessland	NNP;;7
+iata	NNP;;4
+manpower	NN;;1	NNP;;8
+houston	NNP;;52
+burke	NNP;;3
+hyundai	NNP;;11
+rev.	NNP;;8
+cecin	NNP;;3
+sinatra	NNP;;3
+worldwide	NNP;;4
+cipher	NNP;;3
+thanksgiving	NNP;;4
+scotts	NNP;;3
+jay	NNP;;11
+abby	NNP;;5
+aer	NNP;;8
+ohio	NNP;;55
+aussedat	NNP;;3
+darpa	NNP;;4
+midland	NNP;;9
+bynoe	NNP;;3
+eaton	NNP;;8
+paulo	NNP;;4
+indonesia	NNP;;6
+braniff	NNP;;6
+matsushita	NNP;;8
+mitsuoka	NNP;;3
+enfield	NNP;;6
+cruz	NNP;;4
+phibro	NNP;;4
+iwai	NNP;;4
+burroughs	NNP;;3
+peters	NNP;;71
+cms	NNP;;8
+jamaica	NNP;;7
+sunbelt	NNP;;8
+wyss	NNP;;3
+cathcart	NNP;;6
+mather	NNP;;11
+amvest	NNP;;4
+coelho	NNP;;4
+christie	NN;;1	NNP;;16
+l	NN;;1	NNP;;4
+daniel	NNP;;33
+sununu	NNP;;5
+judith	NNP;;4
+macrodantin	NNP;;5
+timothy	NNP;;4
+john	NNP;;204
+bruce	NNP;;18
+hammond	NNP;;7
+germany	NNP;;115
+reserve	VBP;;1	JJ;;1	NN;;31	NNP;;96
+stephens	NNP;;6
+lewis	NNP;;13
+lexington	NNP;;11
+ems	NNP;;14
+awad	NNP;;3
+shields	NNS;;1	NNP;;3
+toni	NNP;;4
+gnp	NN;;2	NNP;;29
+conn	NNP;;11
+quebecor	NNP;;25
+hang	VB;;3	NNP;;10
+hans	NNP;;3
+vermont	NNP;;7
+newton	NNP;;4
+jose	NNP;;20
+cornell	NNP;;3
+josh	NNP;;3
+amoco	NNP;;8
+wright	NNP;;33
+freeport-mcmoran	NNP;;3
+gartner	JJR;;1	NNP;;4
+jacques	NNP;;5
+atherton	NNP;;3
+reproductive	JJ;;2	NNP;;5
+allday	NNP;;4
+tomsho	NNP;;3
+mullins	NNP;;10
+heller	NNP;;5
+cranston	NNP;;13
+cos.	NNPS;;1	NNP;;16
+franklin	NNP;;17
+macintosh	NNP;;7
+abrams	NNP;;4
+ibm	NNP;;122
+decker	NNP;;10
+trans	NNP;;9
+laff	NNP;;14
+fargo	NNP;;7
+colinas	NNP;;3
+reinvestment	NN;;3	NNP;;7
+pittsburgh	NNP;;33
+sibv-ms	NNP;;4
+recruit	NNP;;3
+rubbermaid	NNP;;9
+windsor	NNP;;5
+mr.	NN;;1	NNP;;3324
+america	NNP;;142
+manville	NNP;;29
+interstate	JJ;;6	NNP;;25
+schuster	NNP;;4
+feinman	NNP;;3
+arctic	NNP;;5
+suominen	NNP;;3
+pse	NNP;;9
+amr	NNP;;50
+amt	NNP;;3
+kaiser	NNP;;11
+francis	NNP;;8
+veslefrikk	NNP;;4
+minn.	NNP;;5
+rjr	NNP;;81
+minna	NNP;;3
+unocal	NNP;;8
+hambrecht	NNP;;14
+buchner	NNP;;3
+robert	NNP;;181
+monte	NNP;;17
+chiron	NNP;;11
+acadia	NNP;;5
+burlington	NNP;;8
+brunswick	NNP;;8
+bankamerica	NNP;;20
+jr.	NNP;;53
+garza	NNP;;4
+saltzburg	NNP;;4
+lazard	NNP;;8
+jarrett	NNP;;3
+winnebago	NNP;;8
+marous	NNP;;5
+schulte	NNP;;3
+ninja	NNP;;3
+bryan	NNP;;4
+jolla	NNP;;7
+pasok	NNP;;16
+giuliani	NNP;;25
+bock	NNP;;4
+gibraltar	NNP;;4
+charlotte	NNP;;10
+antonio	NNP;;10
+cherokee	NNP;;6
+ark.	NNP;;3
+rockefeller	NNP;;25
+suntory	NNP;;3
+justice	NN;;11	NNP;;89
+nuveen	NNP;;5
+mcmaster	NNP;;3
+schulof	NNP;;5
+norwitz	NNP;;3
+bauman	NNP;;4
+mahfouz	NNP;;10
+richter	JJR;;1	NNP;;8
+blair	NNP;;11
+lin	NNP;;75
+labatt	NNP;;3
+nikko	NNP;;7
+nmtba	NNP;;3
+soweto	NNP;;4
+at&t	NN;;1	NNP;;37
+gruntal	NNP;;3
+institut	NNP;;5
+manhattan	NNP;;70
+nippon	NNP;;15
+michael	NNP;;99
+guber	NNP;;70
+gen.	NNP;;12
+mccraw	NNP;;3
+clark	NNP;;12
+clara	NNP;;6
+b.v.	NNP;;5
+ronald	NNP;;22
+f-20	NNP;;6
+hannifin	NNP;;4
+walnut	NNP;;5
+university	NN;;29	NNP;;113
+weirton	NNP;;3
+mclennan	NNP;;7
+hines	NNP;;5
+fcb\/leber	NNP;;4
+ciba-geigy	NNP;;13
+ind.	NNP;;6
+krisher	NNP;;3
+tenn	NNP;;3
+tuesday	NNP;;100
+qintex	NNP;;50
+barakat	NNP;;4
+fitzwater	NNP;;8
+northwest	RB;;1	NN;;1	NNP;;22
+huntsman	NNP;;5
+oak	NN;;1	NNP;;4
+palamara	NNP;;3
+hess	NNP;;3
+kleiber	NNP;;3
+lincoln	NN;;1	NNP;;50
+roth	NNP;;12
+rotc	NNP;;4
+ambrosiano	NNP;;3
+rubenstein	NNP;;3
+wendy	NNP;;4
+cocom	NNP;;11
+north	NN;;3	NNPS;;1	JJ;;23	RB;;10	NNP;;76
+mcdonnell	NNP;;14
+universal	JJ;;5	NNP;;16
+morgenzon	NNP;;6
+stan	NNP;;3
+runkel	NNP;;7
+sichuan	NNP;;3
+undersecretary	NN;;1	NNP;;4
+buddy	NN;;2	NNP;;6
+herbert	NNP;;5
+chrysler	NNP;;46
+joshua	NNP;;4
+berlin	NNP;;17
+markese	NNP;;3
+gordon	NNP;;7
+egon	NNP;;5
+tyszkiewicz	NNP;;4
+leigh-pemberton	NNP;;3
+thieme	NNP;;4
+glazer	NNP;;3
+mccall	NNP;;10
+aids	VBZ;;1	NNS;;4	NNP;;19
+venezuela	NNP;;8
+u.s.	JJ;;1	NNP;;1294
+feb.	NNP;;13
+burgess	NNP;;9
+fmc	NNP;;3
+palace	NN;;2	NNP;;5
+teagan	NNP;;4
+marin	NNP;;3
+mario	NNP;;11
+maria	NNP;;7
+zealand	NNP;;19
+northeast	RB;;3	JJ;;1	NN;;6	NNP;;22
+christopher	NNP;;25
+earl	NNP;;5
+preti	NNP;;4
+omb	NNP;;7
+vernon	NNP;;3
+sperry	NNP;;7
+federated	NNP;;9
+quina	NNP;;6
+commission	FW;;1	NN;;63	NNP;;136
+tina	NNP;;3
+fleckenstein	NNP;;3
+dalbar	NNP;;3
+unicorp	NNP;;3
+renaissance	NN;;2	NNP;;23
+royal	NNP;;23
+mayer	NNP;;6
+saab-scania	NNP;;5
+dean	NN;;2	NNP;;31
+ore.	NNP;;6
+microwave	NN;;1	NNP;;3
+shakespeare	NN;;1	NNP;;7
+batman	NNP;;5
+jupiter	NNP;;4
+parenthood	NN;;1	NNP;;4
+quinlan	NNP;;9
+conde	NNP;;3
+regatta	NNP;;5
+lynch	NNP;;124
+dorrance	NNP;;21
+norris	NNP;;4
+maguire	NNP;;5
+bob	NNP;;21
+saks	NNP;;10
+drago	NNP;;3
+azoff	NNP;;16
+auvil	NNP;;4
+dennis	NNP;;21
+chinn	NNP;;5
+klute	NNP;;3
+lsi	NNP;;3
+jenrette	NNP;;22
+mastergate	NNP;;4
+valdez	NNP;;6
+bayer	NNP;;3
+carnival	NN;;2	NNP;;12
+poughkeepsie	NNP;;5
+dorgan	NNP;;3
+commerzbank	NNP;;8
+lenny	NNP;;3
+harvey	NNP;;3
+treasury	NN;;26	NNP;;267
+gec	NNP;;13
+anacomp	NNP;;4
+kuehn	NNP;;3
+august	JJ;;1	NNP;;218
+oberstar	NNP;;6
+marietta	NNP;;3
+wako	NNP;;3
+novello	NNP;;3
+rupert	NNP;;8
+woodland	NNP;;4
+leventhal	NNP;;7
+o'brien	NNP;;6
+korotich	NNP;;9
+adams	NNP;;6
+genetics	NNP;;3
+sakowitz	NNP;;4
+jerusalem	NNP;;4
+bebear	NNP;;9
+bare-faced	NNP;;6
+bakker	NNP;;4
+wedtech	NNP;;16
+sept.	NNP;;144
+gotlieb	NNP;;3
+mulroney	NNP;;5
+bentsen	NNP;;5
+africa	NNP;;46
+maybelline	NNP;;3
+paterson	NNP;;6
+memotec	NNP;;10
+robinson	NNP;;6
+deukmejian	NNP;;8
+brady	NNP;;53
+iacocca	NNP;;3
+deltacorp	NN;;2	NNP;;7
+namibia	NNP;;9
+tiffany	NNP;;3
+portland	NNP;;5
+backer	NNP;;18
+mmi	NNP;;9
+s.c	NNP;;4
+s.a	NNP;;6
+mitterrand	NNP;;8
+gorbachev	NNP;;74
+patterson	NNP;;7
+dayton	NNP;;6
+aoun	NNP;;3
+sugarman	NNP;;9
+express	VB;;6	VBP;;2	JJ;;1	NNP;;49
+baltimore	NNP;;28
+drabinsky	NNP;;15
+tennessee	NNP;;21
+kodak	NN;;1	NNP;;25
+portugal	NNP;;4
+xtra	NNP;;6
+lomas	NNP;;6
+galileo	NNP;;6
+janus	NNP;;3
+salvatori	NNP;;3
+unesco	NNP;;7
+bruyette	NNP;;4
+oex	NNP;;4
+mrs.	NNP;;106
+murphy	NNP;;12
+lesko	NNP;;7
+yang	NNP;;11
+ellen	NNP;;3
+sihanouk	NNP;;5
+starpointe	NNP;;4
+robinson-humphrey	NNP;;3
+carla	NNP;;6
+cityfed	NNP;;9
+edison	NNP;;6
+toseland	NNP;;8
+accor	NNP;;4
+summerfolk	NNP;;3
+andersen	NNP;;5
+hampshire	NNP;;31
+horne	NNP;;3
+east-west	NNP;;3
+dingell	NNP;;10
+feldman	NNP;;5
+labonte	NNP;;4
+allied	JJ;;1	NNP;;3
+bologna	NNP;;5
+sweden	NNP;;8
+montgomery	NNP;;10
+wessels	NNP;;3
+erbamont	NNP;;8
+betsy	NNP;;4
+mercedes	NNP;;5
+hulings	NNP;;3
+kageyama	NNP;;9
+aslanian	NNP;;3
+maynard	NNP;;3
+bruno	NNP;;5
+cathay	NNP;;25
+powell	NNP;;5
+storer	NNP;;7
+e.e.	NNP;;3
+aruba	NNP;;3
+doyle	NNP;;3
+hurricane	NN;;11	NNP;;40
+medtronic	NNP;;3
+lockheed	NNP;;33
+justin	NNP;;27
+baxter	NNP;;5
+terry	NNP;;12
+coke	NN;;1	NNP;;22
+akzo	NNP;;29
+mitsukoshi	NNP;;5
+kraft	NNP;;10
+circus	NN;;3	NNP;;11
+nazionale	NNP;;4
+tenn.	NNP;;6
+nwa	NNP;;8
+sanford	NNP;;8
+point-pepperell	NNP;;4
+libor	NNP;;12
+blum	NNP;;4
+midway	NN;;1	NNP;;3
+afghanistan	NNP;;4
+elizabeth	NNP;;10
+eeoc	NNP;;3
+ima	NNP;;14
+iowa	NNP;;18
+anheuser-busch	NNP;;5
+alex	NNP;;16
+pbs	NNP;;9
+detroit	NNP;;30
+herald	VB;;1	VBP;;1	NNP;;18
+saturday	NNP;;39
+t.	NNP;;38
+minuteman	NNP;;4
+hatch	VB;;1	NNP;;3
+alabama	NNP;;3
+bancorp.	NNP;;3
+minnesota	NNP;;12
+greenwich	NNP;;10
+n	NNP;;4
+keller	NNP;;3
+fossett	NNP;;10
+cigna	NNP;;3
+unisys	NNP;;26
+frawley	NNP;;3
+orlando	NNP;;3
+foote	NNP;;4
+hunt	VB;;1	VBP;;1	NN;;5	NNP;;18
+wakeman	NNP;;3
+treybig	NNP;;4
+duke	NNP;;6
+ppi	NNP;;5
+dreyfus	NNP;;7
+kaufman	NNP;;9
+cardillo	NNP;;7
+vietnam	NNP;;12
+roh	NNP;;16
+ron	NNP;;7
+roe	NNP;;13
+roy	NNP;;18
+tele-communications	NNPS;;2	NNP;;17
+matchbox	NNP;;3
+lever	NNP;;4
+colin	NNP;;3
+knowlton	NNP;;3
+kamp	NNP;;5
+athena	NNP;;3
+casey	NNP;;4
+dodge	NNP;;9
+sidney	NNP;;3
+ferc	NNP;;4
+ppg	NNP;;3
+telesis	NNP;;9
+tribune	NNP;;6
+eagle	NNP;;16
+harlan	NNP;;5
+chandross	NNP;;4
+sofitel	NNP;;3
+bloomingdale	NNP;;11
+bausch	NNP;;5
+posix	NNP;;3
+troy	NNP;;4
+nadir	NNP;;5
+gulf	NN;;3	NNP;;54
+libya	NNP;;6
+caesars	NNP;;4
+turkey	NNP;;5
+garzarelli	NNP;;5
+manila	NNP;;14
+m&a	NN;;1	NNP;;3
+homefed	VBN;;2	NNP;;8
+delhi	NNP;;3
+moon	NN;;1	NNP;;19
+swapo	NNP;;5
+porter	NNP;;3
+minneapolis	NNS;;1	NNP;;22
+rosen	NNP;;8
+otc	NNP;;80
+fenerty	NNP;;3
+missouri	NNP;;16
+salembier	NNP;;3
+lisa	NNP;;10
+haas	NNP;;5
+haag	NNP;;3
+sun	NN;;6	NNP;;47
+woodstream	NNP;;3
+christian	JJ;;2	NNP;;9
+myerson	NNP;;5
+fla.	NNP;;19
+clifford	NNP;;4
+donuts	NNP;;6
+israel	NNP;;38
+hoffman	NNP;;14
+lighting	NN;;2	NNP;;5
+susan	NNP;;11
+avenue	NNP;;21
+mattress	NNP;;4
+hunter	NN;;1	NNP;;7
+bancorp	NNP;;21
+jayark	NNP;;6
+hill	NN;;2	NNP;;35
+friday	NNP;;592
+arlington	NNP;;3
+y&r	NNP;;3
+aichi	NNS;;1	NNP;;7
+gpa	NNP;;3
+newsday	NNP;;3
+king	NN;;8	NNP;;26
+rochester	NNP;;14
+electric	NN;;1	JJ;;20	NNP;;68
+painewebber	VB;;1	NN;;2	NNP;;62
+tunick	NNP;;4
+traub	NNP;;4
+budapest	JJS;;1	NNP;;11
+kluc	NNP;;4
+chiat\/day	NN;;1	NNP;;4
+nato	NNP;;14
+algeria	NNP;;3
+perrier	NNP;;4
+cholet	NNP;;3
+patel	NNP;;8
+prince	NNP;;11
+sisulu	NNP;;17
+ilford	NNP;;4
+guber-peters	NNS;;3	JJ;;1	NNP;;14
+plaza	NN;;1	NNP;;5
+johns	NNP;;9
+lone	JJ;;2	NNP;;16
+rowe	NNP;;17
+andy	NNP;;3
+rainbow	NN;;1	NNP;;3
+dale	NNP;;7
+daly	NNP;;11
+microsoft	NNP;;12
+koenig	NNP;;5
+u.k.	NN;;2	NNP;;54
+egypt	NNP;;3
+comsat	NNP;;3
+connie	NNP;;6
+arafat	NNP;;9
+hilton	NNP;;13
+raptopoulos	NNP;;4
+taco	NNP;;3
+glen	NNP;;3
+banknote	NNP;;8
+abbie	NNP;;8
+holland	NNP;;3
+martha	NNP;;6
+kravis	NNP;;14
+cuba	NNP;;12
+cubs	NNS;;1	NNP;;4
+seabrook	NNP;;9
+joe	NNP;;7
+jon	NNP;;11
+april	NNP;;90
+sajak	NNP;;3
+1989a	NNP;;3
+pirko	NNP;;3
+meese	NNP;;8
+jeremy	NNP;;3
+geoffrey	NNP;;8
+u.s.a.	NN;;1	NNP;;4
+appleyard	NNP;;3
+theatre	FW;;1	NNP;;7
+del.	NNP;;10
+dell	NNP;;10
+miller	NNP;;32
+avery	NNP;;3
+eg&g	NNP;;5
+telegraph	VBP;;1	NNP;;16
+krasnoyarsk	NNP;;8
+hydro-quebec	NNP;;8
+cftc	NNP;;20
+andrew	NNP;;13
+fha	NNP;;25
+blinder	NNP;;5
+smu	NNP;;3
+noriega	NNP;;14
+bates	NNP;;21
+nigel	NNP;;22
+lego	NNP;;3
+geneva	NNP;;13
+gurria	NNP;;4
+asia	NN;;1	NNP;;45
+hungary	NNP;;25
+quackenbush	NNP;;3
+capel	NNP;;10
+telelawyer	NNP;;4
+latchford	NNP;;3
+chile	NNP;;4
+achenbaum	NNP;;19
+macdonald	NNP;;4
+moran	NNP;;8
+northrop	VB;;1	NN;;3	NNP;;32
+aspen	NNP;;3
+fox	NNP;;3
+nixon	NNP;;14
+republic	NN;;6	NNP;;14
+lonrho	NNP;;4
+venice	NNP;;11
+drexel	NNP;;86
+erotic	NNP;;4
+brookings	NNP;;7
+carol	NNP;;7
+parsippany	NNP;;3
+calgary	NNP;;7
+webster	NNP;;14
+n.y.	NNP;;27
+kong	NNP;;140
+h.h.	NNP;;5
+brody	NNP;;4
+container	NNP;;8
+sheffield	NNP;;3
+scudder	NNP;;3
+jefferson	NNP;;7
+neb.	NNP;;5
+axa	NNP;;18
+sasser	NNP;;6
+viroqua	NNP;;3
+carolina	NNP;;24
+zilligen	NNP;;3
+espn	NNP;;7
+corry	NNP;;34
+marvin	NNP;;9
+volcker	NNP;;5
+mccain	NNP;;11
+teddy	NN;;1	NNP;;17
+isabella	NN;;1	NNP;;4
+apogee	NNP;;6
+pennzoil	NNP;;8
+bros	NNPS;;1	NNP;;3
+wpp	NNP;;18
+harris	NNP;;29
+costa	JJ;;6	NNP;;29
+yonehara	NNP;;4
+minpeco	NNP;;9
+gradmann	NNP;;3
+atco	NNP;;3
+beverly	NNP;;19
+lebanon	NNP;;19
+lucy	NNP;;5
+gilmore	NNP;;3
+moslem	NNP;;3
+bergen	NNP;;3
+wadsworth	NNP;;3
+ab	NNP;;6
+ag	NNP;;48
+al	NNP;;6
+izvestia	NNP;;4
+congress	NN;;4	NNP;;242
+cpi	NNP;;6
+lithox	NNP;;3
+villanova	NNP;;6
+gitano	NNP;;3
+eddington	NNP;;7
+staten	NNP;;3
+sens.	NNP;;6
+geographic	JJ;;2	NNP;;8
+fraser	NNP;;7
+pegasus	NNP;;3
+skipper	NNP;;11
+mushkat	NNP;;5
+paxus	NN;;1	NNP;;3
+tpa	NNP;;5
+sec	NNP;;84
+sen	NNP;;5
+acceptance	NN;;4	NNP;;12
+nabisco	NNP;;27
+owen	NNP;;8
+d.c.	NNP;;22
+putnam	NNP;;3
+sheraton	NNP;;7
+b.	LS;;1	NNP;;42
+amicable	JJ;;1	NNP;;3
+fslic	NNP;;4
+bt	NNP;;8
+santa	NNP;;29
+armstrong	NNP;;13
+u.s.a	NN;;2	NNP;;10
+walker	NNP;;6
+hampton	NNP;;6
+seng	NNP;;11
+tulsa	NNP;;4
+sen.	NNP;;106
+omnicom	NNP;;3
+anton	NNP;;3
+citic	JJ;;2	NNP;;7
+fmha	NNP;;4
+lee	NNP;;43
+leo	NNP;;7
+reynolds	NNP;;21
+boeing	VBG;;5	NNP;;61
+poquet	NNP;;6
+sitco	NNP;;3
+puerto	NNP;;6
+demler	NNP;;4
+david	NNP;;130
+davis	NNP;;26
+sharon	NNP;;10
+norton	NN;;1	NNP;;10
+satoshi	NNP;;3
+lipton	NNP;;4
+lancaster	NNP;;3
+lloyd	NN;;1	NNP;;26
+indosuez	NNP;;22
+l.a.	NNP;;7
+co	NNP;;139
+cs	NNP;;10
+felix	NNP;;3
+c.	LS;;1	NNP;;29
+atlanta	NNP;;22
+sotheby	NNP;;56
+hubbard	NNP;;7
+verne	NNP;;4
+chancellor	NN;;7	NNP;;27
+smithsonian	NNP;;3
+vitarine	NNP;;3
+guaranty	NNP;;7
+emhart	NNP;;11
+gainen	NNP;;3
+angeles	NNP;;92
+weston	NNP;;3
+shannon	NNP;;14
+francisco	NNP;;150
+aetna	NN;;1	NNP;;23
+elaine	NNP;;5
+adm.	NNP;;8
+aviation	NN;;6	NNP;;16
+manic	JJ;;1	NNP;;7
+monsanto	NNP;;7
+kozinski	NNP;;5
+ifar	NNP;;4
+peladeau	NNP;;12
+gerry	NNP;;3
+peabody	NNP;;25
+fournier	NNP;;11
+clough	NNP;;3
+indiana	NNP;;6
+bennett	NNP;;6
+denver	NNP;;22
+brouwer	NNP;;7
+rafale	NNP;;6
+burnham	NNP;;33
+wilshire	NNP;;4
+metamucil	NNP;;4
+honolulu	NNP;;5
+d.	NNP;;108
+di	NNP;;7	FW;;2
+dd	NNP;;5
+watson	NNP;;5
+du	FW;;1	NNP;;33
+roberti	NNP;;6
+roberts	NNP;;24
+co.	NN;;1	NNP;;727
+cos	NNPS;;1	NNP;;6
+cox	NNP;;6
+rawls	NNP;;4
+nomura	NN;;1	NNP;;21
+buffett	NNP;;4
+rosenblatt	NNP;;5
+altimari	NNP;;3
+schaeffer	NNP;;6
+jerry	NNP;;9
+epo	NNP;;6
+epa	NNP;;15
+roderick	NNP;;14
+hills	NNPS;;7	NNS;;1	NNP;;32
+althea	NNP;;3
+cape	NNP;;3
+bpc	NNP;;3
+traviata	NNP;;5
+florence	NNP;;5
+unilever	NNP;;13
+warburg	NNP;;6
+priam	NNP;;3
+marrie	NNP;;3
+vatican	NNP;;7
+balzac	NNP;;3
+rowland	NNP;;3
+zhang	NNP;;3
+leval	NNP;;9
+relational	NNP;;3
+leemans	NNP;;3
+kemp	NNP;;7
+mobil	NNP;;28
+jan	NNP;;7
+pretoria	NN;;2	NNP;;6
+p&g	NNP;;44
+december	NNP;;76
+carroll	NNP;;4
+osborne	NNP;;3
+colo	NNP;;4
+cole	NNP;;5
+norway	NNP;;10
+col.	NNP;;4
+flint	NNP;;4
+hall	NN;;5	NNP;;21
+el	NNP;;19
+ed	NNP;;7
+ec	NNP;;59
+nucor	NNP;;5
+e.	NNP;;44
+gutfreund	NNP;;7
+berbera	NNP;;5
+peck	NNP;;14
+abraham	NNP;;3
+firestone	NNP;;4
+willard	NNP;;3
+comex	NNP;;7
+thornburgh	NNP;;11
+himont	NNP;;4
+wardair	NNP;;4
+phelps	NNP;;3
+marcus	NNP;;6
+mcgraw-hill	NNP;;4
+owens-corning	NNP;;5
+dearborn	NNP;;7
+stealth	NNP;;4
+dresdner	NNP;;12
+salem	NNP;;4
+foothills	NNS;;2	NNP;;11
+atsushi	NNP;;3
+bristol-myers	NNP;;13
+jeancourt-galignani	NNP;;3
+greenspan	NNP;;46
+ma	NNP;;4
+gramm-rudman	NNP;;26
+lomb	NNP;;5
+bozell	NNP;;4
+hypercard	NNP;;4
+f.	NNP;;31
+idaho	NNP;;3
+ransom	NN;;1	NNP;;3
+kroll	NNP;;4
+fe	NNP;;10
+ebensburg	NN;;1	NNP;;4
+starkov	NNP;;3
+taft	NNP;;5
+neil	NNP;;11
+panelli	NNP;;3
+fischer	NNP;;3
+bechtel	NNP;;4
+jamie	NNP;;3
+u.s	NNP;;69
+vandenberg	NNP;;3
+u.k	NNP;;4
+patrick	NNP;;8
+freddie	NNP;;27
+switzerland	NN;;1	NNP;;37
+maurice	NNP;;8
+ft-se	NNP;;3
+anthony	NNP;;11
+mitchell	NNP;;34
+contel	NNP;;10
+shaw	NNP;;8
+estee	NNP;;5
+niciporuk	NNP;;4
+wilson	NNP;;16
+brussels	NNS;;1	NNP;;18
+march	VB;;2	VBP;;1	NN;;3	NNP;;104
+haagen	NNP;;4
+heritage	NN;;2	NNP;;9
+sweig	NNP;;6
+crary	NNP;;3
+asea	NNP;;6
+oct.	NNP;;295
+ge	NNP;;41
+gm	NNP;;133
+gi	NNP;;3
+baron	NNP;;4
+wash.	NNP;;11
+g.	NNP;;18
+collins	NNP;;8
+mitsubishi	NNP;;42
+aska	NNP;;5
+halloween	NNP;;4
+ferdinand	NNP;;3
+healthcare	NN;;1	NNP;;12
+newsweek	NNP;;3
+commonwealth	NN;;1	NNP;;10
+chung	NNP;;10
+morton	NNP;;7
+sandy	JJ;;1	NNP;;4
+minella	NNP;;5
+austin	NNP;;13
+banque	NNP;;13
+allstate	NNP;;3
+ben	NNP;;5
+borden	NNP;;4
+govett	NNP;;4
+montana	NNP;;3
+wertheimer	NNP;;3
+daiwa	NNP;;14
+parker	NNP;;13
+ethan	NNP;;3
+shv	NNP;;9
+dpc	NNP;;18
+bowder	NNP;;3
+asko	NNP;;8
+jersey	NNP;;44
+bianchi	NNP;;5
+chivas	NNP;;7
+dickens	NNP;;3
+walters	NNP;;9
+weyerhaeuser	NNP;;6
+cleveland	NNP;;12
+o'kicki	NNP;;13
+olin	NNP;;3
+h.	NNP;;35
+bombay	NNP;;4
+mississippi	NNP;;13
+suzuki	NNP;;9
+hn	NNP;;3
+seagate	NNP;;4
+nintendo	NNP;;4
+hoechst	NNP;;8
+unice	NNP;;5
+ned	NNP;;3
+nec	NNP;;21
+vogelstein	NNP;;8
+reagan	JJ;;1	NNP;;56
+county	NN;;2	NNP;;49
+watts	NNS;;1	NNP;;3
+kgb	NNP;;6
+norwood	NNP;;5
+pedersen	NNP;;3
+sikes	NNP;;6
+kalikow	NNP;;6
+murray	NNP;;7
+interpublic	NNP;;12
+nissho	NNP;;4
+adobe	NNP;;7
+mccarthy	NNP;;3
+isi	NNP;;7
+stewart	NNP;;9
+strasbourg	NNP;;3
+princeton	NNP;;6
+gorky	NNP;;11
+pointe	NNP;;3
+pyszkiewicz	NNP;;4
+tewary	NNP;;3
+u.n.	NNP;;13
+rothschild	NNP;;23
+duff	NNP;;3
+bangkok	NNP;;3
+prudential	JJ;;1	NNP;;12
+mci	NNP;;30
+mca	NNP;;39
+neal	NNP;;10
+stevric	NNP;;3
+anchor	VB;;1	VBP;;1	NN;;1	NNP;;16
+iv	NNP;;3
+ii	NNP;;25
+ig	NNP;;3
+i.	NN;;3	NNP;;11
+rome	NNP;;8
+gov.	NNP;;22
+egan	NNP;;3
+wyse	NNP;;4
+dunkin	NNP;;6
+burt	NNP;;7
+burr	NNP;;3
+penney	NNP;;3
+ford	NNP;;163
+fort	NNP;;11
+tucson	NNP;;8
+shin	NNP;;6
+digital	JJ;;4	NNP;;44
+laura	NNP;;4
+tnt	NNP;;3
+payson	NNP;;3
+noxell	NNP;;4
+olympic	JJ;;1	NNP;;4
+telerate	NN;;4	NNP;;81
+louis-dreyfus	NNP;;5
+somalia	NN;;1	NNP;;7
+tibet	NNP;;3
+erc	NNP;;3
+taipei	NNP;;12
+kohlberg	NNP;;8
+sunday	NNP;;56
+helmut	NNP;;4
+mcmeel	NNP;;4
+texas	JJ;;1	NNP;;187
+perlman	NNP;;5
+harken	NNP;;3
+nashua	NNP;;14
+agip	NNP;;6
+suisse	NNP;;13
+plains	NNPS;;1	NNS;;1	NNP;;3
+alfred	NNP;;10
+iran-contra	NNP;;10
+pemex	NNP;;20
+greenberg	NNP;;9
+ventura	NNP;;3
+beirut	NNP;;4
+upham	NNP;;19
+skinner	NNP;;36
+trotter	NNP;;6
+dutch\/shell	NNP;;3
+j.	NNP;;71
+jr	NNP;;11
+barry	NNP;;21
+barre	NNP;;12
+edsel	NNP;;4
+nick	NNP;;3
+s.g.	NNP;;3
+hoylake	NNP;;10
+medellin	NNP;;4
+dole	VB;;1	NNP;;10
+joan	NNP;;5
+allianz	NNP;;24
+island	NN;;5	NNP;;14
+marriott	NN;;1	NNP;;4
+manuel	NNP;;8
+remic	JJ;;1	NNP;;12
+peugeot	NNP;;6
+waertsilae	NNP;;13
+witter	NNP;;24
+norfolk	NNP;;14
+saudi	JJ;;4	NNP;;11
+banxquote	NNP;;8
+tiananmen	NNP;;5
+alexandria	NNP;;3
+delmed	NNP;;28
+whittaker	NNP;;4
+des	NNP;;19	FW;;4
+roosevelt	NNP;;3
+del	FW;;3	NNP;;17
+deb	NNP;;5
+alpa	NNP;;3
+reuters	NNP;;6
+penn	NNP;;6
+pao	NNP;;3
+g.m.b	NNP;;6
+voss	NNP;;3
+mame	NNP;;3
+gottlieb	NNP;;3
+b	NN;;4	NNP;;23
+k.	NNP;;9
+compaq	VB;;1	NNP;;54
+ky	NNP;;4
+thomas	NNP;;38
+underwood	NNP;;3
+fujisawa	NNP;;3
+gustafson	NNP;;3
+ekco	NNP;;5
+goupil	NNP;;7
+zeta	NNP;;5
+n.v.	NNP;;10
+krenz	NNP;;18
+ireland	NNP;;11
+addison	NNP;;8
+whitney	NNP;;4
+pierce	VB;;1	NNP;;19
+coniston	NN;;1	NNP;;7
+koch	NNP;;14
+howe	NNP;;4
+tabak	NNP;;4
+nicaragua	NNP;;16
+pfizer	NNP;;14
+boren	NNP;;21
+packwood	NNP;;11
+fisher	NNP;;7
+waterford	NNP;;3
+montedison	NNP;;8
+baring	NNP;;4
+kangyo	NNP;;8
+lorentz	NNP;;16
+macinnis	NNP;;3
+la	NNP;;26	FW;;3
+marsh	NNP;;7
+yamaichi	NNP;;10
+l.	NNP;;40
+rey	NNP;;29
+rep	NN;;1	NNP;;3
+cwa	NNP;;3
+frank	JJ;;2	NNP;;46
+stearns	NNPS;;1	NNP;;48
+comair	NNP;;4
+spiegel	NNP;;7
+secaucus	NNP;;3
+ladenburg	NNP;;3
+crisco	NNP;;3
+otradovec	NNP;;3
+dillon	NNP;;8
+brennan	NNP;;7
+doordarshan	NNP;;9
+pravda	NNP;;6
+m'bow	NNP;;3
+boskin	NNP;;5
+arabia	NNP;;10
+dakota	NNP;;3
+r.d.	NNP;;3
+southam	NN;;1	NNP;;9
+est	NN;;2	NNP;;18
+esb	NNP;;8
+waxman	NNP;;5
+wis.	NNP;;9
+memphis	NNP;;4
+dassault	NN;;1	NNP;;8
+fluor	NNP;;6
+baker	NN;;1	NNP;;47
+petroleos	NNP;;3
+derr	NNP;;3
+interprovincial	JJ;;1	NNP;;10
+disney	NNP;;20
+generale	NNP;;9
+utsumi	NNP;;7
+m.	NNP;;40
+m4	NNP;;3
+dodd	NNP;;7
+eni	NNP;;3
+ltd	NNP;;45
+mesa	NNP;;16
+shattuck	NNP;;4
+chuck	NNP;;4
+thermo	NNP;;5
+gop	NNP;;18
+sobel	NNP;;4
+tonkin	NNP;;4
+lbo	NN;;6	NNP;;14
+abb	NNP;;5
+flom	NNP;;7
+abm	NNP;;9
+kessler	NNP;;4
+ifint	NNP;;3
+mazda	NNP;;15
+boveri	NNP;;6
+campbell	NNP;;5
+norc	NNP;;3
+newcastle	NNP;;4
+exxon	NNP;;31
+amos	NNP;;3
+ici	NNP;;9
+cooper	NNP;;4
+shamir	NNP;;5
+christmas	NNP;;17
+corp	NNP;;143
+corr	NNP;;11
+meyer	NNP;;5
+census	NN;;2	NNP;;7
+sept	NNP;;3
+bork	NNP;;18
+fitzgerald	NNP;;3
+commerciale	NNP;;6
+nv	NNP;;4
+oranjemund	NNP;;3
+henderson	NNP;;12
+li	NNP;;33
+umkhonto	NNP;;3
+newquist	NNP;;3
+heinz	NNP;;4
+mich.	NNP;;28
+heine	NNP;;4
+constitution	NN;;7	NNP;;15
+tenneco	NNP;;5
+groupe	NNP;;4
+weisman	NNP;;5
+whitbread	NNP;;3
+ms.	NNP;;168
+nixdorf	NNP;;4
+hopwood	NNP;;4
+hambros	NNP;;3
+realist	NNP;;8
+bellsouth	NNP;;35
+airbus	NNP;;4
+scarborough	NNP;;3
+hud	NNP;;29
+hun	NNP;;5
+seita	NNP;;8
+hut	NNP;;5
+anc	NNP;;60
+ann	NNP;;7
+hershey	NNP;;4
+mateo	NNP;;4
+sherman	NNP;;7
+zycher	NNP;;5
+southwestern	JJ;;2	NNP;;9
+shevardnadze	NNP;;12
+pinnacle	NNP;;3
+rmi	NNP;;3
+sindona	NNP;;3
+amex	NNP;;8
+marwick	NNP;;4
+lorin	NNP;;12
+hirsch	NNP;;6
+werner	NNP;;4
+avon	NN;;1	NNP;;6
+colo.	NNP;;7
+clements	NNP;;3
+hughes	NNP;;15
+exabyte	NNP;;3
+harrison	NNP;;6
+ethyl	NNP;;3
+baldwin	NNP;;3
+kingdom	NN;;1	NNP;;9
+zbb	NNP;;3
+virginia	NNP;;25
+brozman	NNP;;3
+pacific	JJ;;7	NNP;;83
+kasparov	NNP;;17
+o.	NNP;;12
+medicare	NNP;;8
+oy	NNP;;4
+elcotel	NNP;;9
+blumenfeld	NNP;;14
+morrison	NNP;;6
+taylor	NNP;;13
+cbs	NNP;;111
+tet	NNP;;4
+mgm\/ua	NN;;1	NNP;;14
+andrews	NNP;;7
+beretta	NNP;;6
+september	NNP;;237
+logan	NNP;;4
+argentina	NNP;;7
+caltrans	NNS;;1	NNP;;8
+cunningham	NNP;;5
+valhi	NNP;;6
+schlumberger	NNP;;5
+benjamin	NNP;;8
+wisconsin	NNP;;11
+d.t.	NNP;;16
+janney	NNP;;4
+goldman	NNP;;72
+gramm	NNP;;5
+carmine	NNP;;3
+vincent	NNP;;11
+300zx	NNP;;3
+korea	NNP;;65
+nahas	NNP;;3
+pr	NNP;;5
+ps	NNP;;16
+dun	NNP;;20
+pa	NNP;;7
+chandler	NNP;;4
+wertheim	NNP;;4
+p.	NNP;;19
+mips	NNS;;1	NNP;;18
+sidhpur	NNP;;6
+marlin	NNP;;7
+arthur	NNP;;23
+donnelley	NNP;;5
+fbi	NNP;;17
+fasb	NNP;;7
+vienna	NNP;;8
+fried	VBN;;1	JJ;;1	NNP;;10
+cie.	NNP;;8
+lemon	NNP;;3
+whitman	NNP;;3
+nast	NNP;;3
+nasa	NNP;;8
+steve	NNP;;20
+anglia	NNP;;3
+shanghai	NNP;;8
+lloyds	NNP;;5
+electron	NNP;;4
+bryant	NNP;;8
+edelman	NNP;;3
+kriz	NNP;;3
+fed	NN;;2	VBN;;8	JJ;;1	NNP;;197
+usa	NNP;;17
+usx	NNP;;44
+parliament	NN;;3	NNP;;21
+steppenwolf	NNP;;9
+united	VBN;;1	JJ;;1	NNP;;137
+chugai	NNP;;9
+pinter	NNP;;3
+nbc-tv	NNP;;3
+tyler	NNP;;3
+orange	JJ;;1	NN;;5	NNP;;27
+ferguson	NNP;;4
+nfl	NNP;;21
+geiger	NNP;;3
+hyman	NNP;;5
+van	NN;;6	NNP;;23
+filenet	NNP;;4
+fk-506	NNP;;5
+academy	NN;;1	NNP;;9
+kerr-mcgee	NNP;;4
+cohen	NNP;;22
+jacobson	NNP;;18
+kurt	NNP;;6
+modzelewski	NNP;;3
+ramirez	NNP;;4
+n.c.	NNP;;11
+mid-november	NNP;;5
+landry	NNP;;5
+h.f.	NNP;;4
+reitman	NNP;;3
+hammack	NNP;;6
+bronx	NNP;;16
+cypress	NNP;;3
+cross	VB;;3	VBP;;1	JJ;;2	NN;;4	NNP;;16
+perkin-elmer	NNP;;3
+pilevsky	NNP;;4
+kellogg	NN;;2	NNP;;23
+lawson	NNP;;85
+lufkin	NNP;;23
+miner	NN;;1	NNP;;3
+odeon	NNP;;3
+loral	NNP;;9
+texaco	NNP;;13
+continental	JJ;;8	NNP;;35
+shane	NNP;;7
+papandreou	NNP;;12
+koskotas	NNP;;9
+mccammon	NNP;;3
+steinbach	NNP;;4
+mirage	NNP;;10
+ruskin	NNP;;4
+threlkeld	NNP;;5
+b.a.t	NNP;;19
+leaseway	NNP;;8
+zurkuhlen	NNP;;3
+granville	NNP;;3
+buzzy	NNP;;3
+deutsche	FW;;1	NN;;1	NNP;;21
+ammann	NNP;;3
+deaver	NNP;;10
+silicon	NN;;2	NNP;;8
+r.	NNP;;53
+vitro	NNP;;14
+esop	NNP;;3
+exchequer	NN;;3	NNP;;18
+rudolph	NNP;;4
+lumpur	NNP;;7
+times-stock	NNP;;8
+honda	NN;;1	NNP;;21
+saul	NNP;;5
+edgar	NNP;;3
+elliott	NNP;;5
+pontiac	NNP;;7
+r.i.	NNP;;4
+capitol	NNP;;13
+birmingham	NNP;;7
+bnl	NNP;;5
+creek	NNP;;10
+filipino	JJ;;1	NNP;;15
+soo	NNP;;8
+nova	NNP;;3
+waite	NNP;;3
+finnair	NNP;;3
+nov.	VB;;1	NNP;;141
+jenkins	NNP;;3
+ramada	NNP;;14
+ted	NNP;;5
+lahus	NNP;;4
+hewlett-packard	NNP;;20
+moliere	NNP;;4
+ondaatje	NNP;;3
+cervantes	NNP;;3
+hibor	NNP;;5
+wacoal	NNP;;4
+stoll	NNP;;11
+vancouver	NNP;;3
+s.	NNP;;29
+ss	NNP;;3
+sa	NNP;;4
+nynex	NNP;;8
+tomlin	NNP;;5
+louisville	NNP;;10
+avis	NNP;;7
+opec	NNP;;31
+boulevard	NN;;1	NNP;;4
+russia	NNP;;7
+alley	NN;;2	NNP;;5
+allen	NNP;;15
+mass.	NNP;;36
+lotus	NNP;;12
+ahmad	NNP;;3
+abramson	NNP;;5
+scripps	NNP;;3
+polly	NNP;;12
+aluminium	NNP;;3
+gintel	NNP;;7
+ivy	NNP;;6
+rubens	NNP;;13
+intel	NNP;;51
+inter	NNP;;3
+blackmun	NNP;;4
+saatchi	NNS;;2	NNP;;64
+october	NNP;;168
+mnc	NNP;;4
+tw	NNP;;20
+tait	NNP;;3
+harry	NNP;;18
+dodger	NNP;;3
+neave	NNP;;3
+legent	NNP;;3
+hart-scott-rodino	NNP;;3
+morgan	NNP;;103
+fatah	NN;;1	NNP;;3
+biden	NNP;;5
+seoul	NNP;;31
+sumitomo	NNP;;5
+glazier	NNP;;4
+nugget	NNP;;6
+osaka	NNP;;5
+mackenzie	NNP;;12
+aeroflot	JJ;;1	NNP;;18
+wilder	NNP;;8
+contra	JJ;;2	NNP;;6
+tierney	NNP;;3
+chancery	NNP;;6
+masson	NNP;;12
+rayburn	NNP;;3
+nasdaq	NNP;;72
+oji	NNP;;4
+bernstein	NNP;;3
+coors	NNS;;1	NNP;;32
+kofcoh	NNP;;3
+cabrera	NNP;;13
+zacks	NNP;;10
+messiah	NN;;1	NNP;;6
+radzymin	NNP;;3
+medicaid	NNP;;7
+euro	NNP;;4
+zoete	NNP;;3
+ciba	NNP;;4
+kelly	NNP;;3
+sydney	NNP;;14
+australia	NNP;;57
+espectador	NNP;;5
+agfa	NNP;;4
+d	SYM;;2	NNP;;7
+dai-ichi	NNP;;4
+ivan	NNP;;8
+senate	NN;;1	NNP;;183
+palo	NNP;;12
+sprint	NNP;;4
+clinton	NNP;;5
+colorado	NNP;;16
+postel	NNP;;3
+cia	NNP;;15
+cie	NNP;;10
+deconcini	NNP;;12
+alcan	NNP;;4
+invest\/net	NNP;;3
+gabriel	NNP;;3
+trw	NNP;;5
+richmond	NNP;;8
+holmes	NNP;;4
+litvack	NNP;;3
+hongkong	NNP;;3
+crandall	NNP;;7
+wolf	NN;;1	NNP;;17
+marron	NNP;;3
+solidarity	NN;;1	NNP;;16
+maclean	NNP;;6
+warren	NNP;;20
+mitsui	NNP;;5
+newman	NNP;;3
+vinson	NNP;;7
+dentsu	NNP;;13
+sansui	NNP;;20
+hertz	NNP;;13
+shrontz	NNP;;4
+seidman	NNP;;3
+linda	NNP;;6
+lily	NNP;;7
+fidel	NNP;;5
+altman	NNP;;11
+a.c.	NNP;;5
+fulbright	NNP;;3
+oakland	NN;;1	NNP;;30
+louisiana	NNP;;10
+antar	NNP;;17
+spain	NNP;;33
+va	NNP;;11
+omni	NNP;;5
+matthew	NNP;;3
+v.	CC;;1	IN;;1	NNP;;3
+infiniti	NNP;;15
+lippens	NNP;;5
+warner	NNP;;210
+banco	NNP;;17
+fenton	NNP;;6
+iverson	NNP;;10
+ing	NNP;;4
+inc	NNP;;207
+riccardo	NNP;;3
+regan	NNP;;3
+jacob	NNP;;6
+pilson	NNP;;30
+chez	NNP;;4
+milpitas	NNP;;4
+wyoming	NNP;;3
+foster	VB;;2	JJ;;4	NNP;;11
+monieson	NNP;;28
+knudson	NNP;;5
+gamble	VB;;2	NN;;5	NNP;;18
+pizza	NN;;3	NNP;;16
+adia	NNP;;3
+japan	NNP;;335
+violetta	NNP;;7
+banc	NNP;;6
+butterfinger	NNP;;4
+hooker	NNP;;30
+perkins	NNP;;3
+delicious	JJ;;1	NNP;;14
+rostenkowski	NNP;;5
+albert	NNP;;15
+n.h.	NNP;;5
+iceland	NNP;;3
+isetan	NNP;;3
+intergroup	NNP;;3
+levinson	NNP;;4
+fleming	NNP;;3
+whitford	NNP;;4
+prudential-bache	NNP;;24
+w.	NN;;1	NNP;;31
+shulman	NNP;;4
+inspectorate	NNP;;3
+politburo	NNP;;7
+cities\/abc	NNP;;7
+sachs	NNP;;55
+aiw	NNP;;3
+geduld	NNP;;6
+terrizzi	NNP;;5
+ginnie	NNP;;10
+a.g.	NNP;;7
+compuserve	NNP;;3
+wah	NNP;;3
+moore	NNP;;16
+schroders	NNP;;5
+dalton	NNP;;3
+dreman	NNP;;3
+refcorp	NN;;1	NNP;;5
+southwest	JJS;;2	NN;;3	RB;;1	NNP;;8
+charles	NNP;;58
+rubicam	NNP;;19
+edisto	NNP;;9
+bernard	NNP;;7
+cae	NNP;;3
+keefe	NNP;;5
+mitsotakis	NNP;;3
+january	NNP;;60
+kern	NNP;;4
+louisiana-pacific	NNP;;3
+nrdc	NNP;;5
+wcrs	NNP;;11
+celimene	NNP;;4
+carr	NNP;;4
+carl	NNP;;22
+stevens	NNP;;23
+wedd	NNP;;3
+carson	NNP;;5
+wagoneer	NN;;1	NNP;;3
+cananea	NNP;;6
+antolini	NNP;;4
+maxus	NNP;;3
+michelle	NNP;;3
+maine	NNP;;20
+fifth	JJ;;10	NNP;;31
+salomon	NN;;1	NNP;;67
+waggoner	NNP;;4
+vanguard	NN;;1	NNP;;11
+hendrik	NNP;;4
+nikon	NNP;;4
+ruby	NNP;;4
+zenith	NNP;;22
+los	NNP;;112
+somerset	NNP;;4
+peat	NNP;;4
+krishnamurthy	NNP;;3
+ru-486	NNP;;15
+douglas	NNP;;46
+louis	NNS;;1	NNP;;31
+transcanada	NNP;;10
+deborah	NNP;;3
+iran	NNP;;10
+iraq	NNP;;6
+thatcher	NNP;;82
+khan	NNP;;6
+ifi	NNP;;5
+healthvest	NNP;;19
+wachter	NNP;;7
+berlitz	NNP;;6
+ncr	NNP;;7
+mickey	NNP;;3
+questech	NNP;;3
+kao	NNP;;6
+macy	NNP;;13
+mack	NNP;;5
+duncan	NNP;;7
+garrison	NNP;;4
+southmark	NNP;;3
+jeff	NNP;;6
+yukon	NNP;;3
+anheuser	NNP;;4
+whitten	NNP;;5
+coldwell	NNP;;3
+kuala	NNP;;7
+guangdong	NNP;;6
+pwa	NNP;;12
+nestle	NNP;;12
+katz	NNP;;8
+kate	NNP;;11
+shack	NNP;;4
+gruberova	NNP;;5
+quayle	NNP;;8
+barbara	NNP;;8
+bogota	NNP;;3
+mussolini	NNP;;3
+z.	NNP;;3
+hudson	NN;;1	NNP;;14
+cray	NNP;;23
+jonathan	NNP;;8
+yamatake-honeywell	NNP;;4
+beijing	NNP;;45
+chevrolet	NN;;1	NNP;;10
+ruder	NNP;;12
+alexander	NNP;;17
+nationale	NNP;;4
+ill.	NNP;;18
+foret	NNP;;3
+thomson	NN;;1	NNP;;32
+gras	NNP;;3
+humana	NNP;;10
+merieux	NN;;1	NNP;;21
+jerell	NNP;;5
+leipzig	NNP;;4
+stinnett	NNP;;4
+barnhardt	NNP;;4
+cupertino	NNP;;5
+house-senate	JJ;;2	NNP;;12
+munich	NNP;;5
+peter	NNP;;78
+delaware	NNP;;14
+journal	NN;;12	NNP;;64
+ridley	NNP;;9
+crossland	NNP;;7
+glenn	NNP;;17
+washington	NNP;;171
+imperial	JJ;;4	NNP;;15
+eric	NNP;;7
+diego	NNP;;16
+fakty	NNP;;3
+lakeland	NNP;;3
+simpson	NNP;;13
+hesse	NNP;;4
+sidley	NNP;;6
+dr.	NNP;;89
+w.j.	NNP;;3
+gen-probe	NNP;;14
+oscar	NNP;;3
+bonn	NNP;;4
+milan	NNP;;13
+navy	NN;;9	NNP;;43
+ritterman	NNP;;3
+hollywood	NNP;;37
+garratt	NNP;;6
+street	NN;;32	NNP;;251
+armco	NNP;;5
+don	VB;;1	NNP;;10
+dow	NNP;;288
+monica	NNP;;3
+packwood-roth	NNP;;5
+pete	NNP;;5
+polaroid	NNP;;11
+kim	NNP;;5
+kia	NNP;;6
+aermacchi	NNP;;3
+farrell	NNP;;5
+lowe	NNP;;5
+phelan	NNP;;20
+madison	NNP;;14
+leche	NNP;;3
+providence	NNP;;3
+petersburg	NNP;;4
+democrat	NNP;;18
+merhige	NNP;;3
+salinger	NNP;;9
+bass	NN;;4	NNP;;14
+hbo	NNP;;8
+kleinwort	NNP;;7
+tandem	NN;;1	JJ;;1	NNP;;16
+curzio	NNP;;3
+hiroshima	NNP;;5
+kenneth	NNP;;20
+nesbit	NNP;;3
+max	NNP;;13
+mac	NNP;;29
+mae	NNP;;39
+mao	NNP;;3
+johnson	NNP;;48
+kimmel	NNP;;4
+tandy	NNP;;5
+zurich	NNP;;13
+gonzalez	NNP;;10
+jackson	NNP;;12
+cetus	NNP;;4
+orr	NNP;;4
+brooks	NNP;;37
+moscow	NNP;;43
+hartford	NNP;;7
+zsa	NNP;;6
+nikkei	NNP;;29
+warsaw	NNP;;22
+friedman	NNP;;14
+icahn	NNP;;29
+sutton	NNP;;9
+larry	NNP;;10
+lorenzo	NNP;;10
+tesoro	NNP;;4
+clayton	NNP;;5
+centrust	NNP;;40
+prof.	NNP;;10
+jefferies	NNP;;9
+marcel	NNP;;3
+argumenty	NNP;;3
+jeffrey	NNP;;16
+dreyer	NNP;;3
+lebaron	NNP;;4
+cboe	NNP;;19
+boesel	NNP;;7
+ellis	NNP;;6
+pioneer	VB;;1	NN;;1	NNP;;11
+syms	NNP;;3
+gomez	NNP;;3
+adler	NNP;;4
+benton	NNP;;7
+chris	NNP;;7
+vila	NNP;;11
+alberta	NNP;;12
+mandela	NNP;;8
+starzl	NNP;;3
+claudio	NNP;;5
+jackie	NNP;;8
+donaldson	NNP;;29
+leonard	NN;;1	NNP;;11
+larsen	NNP;;9
+thurber	NNP;;4
+arias	NNP;;3
+association	NN;;38	NNP;;146
+drake	NNP;;3
+connolly	NNP;;7
+hart	NNP;;5
+s.a.	NNP;;51
+sloan	NNP;;6
+brewery	NN;;1	NNP;;3
+lawrence	NNP;;21
+dong	NNP;;10
+park	VB;;1	NN;;11	NNP;;44
+messrs.	NNPS;;6	NNS;;1	NNP;;15
+aug.	NNP;;37
+skase	NNP;;3
+goodwill	NN;;3	NNP;;16
+maier	NNP;;5
+garcia	NNP;;13
+lion	NN;;2	NNP;;6
+pepsi	NNP;;8
+revco	NNP;;19
+inouye	NNP;;4
+ga.	NNP;;6
+gao	NNP;;6
+okla.	NNP;;4
+ldc	NNP;;3
+ldp	NNP;;11
+brent	NNP;;4
+ufo	NNP;;7
+paribas	NNS;;1	NNP;;38
+posner	NNP;;11
+pepsico	NNP;;7
+jimmy	NNP;;4
+nsc	NNP;;13
+steven	NNP;;21
+ontario	NNP;;9
+boyd	NNP;;13
+amdura	NNP;;6
+asahi	NNS;;1	NNP;;3
+perritt	NNP;;3
+viacom	NNP;;12
+heinemann	NNP;;6
+bethforge	NNP;;4
+kirk	NNP;;4
+cynthia	NNP;;5
+daimler-benz	NNP;;6
+maryland	NN;;1	NNP;;16
+mehta	NNP;;5
+piper	NNP;;6
+leucadia	NNP;;4
+luis	NNP;;4
+ncnb	NNP;;32
+iii	NNP;;21
+oct	NNP;;3
+lamb	NNP;;3
+bolinas	NNP;;3
+biny	NNP;;3
+lingus	NNP;;4
+february	NNP;;34
+morris	NNP;;39
+safeway	NNP;;3
+huntington	NNP;;3
+matt	NNP;;3
+amira	NNP;;5
+rocha	NNP;;4
+aquino	NNP;;5
+parks	NNPS;;2	NNS;;1	NNP;;9
+mit	NNP;;4
+frederick	NNP;;10
+schimmel	NNP;;3
+ailes	NNP;;3
+richards	NNP;;6
+gibson	NNP;;3
+greece	NNP;;21
+ralph	NNP;;14
+dooling	NNP;;3
+dorfman	NNP;;3
+carver	NNP;;3
+bull	NN;;6	NNP;;35
+darman	NNP;;32
+shearson	NNP;;90
+freres	NNP;;4
+englund	NNP;;4
+adt	NNP;;3
+motorola	NNP;;8
+roper	NNP;;5
+cayne	NNP;;3
+ridge	NNP;;4
+oas	NNP;;5
+jack	VB;;1	NN;;1	NNP;;36
+torstar	NNP;;3
+calif	NNP;;27
+furlett	NNP;;4
+fairfax	NN;;1	NNP;;5
+norwest	NNP;;3
+lyonnais	NNP;;13
+enron	NNP;;6
+femina	NNP;;6
+maxtor	NNP;;5
+bertussi	NNP;;4
+amcore	NNP;;3
+crescott	NNP;;3
+ernest	NNP;;3
+harlem	NNP;;5
+london	JJ;;3	NNP;;229
+nimitz	NNP;;5
+eugene	NNP;;6
+zalubice	NNP;;3
+sears	NNS;;2	NNP;;44
+kuwait	NNP;;6
+tom	NNP;;29
+arby	NNP;;18
+bsn	NNP;;14
+claude	NNP;;3
+stanza	NNP;;5
+boies	NNP;;3
+southeast	NN;;2	JJ;;2	NNP;;9
+meredith	NN;;1	NNP;;19
+kentucky	NNP;;18
+della	NNP;;6
+exterior	NNP;;13
+millis	NNP;;3
+ssangyong	NNP;;6
+eli	NNP;;12
+ely	NNP;;3
+jennifer	NNP;;3
+malaysia	NNP;;9
+illuminating	JJ;;1	NNP;;9
+mercedes-benz	NNP;;5
+cook	NN;;1	NNP;;5
+hawaii	NNS;;1	NNP;;9
+phillip	NNP;;3
+russell	NNP;;11
+ayer	NNP;;3
+jude	NNP;;3
+judy	NNP;;3
+kyu	NNP;;3
+rubin	NNP;;4
+springfield	NNP;;3
+paramount	NNP;;10
+ky.	NNP;;7
+gte	NNP;;7
+oakes	NNP;;6
+schroder	NNP;;4
+oklahoma	NNP;;17
+ian	NNP;;4
+alan	NNP;;68
+nathan	NNP;;8
+sohmer	NNP;;6
+marathon	NNP;;8
+panzhihua	NNP;;20
+phillips	NNS;;2	NNP;;27
+fcc	NNP;;33
+sohn	NNP;;3
+ken	NNP;;5
+fedders	NNP;;3
+xr4ti	NNP;;3
+batibot	NNP;;9
+berry	NNP;;10
+tiger	NN;;1	NNP;;7
+kerkorian	NNP;;3
+pennsylvania	NNP;;33
+pharmacia	NNP;;6
+ross	NNP;;30
+kennedy	NNP;;22
+nissan	NN;;1	NNP;;74
+leningrad	NNP;;9
+orkem	NNP;;3
+bronfman	NNP;;7
+gary	NNP;;18
+grumman	NNP;;7
+n.	NNP;;11
+internationale	NNP;;4
+melamed	NNP;;3
+mcnamee	NNP;;5
+southland	NNP;;5
+ala	NNP;;3
+jerome	NNP;;6
+thursday	NNP;;95
+smurfit	NNP;;5
+berkeley	NN;;1	NNP;;15
+mellon	NNP;;13
+pont	NNP;;31
+palmero	NNP;;3
+stephen	NNP;;38
+lipper	NNP;;15
+roebuck	NNP;;6
+woodbridge	NNP;;4
+colombia	NNP;;18
+vermont-slauson	NNP;;8
+riegle	NNP;;10
+inland	RB;;1	NNP;;3
+berthold	NNP;;3
+reiss	NNP;;3
+yeutter	NNP;;8
+rtc	NNP;;42
+smithkline	NNP;;3
+freud	NNP;;3
+roman	NNPS;;1	NNP;;11
+georgia	NNP;;11
+ibbotson	NNP;;4
+doubleday	NNP;;3
+mid-century	NNP;;4
+bartlett	NNP;;26
+chiusano	NNP;;3
+cheer	VB;;1	NN;;1	NNP;;7
+laidlaw	NNP;;3
+lexus	NNP;;15
+moody	NN;;1	JJ;;1	NNP;;64
+yorker	NNP;;5
+weil	NNP;;7
+greenfield	NNP;;4
+delta	JJ;;2	NN;;9	NNP;;29
+graham	NNP;;6
+garber	NNP;;3
+beers	NNP;;19
+edt	NNP;;19
+simon	NNP;;10
+soares-kemp	NNP;;3
+braintree	NNP;;3
+n.j	NNP;;9
+n.c	NNP;;5
+n.y	NNP;;7
+n.v	NNP;;5
+dougherty	NNP;;3
+sir	NNP;;44
+brian	NNP;;15
+dwg	NNP;;6
+sim	NNP;;11
+christies	NNP;;6
+keteyian	NNP;;3
+wolfgang	NNP;;3
+billy	NNP;;5
+quickview	NNP;;4
+exporting	NNP;;5
+lt.	NNP;;3
+provident	NNP;;5
+philip	NNP;;35
+natwest	NNP;;7
+ltv	NNP;;21
+tacker	NNP;;3
+shell	VB;;1	JJ;;1	NN;;3	NNP;;18
+july	NNP;;154
+catholic	JJ;;1	NNP;;4
+fujitsu	NNP;;19
+rosenthal	NNP;;11
+dlj	NNP;;6
+nedelya	NNP;;3
+renault	NNP;;11
+bachmann	NNP;;3
+wall	VB;;1	NN;;17	NNP;;240
+walt	NNP;;11
+mike	NNP;;12
+beatrice	NNP;;3
+inco	NNP;;4
+fiat	NN;;1	NNP;;13
+inc.	NN;;5	NNP;;855
+smith	NNP;;69
+adolph	NNP;;3
+leon	NNP;;9
+miami	NNP;;14
+kawasaki	NNP;;3
+yankee	NN;;1	NNP;;5
+va.	NNP;;24
+margaret	NNP;;14
+richardson	NNP;;11
+lord	NNP;;4
+unix	NNP;;7
+holt	NNP;;3
+coca-cola	NNP;;17
+herscu	NNP;;3
+gottesman	NNP;;4
+tootal	NNP;;3
+telecom	NNP;;4
+barclays	NNP;;4
+fidelity	NNP;;41
+conner	NNP;;18
+lambert	NNP;;31
+concord	NNP;;4
+neff	NNP;;4
+md.	NNP;;7
+mingo	NNP;;5
+gilbert	NNP;;4
+goya	NNP;;5
+boston	NNP;;144
+kaye	NNP;;9
+shale	NNP;;5
+prix	NNP;;4
+bush	NNP;;297
+pickens	NNP;;3
+klein	NNP;;11
+bluefield	NNP;;3
+lagnado	NNP;;3
+greene	NNP;;6
+sulya	NNP;;3
+ana	NNP;;3
+eastern	JJ;;22	NNP;;69
+rattner	NNP;;3
+irving	NNP;;11
+irvine	NNP;;5
+commerce	NN;;2	NNP;;61
+castro	NNP;;8
+l.j.	NNP;;16
+east	NNS;;5	JJ;;14	RB;;2	NNP;;105
+telos	NNP;;3
+bobby	NNP;;12
+ovcharenko	NNP;;4
+joseph	NNP;;36
+jane	NNP;;4
+robertson	NNP;;19
+jan.	VB;;1	NN;;1	NNP;;21
+stookey	NNP;;5
+senshukai	NNP;;3
+candlestick	NNP;;6
+financiere	NNP;;10
+oregon	NN;;1	NNP;;16
+laguardia	NNP;;3
+akron	NNP;;4
+pittston	NNP;;7
+chevy	NNP;;8
+squibb	NNP;;14
+williams	NNP;;8
+conn.	NNP;;29
+sao	NNP;;3
+san	JJ;;1	NNP;;208
+sam	NNP;;25
+honecker	NNP;;11
+trifari	NNP;;3
+roger	NNP;;21
+bpca	NNP;;10
+corsica	NNP;;5
+hutton	NNP;;67
+bolar	NNP;;13
+reebok	NNP;;13
+honeywell	NNP;;20
+medchem	NNP;;9
+gdp	NNP;;4
+holston	NNP;;3
+bergsma	NNP;;7
+toto	NNP;;3
+stone	NN;;3	NNP;;13
+wade	NNP;;10
+philadelphia	NNP;;35
+hells	NNP;;4
+mich	NNP;;6
+gmac	NNP;;4
+oracle	NNP;;5
+nelson	NNP;;12
+khmer	NNP;;16
+arnold	NNP;;19
+richard	NNP;;101
+citicorp	VB;;1	NNP;;31
+o'linn	NNP;;5
+klm	NNP;;5
+upjohn	NNP;;5
+broadcasting	VBG;;6	NN;;17	NNP;;38
+embassy	NN;;2	NNP;;5
+broadway	NNP;;4
+itt	NNP;;4
+gerald	NNP;;17
+england	NNP;;42
+ftc	NNP;;7
+kobe	NNP;;4
+seagram	NNP;;16
+algom	NNP;;4
+mengistu	NNP;;7
+brooklyn	NNP;;12
+murata	NNP;;3
+wayne	NNP;;11
+olivetti	NNP;;13
+needham	NNP;;3
+weaver	NNP;;3
+rita	NNP;;3
+europe	NNP;;170
+peterpaul	NNP;;3
+colton	NNP;;4
+pacificare	NNP;;3
+scottish	JJ;;3	NNP;;7
+mlx	NNP;;5
+robin	NNP;;3
+templeton	NNP;;9
+belmont	NNP;;3
+tacoma	NNP;;3
+chase	VB;;1	NN;;3	JJ;;2	NNP;;34
+barney	NNP;;27
+leona	NNP;;3
+thornton	NNP;;4
+greeniaus	NNP;;4
+falcon	NNP;;8
+margeotes	NNS;;1	NNP;;3
+rabinowitz	NNP;;4
+stuart	NNP;;8
+cockburn	NNP;;3
+bacarella	NNP;;3
+fdic	NNP;;6
+showtime	NNP;;10
+u.s.s.r.	NNP;;9
+edwards	NNP;;16
+aga	NNP;;7
+byrd	NNP;;5
+reich	NNP;;6
+lehman	NNP;;74
+laurence	NNP;;6
+andreas	NNP;;6
+carboni	NNP;;3
+verwoerd	NNP;;8
+bally	NNP;;12
+reedy	NNP;;3
+societe	NNP;;16
+thomson-csf	NNP;;14
+nyse	NNP;;39
+campeau	NN;;1	NNP;;33
+nancy	NNP;;8
+visa	NNP;;6
+wilmington	NNP;;7
+w.r.	NNP;;3
+lavelle	NNP;;5
+trinity	NN;;2	NNP;;8
+ariz.	NNP;;9
+panisse	NNP;;4
+raymond	NNP;;11
+iken	NNP;;3
+biosciences	NNPS;;1	NNP;;3
+paul	NNP;;111
+merksamer	NNP;;15
+stoltzman	NNP;;10
+fuji	NNS;;1	NNP;;14
+belgium	NN;;1	NNP;;7
+keystone	NN;;2	NNP;;12
+catherine	NNP;;3
+hubert	NNP;;3
+merc	NNP;;47
+pritzker	NNP;;4
+xinhua	NNP;;4
+wilmouth	NNP;;3
+monday	NNP;;207
+searle	NNP;;5
+edward	NNP;;37
+lionel	NNP;;6
+regalia	NNP;;3
+aeronautics	NNP;;4
+planters	NNP;;3
+farmington	NNP;;3
+cane	NNP;;7
+kume	NNP;;8
+hahn	NNP;;4
+giovanni	NNP;;10
+india	NNP;;36
+uaw	NNP;;8
+ual	NNP;;263
+lac	NNP;;11
+las	NNP;;31
+carlos	NNP;;7
+nahb	NNP;;10
+toronto	NNP;;35
+citibank	NNP;;6
+hollander	NNP;;5
+merck	NNP;;10
+quotron	NN;;1	NNP;;24
+pearson	NNP;;3
+analytical	NNP;;9
+farley	NNP;;5
+ill	JJ;;3	RB;;2	NNP;;7
+yankelovich	NNP;;4
+ogilvy	NN;;1	NNP;;32
+nih	NNP;;12
+weiss	NNP;;10
+sundance	NNP;;3
+picasso	NN;;1	NNP;;6
+gandhi	NNP;;14
+kinder-care	NNP;;4
+columbus	NNP;;6
+plc	NNP;;96
+plo	NNP;;9
+nev.	NNP;;6
+mtv	NNP;;3
+mtm	NNP;;10
+n.j.	NNP;;44
+campaneris	NNP;;4
+monterrey	NNP;;5
+brown	JJ;;3	NNP;;48
+vegas	NNP;;27
+rouge	NNP;;17
+montreal	NNP;;16
+markey	NNP;;6
+cyanamid	NNP;;5
+angell	NNP;;4
+fairfield	NNP;;5
+fulton	NNP;;11
+grasso	NNP;;5
+raeder	NNP;;3
+michel	NNP;;6
+axa-midi	NNP;;7
+james	NNP;;145
+stockholm	NNP;;11
+h	NN;;1	NNP;;5
+cairo	NN;;1	NNP;;10
+bradley	NNP;;4
+kan.	NNP;;9
+marina	NNP;;16
+marine	JJ;;5	NN;;3	NNP;;16
+bourse	FW;;1	NNP;;3
+karatz	NNP;;3
+craig	NNP;;18
+avions	NNP;;3
+sagan	NNP;;6
+dumez	NNP;;3
+finkelstein	NNP;;4
+fletcher	NNP;;4
+dapuzzo	NNP;;12
+thompson	NNP;;22
+samuel	NNP;;15
+gould	NNP;;17
+agnelli	NNP;;14
+eslinger	NNP;;3
+salinas	NNP;;3
+oliver	NNP;;10
+homestake	NNP;;5
+bogart	NNP;;12
+malcolm	NN;;1	NNP;;21
+nielsen	NNP;;7
+willis	NNP;;4
+willie	NNP;;3
+dellums	NNP;;4
+kolber	NNP;;3
+boesky	NNP;;21
+barco	NNP;;3
+rhone-poulenc	NNP;;3
+wefa	NNP;;5
+carpenter	NN;;1	NNP;;19
+massachusetts	NNP;;29
+pearce	NNP;;8
+giorgio	NNP;;7
+spielvogel	NNP;;31
+nebraska	NNP;;5
+quantum	NN;;1	NNP;;50
+columbia	NNP;;86
+matthews	NNP;;5
+st.	NNP;;46
+kidder	NNP;;84
+scotland	NNP;;9
+ehrlich	NNP;;5
+doman	NNP;;7
+oppenheimer	NNP;;15
+wellman	NNP;;4
+x	NN;;1	NNP;;4
+prague	NNP;;3
+bethlehem	NNP;;17
+grenfell	NNP;;23
+walter	NNP;;24
+ferranti	NNP;;35
+fannie	NNP;;29
+indianapolis	NNP;;8
+poland	NNP;;57
+taiwan	NNP;;22
+scowcroft	NNP;;6
+calor	NNP;;4
+desc	NNP;;3
+stein	NNP;;20
+toyota	NNP;;25
+pierre	NNP;;3
+foley	NNP;;10
+asman	NNP;;5
+engelken	NNP;;31
+johnstown	NNP;;3
+bloch	NNP;;3
+pentagon	NNP;;64
+reed	NNP;;3
+fda	NNP;;31
+kuhn	NNP;;3
+metall	NNP;;3
+berkshire	NNP;;3
+nam	NNP;;4
+kori	NNP;;3
+ludcke	NNP;;3
+kansas	NNP;;17
+william	NNP;;96
+hanover	NNP;;15
+nichols	NNP;;3
+olay	NNP;;3
+carter	NNP;;17
+s.p	NNP;;10
+nicholas	NNS;;1	NNP;;26
+ahmanson	NNP;;4
+janachowski	NNP;;4
+baird	NNP;;4
+brook	NNP;;3
+lipstein	NNP;;4
+florida	NNP;;45
+evans	NNP;;12
+lawrenson	NNP;;3
+goldberg	NNP;;9
+manitoba	NNP;;3
+amerigas	NNP;;3
+wohlstetter	NNP;;8
+michigan	JJ;;1	NNP;;23
+mgm	NNP;;20
+sassy	NNP;;11
+prebon	NNP;;11
+sharpshooter	NNP;;5
+felipe	NNP;;3
+calloway	NNP;;6
+knopf	NNP;;4
+kimball	NNP;;5
+kellner	NNP;;3
+fireman	NN;;1	NNP;;6
+jaworski	NNP;;3
+laurel	NNP;;7
+lauren	NNP;;3
+utah	NNP;;11
+guzman	NNP;;13
+martin	NNP;;24
+shea	NNP;;7
+octel	NN;;1	NNP;;3
+longman	NNP;;6
+usaa	NNP;;4
+princeton\/newport	NNP;;4
+xerox	NNP;;11
+bradstreet	NNP;;20
+canada	NNP;;154
+greve	NNP;;4
+ortega	NNP;;27
+frankfurt	NNPS;;1	NNP;;44
+marcos	NNP;;26
+wilfred	VBD;;1	NNP;;4
+canelo	NNP;;5
+crete	NNP;;4
+ratners	NNP;;4
+panama	NNP;;25
+h&r	NNP;;13
+welch	NNP;;6
+gabelli	NNP;;10
+stroh	NNP;;3
+cadillac	NN;;1	NNP;;3
+valspar	NNP;;8
+procter	NNP;;17
+damascus	NNP;;3
+dec.	VB;;1	NN;;1	NNP;;61
+conasupo	NNP;;4
+doug	NNP;;6
+muniak	NNP;;3
+c-span	NNP;;3
+grady	NNP;;4
+georgia-pacific	NNP;;13
+eastman	NNP;;10
+solomon	NNP;;4
+quist	NNP;;12
+r.h.	NNP;;7
+chilmark	NNP;;4
+nevada	NNP;;7
+hoare	NNP;;5
+arps	NNP;;5
+bay	NN;;8	NNP;;64
+schering-plough	NNP;;9
+gerstner	NNP;;4
+brazil	NNP;;29
+vaux	NNP;;3
+boise	NNP;;3
+harvard	NNP;;24
+nekoosa	NNP;;15
+ernst	NNP;;4
+mexico	NNP;;38
+seattle	NNP;;10
+kevin	NNP;;7
+sacramento	NNP;;7
+knowledgeware	NNP;;3
+midler	NNP;;7
+super	JJ;;2	NNP;;5
+amsterdam	NN;;1	NNP;;12
+bert	NNP;;5
+cosby	NNP;;3
+jones	NNP;;239
+dig	NN;;1	NNP;;8
+stamford	NNP;;8
+gauguin	NNP;;3
+alto	NNP;;11
+institute	VB;;2	NN;;13	NNP;;84
+petipa	NNP;;5
+dick	NNP;;9
+franco	NNP;;7
+france	NNP;;106
+peru	NNP;;4
+downing	NNP;;3
+goldfein	NNP;;3
+realty	NNP;;4
+tokyo	NNP;;181
+soup	NN;;1	NNP;;8
+fla	NNP;;4
+tokyu	NNP;;6
+harkins	NNP;;3
+nye	NNP;;3
+rehnquist	NNP;;3
+rickey	NNP;;3
+cooperman	NNP;;5
+hassan	NNP;;3
+yorkshire	NNP;;4
+bonwit	NNP;;6
+kkr	NNP;;37
+lonski	NNP;;3
+s&p	NN;;9	NNP;;98
+mercantile	NNP;;30
+california	JJ;;1	NNP;;180
+escort	NNP;;4
+dash	VB;;1	NNP;;3
+middletown	NNP;;3
+canton	NNP;;6
+channel	VB;;2	NN;;6	NNP;;14
+norman	NNP;;13
+rep.	NNP;;73
+lauder	NNP;;10
+dempsey	NNP;;4
+shidler	NNP;;5
+marc	NNP;;4
+mary	NNP;;8
+pat	NN;;1	NNP;;5
+edwin	NNP;;6
+pan	NNP;;12
+pa.	NNP;;20
+gates	NNS;;3	NNP;;9
+mo.	NNP;;6
+mcdonald	NN;;1	NNP;;33
+simmons	NNP;;34
+knight-ridder	NNP;;13
+baxley	NNP;;4
+klerk	NNP;;6
+ortiz	NNP;;5
+shortridge	NNP;;3
+boone	NNP;;4
+swavely	NNP;;3
+syracuse	NNP;;3
+broderick	NNP;;3
+rianta	NNP;;4
+wsj	NNP;;40
+burger	NN;;1	NNP;;7
+quebec	NN;;1	NNP;;13
+abc	NNP;;49
+garth	NNP;;4
+rangel	NNP;;3
+levine	NNP;;12
+furukawa	NNP;;5
+magnin	NNP;;4
+atari	NNP;;4
+turnpike	NNP;;5
+ashurst	NNP;;5
+cablevision	NNP;;3
+oka	NNP;;3
+helmsley	NNP;;13
+biscuits	NNPS;;1	NNS;;1	NNP;;3
+house	VB;;2	VBP;;1	NN;;105	NNP;;289
+macmillan	NNP;;8
+howell	NNP;;4
+dorsey	NNP;;4
+finland	NN;;1	NNP;;9
+gelbart	NNP;;8
+mclaughlin	NNP;;4
+wellington	NNP;;15
+carmon	NNP;;3
+boulder	NNP;;4
+aldus	NNP;;3
+leslie	NNP;;10
+toubro	NNP;;6
+strieber	NNP;;3
+yasuda	NNP;;4
+italy	NNP;;42
+ruth	NNP;;11
+horton	NNP;;4
+gaylord	NNP;;3
+newark	NNP;;11
+saab	NNP;;15
+carbide	NNP;;13
+god	NNP;;12
+nuys	NNP;;3
+usi	NNP;;3
+s.c.	NNP;;6
+keating	NNP;;35
+gallup	NNP;;3
+guterman	NNP;;6
+j.c.	NNP;;6
+asia-pacific	JJ;;1	NNP;;3
+lilly	RB;;1	NNP;;20
+joel	NNP;;9
+yetnikoff	NNP;;8
+chicago	NNP;;221
+weinstein	NNP;;4
+alaska	NNP;;16
+nobel	NNP;;6
+metromedia	NNP;;8
+dad	NNP;;3
+daf	NNP;;6
+dan	NNP;;8
+toshiba	NNP;;15
+dat	NNP;;3
+sonata	NN;;1	NNP;;3
+dax	NNP;;9
+afanasyev	NNP;;3
+arkansas	NNP;;12
+harold	NNP;;10
+south	NNPS;;4	NN;;3	RB;;8	JJ;;30	NNP;;146
+bancoklahoma	NNP;;4
+dallas	NNP;;67
+post-world	NNP;;3
+etzioni	NNP;;3
+czechoslovakia	NNP;;5
+bear	VB;;8	VBP;;3	JJ;;1	NN;;15	NNP;;55
+beam	NN;;1	NNP;;5
+gillett	NNP;;13
+shapiro	NNP;;6
+janet	NNP;;3
+highland	NNP;;8
+watkins	NNP;;4
+ncaa	NNP;;6
+lake	NN;;1	NNP;;11
+hees	NNP;;7
+convex	NNP;;6
+bidermann	NNP;;3
+lynn	NNP;;5
+supreme	JJ;;1	NNP;;77
+pik	NNP;;6
+mortimer	NNP;;3
+dictaphone	NN;;1	NNP;;9
+philips	NNP;;8
+paris	NNP;;58
+risc	NNP;;6
+weisfield	NNP;;11
+wellcome	NNP;;5
+ohbayashi	NNP;;6
+racketeer	NNP;;3
+connecticut	NNP;;16
+tampa	NNP;;10
+henry	NNP;;20
+petrolane	NNP;;4
+gatt	NNP;;8
+lantos	NNP;;11
+whittle	NN;;1	NNP;;8
+mcdonough	NNP;;17
+danny	NNP;;6
+digest	VB;;2	NNP;;7
+newport	NNP;;8
+o'connell	NNP;;3
+diana	NNP;;4
+diane	NNP;;3
+everett	NNP;;3
+arizona	NNP;;53
+weekes	NNP;;5
+fred	NNP;;5
+djia	NNP;;7
+mercury	NN;;4	NNP;;12
+guinness	NNP;;7
+kyle	NNP;;3
+lichtblau	NNP;;4
+ray	NN;;1	NNP;;6
+rogers	NNP;;7
+pope	NN;;1	NNP;;10
+gogh	NNP;;6
+keenan	NNP;;10
+tommy	NNP;;3
+sullivan	NNP;;15
+karen	NNP;;8
+jaffray	NNP;;6
+florio	NNP;;3
+charlie	NNP;;9
+feshbach	NNP;;5
+morishita	NNP;;18
+spencer	NNP;;5
+scorpio	NNP;;4
+schwarz	NNP;;13
+donald	NNP;;39
+cnw	NNP;;4
+cnn	NNP;;35
+coastal	JJ;;1	NNP;;5
+anderson	NNP;;14
+dataproducts	NNPS;;4	NNP;;12
+solar	NNP;;5
+rahn	NNP;;6
+tim	NNP;;3
+depot	NNP;;3
+phoenix	NNP;;19
+genentech	NNP;;6
+cambria	NNP;;11
+burmah	NNP;;10
+goodyear	VBP;;1	NNP;;10
+mixte	NNP;;36
+laband	NNP;;11
+yale	NNP;;17
+milton	NNP;;18
+navigation	NNP;;38
+mccormick	NNP;;3
+trump	NNP;;35
+beale	NNP;;4
+einhorn	NNP;;5
+levy	VB;;1	NN;;2	NNP;;6
+wachovia	NNP;;6
+hardiman	NNP;;8
+wallach	NNP;;18
+la.	NNP;;4
+hamilton	NNP;;22
+persian	NNP;;8
+kent	NNP;;3
+charleston	NNP;;8
+merrill	NN;;4	NNP;;133
+george	NNP;;86
+corning	NNP;;7
+brown-forman	NNP;;3
+birkel	NNP;;3
+redford	NNP;;7
+broberg	NNP;;3
+timken	NNP;;4
+aztar	NNP;;3
+stanley	NNP;;51
+sverdlovsk	NNP;;6
+miniscribe	NNP;;3
+pakistan	NNP;;4
+howard	RP;;1	NNP;;26
+pattison	NNP;;5
+j.p.	NNP;;11
+kitamura	NNP;;3
+kimberly-clark	NNP;;3
+ethiopia	NN;;1	NNP;;5
+sumita	NNP;;4
+westinghouse	NNP;;29
+daewoo	NNP;;11
+petrie	NNP;;11
+madrid	NNP;;7
+caribbean	NNP;;6
+cineplex	NNP;;17
+gregory	NNP;;6
+cambridge	NNP;;9
+valley	NN;;1	NNP;;45
+natick	NNP;;5
+connaught	NN;;1	NNP;;21
+britain	NNP;;130
+perry	NNP;;4
+twenty-first	NNP;;3
+toledo	NNP;;6
+merkur	NNP;;18
+aaron	NNP;;4
+bougainville	NNP;;3
+sony	NNP;;150
+faa	NNP;;4
+nbi	NNP;;7
+nbc	NNP;;49
+stateswest	NNP;;10
+mms	NNP;;4
+mikhail	NNP;;14
+spendthrift	NNP;;3
+agnos	NNP;;6
+excalibur	NNP;;3
+woolworth	NNP;;3
+shilling	NNP;;3
+garfield	NNP;;4
+sherry	NNP;;4
+fresca	NNP;;3
+hofi	NNP;;4
+sandra	NNP;;5
+wichita	NNP;;6
+archuleta	NNP;;3
+barr	NNP;;4
+bart	NNP;;7
+ark	NNP;;4
+asarco	NNP;;7
+c	$;;1	NN;;1	SYM;;2	NNP;;9
+rubendall	NNP;;3
+orioles	NNP;;4
+schwab	NNP;;5
+rio	NN;;1	NNP;;6
+soundview	NNP;;5
+pohs	NNP;;3
+bancroft	NNP;;5
+breeden	NNP;;36
+anne	NNP;;7
+anna	NNP;;3
+angelo	NNP;;7
+palmer	NNP;;5
+crane	NN;;2	NNP;;9
+holler	VB;;1	NNP;;3
+z	NN;;1	NNP;;9
+gatward	NNP;;5
+matra	NNP;;9
+usfl	NNP;;6
+thames	NNP;;3
+francoise	NNP;;3
+golenbock	NNP;;4
+lutsenko	NNP;;3
+herzog	NNP;;3
+motor	NN;;15	NNP;;85
+cuomo	NNP;;3
+tae	NNP;;5
+usair	NNP;;21
+goldsmith	NNP;;6
+emanuel	NNP;;3
+lidgerwood	NNP;;3
+elie	NNP;;3
+semel	NNP;;19
+york	NNP;;758
+timbers	NNP;;3
+deng	NNP;;7
+dinkins	NNP;;79
+suez	NNP;;6
+mulford	NNP;;9
+rosie	NN;;1	NNP;;3
+barrett	NNP;;6
+wilbur	NNP;;8
+amgen	NNP;;3
+monsky	NNP;;3
+meagher	NNP;;4
+skf	NNP;;5
+armonk	NNP;;6
+siemens	NNP;;10
+emeryville	NNP;;3
+murdoch	NNP;;9
+ubs-phillips	NNP;;4
+illinois	NNP;;33
+branca	NNP;;3
+june	NNP;;152
+shere	NNP;;6
+u3	NNP;;43
+u819	NNP;;4
+lord	NN;;1	NNP;;4
+u99	NNP;;20
+u146	NNP;;3
+md	NNP;;9
+u128	NNP;;3
+il	PRP;;1	NNP;;5
+u68	NNP;;5
+u69	NNP;;25
+u60	NNP;;10
+u61	NNP;;9
+u62	NNP;;3
+u63	NNP;;4
+u64	NNP;;5
+u65	NNP;;30
+u66	NNP;;27
+u120	NNP;;4
+downs	NNP;;3
+detroit	NNP;;3
+god	UH;;1	NNP;;4
+elle	NNP;;3
+u59	NNP;;8
+u58	NNP;;12
+u55	NNP;;16
+u54	NNS;;1	NNP;;46
+u56	NNP;;26
+u51	NNP;;12
+u50	NNP;;41
+u53	NNP;;47
+u52	NNP;;55
+com	GW;;1	NNP;;3
+san	NNP;;4
+u129	NNP;;3
+u122	NNP;;29
+xbox	NNP;;4
+u42	NNP;;21
+u43	NNP;;16
+u40	NNP;;10
+u41	NNP;;31
+u46	NNP;;23
+u44	NNP;;19
+u48	UH;;1	NNP;;35
+u49	NNP;;27
+u47	NNP;;34
+u45	NNP;;28
+yoko	NNP;;6
+u820	NNP;;4
+paxil	NNP;;6
+nc	NNP;;3
+u132	NNP;;8
+hawaii	NNP;;4
+u36	NNP;;16
+u35	NNP;;72
+u34	NNP;;84
+u33	NNP;;28
+u32	NNP;;33
+u30	NNP;;38
+u39	UH;;2	NNP;;24
+msn	NNP;;5
+u989	NNP;;3
+lucifuge	NNP;;3
+u154	NNP;;4
+st	NNP;;4
+u108	NNP;;6
+u102	NNP;;10
+u106	NNP;;3
+u107	NNP;;11
+u104	NNP;;12
+u105	NNP;;29
+texas	NNP;;3
+canada	NNP;;5
+kent	NNP;;4
+u24	NNP;;21
+u26	NNP;;15
+u27	NNP;;22
+u20	NNP;;22
+u21	NNP;;29
+u22	NNP;;27
+u23	NNP;;14
+u28	NNP;;45
+u29	NNP;;21
+u142	NNP;;5
+u115	NNP;;11
+u114	NNP;;17
+u117	NNP;;3
+u110	NNP;;17
+u119	NNP;;10
+dawnstar	NNP;;4
+#14-19teens	NNP;;22
+u19	NNP;;51
+u18	NNP;;61
+u11	NNP;;23
+u13	NNP;;20
+u12	NNP;;17
+u15	NNP;;24
+u17	NNP;;3
+u16	NNP;;41
+#40splus	NNP;;5
+http://www.shadowbots.com	NNP;;4
+u86	NNP;;9
+u85	NNP;;4
+u82	NNP;;6
+ny	NNP;;6
+kennedy	NNP;;4
+u168	NNP;;9
+u169	NNP;;6
+ct	NNP;;4
+u130	NNP;;3
+october	NNP;;3
+u14	NNP;;8
+liam	NNP;;7
+tx	NNP;;7
+louis	NNP;;3
+jesus	NNS;;1	UH;;1	NNP;;4
+donuts	NNP;;3
+fl	NNP;;6
+john	NNP;;4
+england	NNP;;3
+wellbutrin	NNP;;6
+u144	NNP;;6
+u145	NNP;;3
+poooland	NNP;;3
+cdt	NNP;;3
+u37	NNP;;35
+u31	NNP;;23
+maidstone	NN;;1	NNP;;3
+u89	NNP;;13
+pdt	NNP;;3
+u25	NNP;;20
+cheer	VB;;1	NNP;;3
+u520	NNP;;5
+u57	NNP;;8
+u988	NNP;;3
+u9	NNP;;10
+u8	NNP;;21
+u5	NNP;;9
+u7	NNP;;68
+u6	NNP;;19
+u1	NNP;;21
+u0	NNP;;13
+u2	NNP;;9
+uk	NNP;;5
+#talkcity_adults	NNP;;15
+ga	NNP;;4
+maryland	NNP;;4
+akdt	NNP;;3
+u133	NNP;;3
+u197	NNP;;4
+u196	NNP;;4
+u91	NNP;;16
+u92	NNP;;6
+u95	NNP;;8
+u96	NNP;;6
+u98	NNP;;9
+florida	NNP;;6
+south	RB;;1	NNP;;3
+myspace	NNP;;8
+u73	NNP;;6
+u75	NNP;;4
+michigan	NNP;;3
+u103	NNP;;4
+u121	NNP;;10
+u101	NNP;;7
+u123	NNP;;4
+wv	NNP;;3
+u87	NNP;;6
+dunkin	NNP;;3
+est	NNP;;3
+pa	NNP;;5
+u72	NNP;;14
+u70	UH;;1	NNP;;17
+u76	NNP;;3
+u74	NNP;;6
+diego	NNP;;4
+nelson	NNP;;3
+u156	NNP;;25

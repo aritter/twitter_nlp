@@ -1,0 +1,12 @@
+nor	CC;;54
+'n'	CC;;3
+but	CC;;2993	RB;;5	IN;;5
+and	CC;;13620	VBP;;1	NNP;;1
+or	CC;;1985
+&	CC;;876	SYM;;1
+plus	JJ;;1	NN;;4	CC;;29	RB;;1	IN;;4	NNP;;6
+/	CC;;96	X;;1	IN;;1
+and	CC;;234	NNP;;1
+&	CC;;8
+or	CC;;54
+but	CC;;61

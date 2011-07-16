@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customization>
+<rule pattern="tag={OTHER}" style="foreground=grey"/>
+<rule pattern="tag={PERSON}" style="foreground=pink"/>
+<rule pattern="tag={GEO-LOC}" style="foreground=red"/>
+<rule pattern="tag={FACILITY}" style="foreground=purple"/>
+<rule pattern="tag={COMPANY}" style="foreground=red"/>
+<rule pattern="tag={PRODUCT}" style="foreground=brown"/>
+<rule pattern="tag={FOOD}" style="foreground=green"/>
+<rule pattern="tag={MOVIE}" style="foreground=blue"/>
+</customization>

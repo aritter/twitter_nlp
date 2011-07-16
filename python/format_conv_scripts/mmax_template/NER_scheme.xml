@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+ <annotationscheme>
+  <attribute id="tag_level" name="tag" type="nominal_list">
+   <value name="OTHER"/>
+   <value name="PERSON"/>
+   <value name="GEO-LOC"/>
+   <value name="FACILITY"/>
+   <value name="COMPANY"/>
+   <value name="PRODUCT"/>
+   <value name="FOOD"/>
+   <value name="MOVIE"/>
+   <value name="."/>
+  </attribute>
+ </annotationscheme>

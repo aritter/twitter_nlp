@@ -1,0 +1,52 @@
+mineworkers	NNPS;;3
+fujis	NNPS;;7
+libyans	NNPS;;4
+hispanics	NNPS;;4
+filipinos	NNPS;;4	NNS;;1
+beebes	NNPS;;9
+steelworkers	NNPS;;4	NNS;;1	NNP;;1
+sciences	NNPS;;22	NNS;;1	NNP;;1
+protestants	NNPS;;3
+indians	NNPS;;4
+europeans	NNPS;;11	NNS;;1
+moslems	NNPS;;3
+texans	NNPS;;12
+chiefs	NNPS;;5	NNS;;2
+koreans	NNPS;;12
+gardens	NNPS;;14	NNS;;2	NNP;;3
+garcias	NNPS;;3
+turtles	NNPS;;3	NNS;;1
+teamsters	NNPS;;4
+philippines	NNPS;;13	NNP;;5
+democrats	NNPS;;59	NNS;;2	NNP;;5
+postels	NNPS;;3
+californians	NNPS;;7	NNS;;2
+reps.	NNPS;;3	NNP;;1
+arabs	NNPS;;5	NNS;;1
+sandinistas	NNPS;;4	NNS;;1	NNP;;1
+contras	NNPS;;10	NNS;;2	NNP;;1
+lifesavers	NNPS;;3	NNP;;1
+suns	NNPS;;3
+gutfreunds	NNPS;;3
+bahamas	NNPS;;5
+playmates	NNPS;;3
+tropics	NNPS;;3
+russians	NNPS;;7
+crusaders	NNPS;;6
+palestinians	NNPS;;4
+cowboys	NNPS;;16	NNS;;3	NNP;;2
+microsystems	NNPS;;10	NNP;;4
+angels	NNPS;;8	NNS;;1	NNP;;1
+rothschilds	NNPS;;10
+poles	NNPS;;7	NNS;;1
+greeks	NNPS;;4
+olympics	NNPS;;10
+americans	VBP;;1	NNPS;;63	NNS;;13	NNP;;2
+jews	NNPS;;7
+airways	NNPS;;18	NNP;;8
+carolinas	NNPS;;4
+republicans	NNPS;;40	NNS;;1	NNP;;2
+afrikaners	NNPS;;4
+marines	NNPS;;4
+catholics	NNPS;;4
+cheerios	NNPS;;3
