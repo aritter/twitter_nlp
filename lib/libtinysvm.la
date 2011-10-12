@@ -29,4 +29,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/aritter/local/lib'
+libdir='/homes/gws/aritter/twitter_nlp/lib'

@@ -18,6 +18,8 @@ For higher quality, but slower results, optionally include features based on POS
 
 Requirements:
 32-bit Linux (64-bit requires re-compiling some executables and libraries)
+64 bit version is available here:
+www.cs.washington.edu/homes/aritter/twitter_nlp_release_64.tgz
 
 Relevant paper:
 @inproceedings{Ritter11,
