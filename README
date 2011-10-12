@@ -18,6 +18,7 @@ For higher quality, but slower results, optionally include features based on POS
 
 Requirements:
 32-bit Linux (64-bit requires re-compiling some executables and libraries)
+(note that there is a 64 bit branch available)
 
 Relevant paper:
 @inproceedings{Ritter11,
