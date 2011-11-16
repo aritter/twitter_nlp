@@ -29,4 +29,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/homes/gws/aritter/twitter_nlp/lib'
+libdir='/homes/gws/aritter/twitter_nlp_release/TinySVM-0.09/..//lib'
