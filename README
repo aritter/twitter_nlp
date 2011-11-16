@@ -17,8 +17,8 @@ For higher quality, but slower results, optionally include features based on POS
 >cat test.1k.txt | python python/ner/extractEntities2.py --classify --pos --chunk
 
 Requirements:
-32-bit Linux (64-bit requires re-compiling some executables and libraries)
-(note that there is a 64 bit branch available)
+Linux
+Libraries and executables can be compiled with build.sh
 
 Relevant paper:
 @inproceedings{Ritter11,
