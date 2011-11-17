@@ -6,6 +6,7 @@ import re
 import subprocess
 import platform
 import time
+import codecs
 
 from signal import *
 
@@ -106,7 +107,8 @@ for line in open('%s/hbc/data/dict-label3' % (BASE_DIR)):
     dict2label[dictionary] = label
 
 nLines = 1
-line = sys.stdin.readline().strip()
+reader = codecs.getreader("utf-8")(sys.stdin)
+line = reader.readline().strip()
 while line:
     words = twokenize.tokenize(line)
     seq_features = []
@@ -134,7 +136,7 @@ while line:
         if quotes[i]:
             features.append("QUOTED")
         seq_features.append(" ".join(features))
-    ner.stdin.write("\t".join(seq_features) + "\n")
+    ner.stdin.write(("\t".join(seq_features) + "\n").encode('utf8'))
         
     for i in range(len(words)):
         tags.append(ner.stdout.readline().rstrip('\n').strip(' '))
@@ -179,7 +181,7 @@ while line:
             for j in range(features.entities[i][0]+1,features.entities[i][1]):
                 tags[j] = "I-ENTITY"
 
-    sys.stdout.write(" ".join(["%s/%s" % (words[x], tags[x]) for x in range(len(words))]) + "\n")
+    sys.stdout.write((" ".join(["%s/%s" % (words[x], tags[x]) for x in range(len(words))]) + "\n").encode('utf8'))
     sys.stdout.flush()
 
     #seems like there is a memory leak comming from mallet, so just restart it every 1,000 tweets or so
@@ -195,4 +197,4 @@ while line:
         ner = GetNer(ner_model)
     nLines += 1
     
-    line = sys.stdin.readline().strip()
+    line = reader.readline().strip()
