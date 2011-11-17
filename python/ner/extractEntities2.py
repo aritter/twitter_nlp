@@ -46,8 +46,8 @@ def GetLLda():
                            stdin=subprocess.PIPE,
                            stdout=subprocess.PIPE)
 
-if platform.architecture() != ('64bit', 'ELF'):
-    sys.exit("Requires 64 bit Linux")
+#if platform.architecture() != ('64bit', 'ELF'):
+#    sys.exit("Requires 64 bit Linux")
 
 parser = OptionParser()
 parser.add_option("--chunk", action="store_true", default=False)
