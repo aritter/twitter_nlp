@@ -181,7 +181,10 @@ while line:
             for j in range(features.entities[i][0]+1,features.entities[i][1]):
                 tags[j] = "I-ENTITY"
 
-    sys.stdout.write((" ".join(["%s/%s" % (words[x], tags[x]) for x in range(len(words))]) + "\n").encode('utf8'))
+    if pos:
+        sys.stdout.write((" ".join(["%s/%s/%s" % (words[x], tags[x], pos[x]) for x in range(len(words))]) + "\n").encode('utf8'))
+    else:
+        sys.stdout.write((" ".join(["%s/%s" % (words[x], tags[x]) for x in range(len(words))]) + "\n").encode('utf8'))        
     sys.stdout.flush()
 
     #seems like there is a memory leak comming from mallet, so just restart it every 1,000 tweets or so
