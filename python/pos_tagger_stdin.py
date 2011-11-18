@@ -67,7 +67,7 @@ class PosTagger:
         for word_feats in feat_list:
             feat_list_str.append(' '.join(word_feats))
 
-        self.tagger.stdin.write("\t".join(feat_list_str) + "\n")
+        self.tagger.stdin.write(("\t".join(feat_list_str) + "\n").encode('utf8'))
         pos = []
         for i in range(len(feat_list)):
             pos.append(self.tagger.stdout.readline().rstrip('\n').strip(' '))
