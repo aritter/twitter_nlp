@@ -4,5 +4,5 @@ cd ../../
 tar xvzf TinySVM-0.09.tar.gz
 cd TinySVM-0.09
 ./configure --prefix=`pwd`/../ && make && make install
-cd python/cap
+cd ../python/cap
 bash build.sh
