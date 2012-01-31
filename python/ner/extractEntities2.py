@@ -84,15 +84,6 @@ fe = Features.FeatureExtractor('%s/data/dictionaries' % (BASE_DIR))
 capClassifier = cap_classifier.CapClassifier()
 
 vocab = Vocab('%s/hbc/data/vocab' % (BASE_DIR))
-if llda:
-    dictionaries = Dictionaries('%s/data/LabeledLDA_dictionaries3' % (BASE_DIR))
-entityMap = {}
-i = 0
-if llda:
-    for line in open('%s/hbc/data/entities' % (BASE_DIR)):
-        entity = line.rstrip('\n')
-        entityMap[entity] = i
-        i += 1
 
 dictMap = {}
 i = 1
@@ -100,6 +91,20 @@ for line in open('%s/hbc/data/dictionaries' % (BASE_DIR)):
     dictionary = line.rstrip('\n')
     dictMap[i] = dictionary
     i += 1
+
+dict2index = {}
+for i in dictMap.keys():
+    dict2index[dictMap[i]] = i
+
+if llda:
+    dictionaries = Dictionaries('%s/data/LabeledLDA_dictionaries3' % (BASE_DIR), dict2index)
+entityMap = {}
+i = 0
+if llda:
+    for line in open('%s/hbc/data/entities' % (BASE_DIR)):
+        entity = line.rstrip('\n')
+        entityMap[entity] = i
+        i += 1
 
 dict2label = {}
 for line in open('%s/hbc/data/dict-label3' % (BASE_DIR)):
@@ -152,11 +157,13 @@ while line:
             if entityMap.has_key(features.entityStrings[i].lower()):
                 entityid = str(entityMap[features.entityStrings[i].lower()])
             labels = dictionaries.GetDictVector(features.entityStrings[i])
+
             if sum(labels) == 0:
                 labels = [1 for x in labels]
             llda.stdin.write("\t".join([entityid, " ".join(wids), " ".join([str(x) for x in labels])]) + "\n")
             sample = llda.stdout.readline().rstrip('\n')
             labels = [dict2label[dictMap[int(x)]] for x in sample[4:len(sample)-8].split(' ')]
+
             count = {}
             for label in labels:
                 count[label] = count.get(label, 0.0) + 1.0

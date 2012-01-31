@@ -10,7 +10,7 @@ def normalize(s):
 
 
 class Dictionaries:
-    def __init__(self, dictDir):
+    def __init__(self, dictDir, dict2index):
         self.word2dictionaries = {}
         self.dictionaries = []
         for d in os.listdir(dictDir):
@@ -24,6 +24,8 @@ class Dictionaries:
                 if not self.word2dictionaries.has_key(word):
                     self.word2dictionaries[word] = []
                 self.word2dictionaries[word].append(d)
+        #Get the dictionaries into the right order
+        self.dictionaries.sort(lambda a,b: cmp(dict2index[a], dict2index[b]))
     
     #Gets a vector with one entry for each dictionary (in the order in "self.dictionaries")
     #if the entry in the vector is "1", the word is in the dictionary, if "0" is not.
