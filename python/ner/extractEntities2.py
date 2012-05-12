@@ -50,6 +50,8 @@ def GetLLda():
 #if platform.architecture() != ('64bit', 'ELF'):
 #    sys.exit("Requires 64 bit Linux")
 
+start_time = time.time()
+
 parser = OptionParser()
 parser.add_option("--chunk", action="store_true", default=False)
 parser.add_option("--pos", action="store_true", default=False)
@@ -208,3 +210,7 @@ while line:
     nLines += 1
     
     line = reader.readline().strip()
+
+end_time = time.time()
+
+print "Average time per tweet = %ss" % (str((end_time-start_time) / nLines))
