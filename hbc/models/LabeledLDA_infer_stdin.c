@@ -694,7 +694,7 @@ int main(int ARGC, char *ARGV[]) {
 
 
   /* variables defined with --define */
-  K = 40;
+  K = 19;
   alpha = 0.1;
   //alpha = 1.0;
   eta = 0.1;
