@@ -5,16 +5,16 @@
 # It is necessary for linking the library.
 
 # The name that we can dlopen(3).
-dlname='libtinysvm.so.1'
+dlname=''
 
 # Names of this library.
-library_names='libtinysvm.so.1.2.0 libtinysvm.so.1 libtinysvm.so'
+library_names=''
 
 # The name of the static archive.
 old_library='libtinysvm.a'
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/homes/gws/aritter/local/lib -lm -lm'
+dependency_libs=' -lm -lm'
 
 # Version information for libtinysvm.
 current=3
@@ -29,4 +29,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/homes/gws/aritter/twitter_nlp_release/TinySVM-0.09/..//lib'
+libdir='/home/aritter/twitter_nlp/TinySVM-0.09/..//lib'
