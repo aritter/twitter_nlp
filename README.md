@@ -1,16 +1,15 @@
 UW Twitter NLP Tools
 ====================
-Authors: Sam Clark, Alan Ritter
--------------------------------
+Authors: Alan Ritter, Sam Clark
 contact: aritter@cs.washington.edu
 
 Example Usage:
-
+--------------
 <code>
-export TWITTER_NLP=./
-cat test.1k.txt | python python/ner/extractEntities2.py
-note: this takes a minute or so to read in models from files
+	export TWITTER_NLP=./
+	cat test.1k.txt | python python/ner/extractEntities2.py
 </code>
+note: this takes a minute or so to read in models from files
 
 
 To include classification, simply add the --classify switch:
