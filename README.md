@@ -21,9 +21,8 @@ To include classification, simply add the --classify switch:
 For higher quality, but slower results, optionally include features based on POS and chunk tags
 (chunk tags require POS)
 
-       cat test.1k.txt | python python/ner/extractEntities2.py --classify --pos
-       cat test.1k.txt | python python/ner/extractEntities2.py --classify --pos --chunk
-
+	cat test.1k.txt | python python/ner/extractEntities2.py --classify --pos
+	cat test.1k.txt | python python/ner/extractEntities2.py --classify --pos --chunk
 
 Requirements:
 -------------
