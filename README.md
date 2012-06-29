@@ -32,14 +32,14 @@ Requirements:
 
 Relevant paper:
 --------------
-`
-@inproceedings{Ritter11,
-  author = {Ritter, Alan and Clark, Sam and Mausam and Etzioni, Oren},
-  title = {Named Entity Recognition in Tweets: An Experimental Study},
-  booktitle = {EMNLP},
-  year = {2011}
-}
-`
+>`
+>@inproceedings{Ritter11,
+>  author = {Ritter, Alan and Clark, Sam and Mausam and Etzioni, Oren},
+>  title = {Named Entity Recognition in Tweets: An Experimental Study},
+>  booktitle = {EMNLP},
+>  year = {2011}
+>}
+>`
 
 Acknowlegements (bug fixes, etc...):
 ------------------------------------
