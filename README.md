@@ -40,6 +40,10 @@ Relevant paper:
 	  year = {2011}
 	}
 
+Demo:
+-----
+[statuscalendar.cs.washington.edu](http://statuscalendar.cs.washington.edu)
+
 Acknowlegements (bug fixes, etc...):
 ------------------------------------
 Junming Sui
