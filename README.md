@@ -48,3 +48,5 @@ Acknowlegements (bug fixes, etc...):
 Junming Sui
 
 Ming-Wei Chang
+
+Tuan Anh Hoang Vu
