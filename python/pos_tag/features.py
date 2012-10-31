@@ -154,7 +154,8 @@ class POSFeatureExtractor:
         bigram = word1 + '_' + word2
         new_features = []
         for dict_name, d in self.bigram_dictionaries.iteritems():
-            if bigram in d.token_pos_set:
+            if bigram != ":_(" and bigram in d.token_pos_set:
+                print bigram
                 tag1, tag2 = d.token_pos_set[bigram].items()[0][0].split('_')
                 tag = (use_first and tag1) or tag2
                 ttype = (use_first and 'AFTER') or 'BEFORE'
