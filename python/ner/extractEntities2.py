@@ -114,8 +114,8 @@ for line in open('%s/hbc/data/dict-label3' % (BASE_DIR)):
     dict2label[dictionary] = label
 
 nLines = 1
-reader = codecs.getreader("utf-8")(sys.stdin)
-line = reader.readline().strip()
+tweet = sys.stdin.readline().strip()
+line = tweet.encode('utf-8')
 while line:
     words = twokenize.tokenize(line)
     seq_features = []
@@ -209,7 +209,8 @@ while line:
         ner = GetNer(ner_model)
     nLines += 1
     
-    line = reader.readline().strip()
+    line = sys.stdin.readline().strip()
+    line = line.encode('utf-8')
 
 end_time = time.time()
 
