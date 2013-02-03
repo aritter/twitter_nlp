@@ -32,6 +32,7 @@ sys.path.append('%s/python' % (BASE_DIR))
 import cap_classifier
 import pos_tagger_stdin
 import chunk_tagger_stdin
+import event_tagger_stdin
 
 def GetNer(ner_model):
     return subprocess.Popen('java -Xmx256m -cp %s/mallet-2.0.6/lib/mallet-deps.jar:%s/mallet-2.0.6/class cc.mallet.fst.SimpleTaggerStdin --weights sparse --model-file %s/models/ner/%s' % (BASE_DIR, BASE_DIR, BASE_DIR, ner_model),
@@ -55,6 +56,7 @@ start_time = time.time()
 parser = OptionParser()
 parser.add_option("--chunk", action="store_true", default=False)
 parser.add_option("--pos", action="store_true", default=False)
+parser.add_option("--event", action="store_true", default=False)
 parser.add_option("--classify", action="store_true", default=False)
 (options, args) = parser.parse_args()
 
@@ -67,6 +69,11 @@ if options.chunk and options.pos:
     chunkTagger = chunk_tagger_stdin.ChunkTagger()
 else:
     chunkTagger = None
+
+if options.event and options.pos:
+    eventTagger = event_tagger_stdin.EventTagger()
+else:
+    eventTagger = None
 
 if options.classify:
     llda = GetLLda()
@@ -137,6 +144,13 @@ while line:
     else:
         chunk = None
 
+    #Event tags
+    if posTagger and eventTagger:
+        events = eventTagger.TagSentence(words, [p.split(':')[0] for p in pos])
+        events = [e.split(':')[0] for e in events]
+    else:
+        events = None
+
     quotes = Features.GetQuotes(words)
     for i in range(len(words)):
         features = fe.Extract(words, pos, chunk, i, goodCap) + ['DOMAIN=Twitter']
@@ -190,10 +204,20 @@ while line:
             for j in range(features.entities[i][0]+1,features.entities[i][1]):
                 tags[j] = "I-ENTITY"
 
+    output = ["%s/%s" % (words[x], tags[x]) for x in range(len(words))]
     if pos:
-        sys.stdout.write((" ".join(["%s/%s/%s" % (words[x], tags[x], pos[x]) for x in range(len(words))]) + "\n").encode('utf8'))
-    else:
-        sys.stdout.write((" ".join(["%s/%s" % (words[x], tags[x]) for x in range(len(words))]) + "\n").encode('utf8'))        
+        output = ["%s/%s" % (output[x], pos[x]) for x in range(len(output))]
+    if chunk:
+        output = ["%s/%s" % (output[x], chunk[x]) for x in range(len(output))]
+    if events:
+        output = ["%s/%s" % (output[x], events[x]) for x in range(len(output))]
+    sys.stdout.write((" ".join(output) + "\n").encode('utf8'))
+
+#    if pos:
+#        sys.stdout.write((" ".join(["%s/%s/%s" % (words[x], tags[x], pos[x]) for x in range(len(words))]) + "\n").encode('utf8'))
+#    else:
+#        sys.stdout.write((" ".join(["%s/%s" % (words[x], tags[x]) for x in range(len(words))]) + "\n").encode('utf8'))        
+    
     sys.stdout.flush()
 
     #seems like there is a memory leak comming from mallet, so just restart it every 1,000 tweets or so
