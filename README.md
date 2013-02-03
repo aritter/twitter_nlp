@@ -24,12 +24,16 @@ For higher quality, but slower results, optionally include features based on POS
 	cat test.1k.txt | python python/ner/extractEntities2.py --classify --pos
 	cat test.1k.txt | python python/ner/extractEntities2.py --classify --pos --chunk
 
+Also has the ability to include event tags (requires POS):
+
+	cat test.1k.txt | python python/ner/extractEntities2.py --classify --pos --event
+
 Requirements:
 -------------
 1. Linux
 2. Libraries and executables can be compiled with build.sh
 
-Relevant paper:
+Relevant papers:
 --------------
 
 	@inproceedings{Ritter11,
@@ -37,6 +41,13 @@ Relevant paper:
 	  title = {Named Entity Recognition in Tweets: An Experimental Study},
 	  booktitle = {EMNLP},
 	  year = {2011}
+	}
+
+	@inproceedings{Ritter12,
+	  author = {Ritter, Alan and Mausam and Etzioni, Oren and Clark, Sam},
+	  title = {Open Domain Event Extraction from Twitter},
+	  booktitle = {KDD},
+	  year = {2012}
 	}
 
 Demo:
