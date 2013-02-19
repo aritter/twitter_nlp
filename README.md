@@ -46,7 +46,7 @@ The fields are as follows:
 <tr>
   <td>Word:</td>
   <td>The</td>
-  <td>The</td>
+  <td></td>
 </tr>
 <tr>
   <td>Entity:</td>
