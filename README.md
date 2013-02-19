@@ -30,7 +30,7 @@ Also has the ability to include event tags (requires POS):
 
 Output:
 -------------
-The output contains the tokenized and tagged words seperated by spaces with tags seperated
+The output contains the tokenized and tagged words separated by spaces with tags separated
 by forward slash '/'
 Example output:
 
@@ -65,6 +65,12 @@ The fields are as follows:
 </tr>
 </table>
 
+The BIO encoding is used for encoding phrases (Named Entities, event phrases, and chunks), for example:
+
+    The/B-movie Town/I-movie might/O ...
+
+Indicates that the word "The" begins a named entity of type movie, "Town" continues that entity, and "might" is outside of an entity mention.  For more details see http://www.cs.stonybrook.edu/~ychoi/cse628/lecture/05-pos.pdf.
+
 Requirements:
 -------------
 1. Linux
@@ -91,7 +97,7 @@ Demo:
 -----
 [statuscalendar.cs.washington.edu](http://statuscalendar.cs.washington.edu)
 
-Acknowlegements (bug fixes, etc...):
+Acknowledgments (bug fixes, etc...):
 ------------------------------------
 Junming Sui
 
