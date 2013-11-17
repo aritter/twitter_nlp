@@ -34,8 +34,10 @@ _CLUSTERS = '%s/data/brown_clusters/60K_clusters.txt' % (BASE_DIR)
 
 class PosTagger:
     def __init__(self):
-        self.fe = features.POSFeatureExtractor(_TOKEN2POS_MAPS, _BIGRAM,
-                                               _TOKEN_MAPS, _CLUSTERS)
+#        self.fe = features.POSFeatureExtractor(_TOKEN2POS_MAPS, _BIGRAM,
+#                                               _TOKEN_MAPS, _CLUSTERS)
+        self.fe = features.POSFeatureExtractor(_TOKEN2POS_MAPS, _TOKEN_MAPS, 
+                                               _BIGRAM, _CLUSTERS)
         self.GetTagger()
         self.nTagged = 0
 

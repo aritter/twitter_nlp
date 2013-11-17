@@ -132,7 +132,8 @@ while line:
 
     if posTagger:
         pos = posTagger.TagSentence(words)
-        pos = [p.split(':')[0] for p in pos]  # remove weights   
+        #pos = [p.split(':')[0] for p in pos]  # remove weights   
+        pos = [re.sub(r':[^:]*$', '', p) for p in pos]  # remove weights   
     else:
         pos = None
 
