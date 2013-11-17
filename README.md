@@ -95,7 +95,7 @@ Relevant papers:
 
 Demo:
 -----
-[statuscalendar.cs.washington.edu](http://statuscalendar.cs.washington.edu)
+[statuscalendar.com](http://statuscalendar.com)
 
 Acknowledgments (bug fixes, etc...):
 ------------------------------------
