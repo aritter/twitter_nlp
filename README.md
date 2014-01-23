@@ -1,4 +1,4 @@
-UW Twitter NLP Tools
+Twitter NLP Tools
 ====================
 Authors: Alan Ritter, Sam Clark
 
