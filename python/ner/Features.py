@@ -4,14 +4,32 @@ import os
 import string
 import subprocess
 
+#BASE_DIR = '/home/aritter/twitter_nlp'
+#BASE_DIR = os.environ['HOME'] + '/twitter_nlp'
+#BASE_DIR = '/homes/gws/aritter/twitter_nlp'
 BASE_DIR = 'twitter_nlp.jar'
 
 if os.environ.has_key('TWITTER_NLP'):
     BASE_DIR = os.environ['TWITTER_NLP']
 
+#sys.path.append('%s/python/' % (BASE_DIR))
+#sys.path.append('%s/python/cap/' % (BASE_DIR))
+#sys.path.append('../cap/')
+#import cap_classifier
+
+def Brown2Bits(bits):
+    bitstring = ""
+    for i in range(20):
+        if bits & (1 << i):
+            bitstring += '1'
+        else:
+            bitstring += '0'
+    return bitstring
+
 def GetOrthographicFeatures(word, goodCap):
     features = []
 
+    #Don't include these features for usernames
     features.append("word=%s" % word)
     features.append("word_lower=%s" % word.lower())
     if(len(word) >= 4):
@@ -21,6 +39,11 @@ def GetOrthographicFeatures(word, goodCap):
         features.append("suffix=%s" % word[len(word)-1:len(word)].lower())
         features.append("suffix=%s" % word[len(word)-2:len(word)].lower())
         features.append("suffix=%s" % word[len(word)-3:len(word)].lower())
+
+        #Substring features (don't seem to help)
+        #for i in range(1,len(word)-2):
+        #    for j in range(i+1,len(word)-1):
+        #        features.append("substr=%s" % word[i:j])
 
     if re.search(r'^[A-Z]', word):
         features.append('INITCAP')
@@ -83,7 +106,8 @@ class DictionaryFeatures:
                             features.append('DICTWIN=%s' % window)
         if self.brownClusters and self.brownClusters.has_key(words[i].lower()):
             for j in [4, 8, 12]:
-                features.append('BROWN=%s' % (self.brownClusters[words[i].lower()] >> j))
+                bitstring = Brown2Bits(self.brownClusters[words[i].lower()])
+                features.append('BROWN=%s' % bitstring[0:j+1])
         return list(set(features))
 
 class DictionaryFeatures2(DictionaryFeatures):

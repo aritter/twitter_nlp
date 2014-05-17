@@ -17,6 +17,15 @@ if os.environ.has_key('TWITTER_NLP'):
 #sys.path.append('../cap/')
 #import cap_classifier
 
+def Brown2Bits(bits):
+    bitstring = ""
+    for i in range(20):
+        if bits & (1 << i):
+            bitstring += '1'
+        else:
+            bitstring += '0'
+    return bitstring
+
 def GetOrthographicFeatures(word, goodCap):
     features = []
 
@@ -103,7 +112,9 @@ class DictionaryFeatures:
                             features.append('DICTWIN=%s' % window)
         if self.brownClusters and self.brownClusters.has_key(words[i].lower()):
             for j in [4, 8, 12]:
-                features.append('BROWN%s=%s' % (str(j), self.brownClusters[words[i].lower()] >> j))
+                #features.append('BROWN%s=%s' % (str(j), self.brownClusters[words[i].lower()] >> j))
+                bitstring = Brown2Bits(self.brownClusters[words[i].lower()])
+                features.append('BROWN=%s' % bitstring[0:j+1])                
         return list(set(features))
 
 class DictionaryFeatures2(DictionaryFeatures):
