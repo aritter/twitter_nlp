@@ -1,4 +1,4 @@
-UW Twitter NLP Tools
+Twitter NLP Tools
 ====================
 Authors: Alan Ritter, Sam Clark
 
@@ -69,7 +69,7 @@ The BIO encoding is used for encoding phrases (Named Entities, event phrases, an
 
     The/B-movie Town/I-movie might/O ...
 
-Indicates that the word "The" begins a named entity of type movie, "Town" continues that entity, and "might" is outside of an entity mention.  For more details see http://www.cs.stonybrook.edu/~ychoi/cse628/lecture/05-pos.pdf.
+Indicates that the word "The" begins a named entity of type movie, "Town" continues that entity, and "might" is outside of an entity mention.  For more details see: http://nltk.org/book/ch07.html
 
 Requirements:
 -------------
