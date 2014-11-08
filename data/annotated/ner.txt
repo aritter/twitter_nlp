@@ -165,7 +165,7 @@ had	O
 1	O
 too	O
 many	O
-vodka	B-product
+vodka	O
 's	O
 last	O
 night	O
@@ -328,7 +328,7 @@ loved	O
 the	O
 last	O
 years	O
-eurovision	O
+eurovision	B-tvshow
 entry	O
 !!	O
 hoppaa	O
@@ -513,7 +513,7 @@ bride	O
 RT	O
 @Sexstrology	O
 :	O
-Pisces	O
+Pisces	B-other
 tend	O
 to	O
 escape	O
@@ -878,7 +878,7 @@ yay	O
 hopefully	O
 we	O
 got	O
-cody	O
+cody	B-person
 's	O
 ipod	B-product
 in	O
@@ -12544,7 +12544,7 @@ early	O
 	
 Kahlua	B-product
 &lt;	O
-Coffee	B-product
+Coffee	O
 over	O
 looking	O
 the	O
