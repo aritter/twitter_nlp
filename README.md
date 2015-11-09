@@ -1,8 +1,6 @@
-Twitter NLP Tools
+OSU Twitter NLP Tools
 ====================
-Authors: Alan Ritter, Sam Clark
-
-contact: aritter@cs.washington.edu
+contact: ritter.1492@osu.edu
 
 Example Usage:
 --------------
