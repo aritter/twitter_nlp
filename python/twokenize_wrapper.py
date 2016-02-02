@@ -1,4 +1,4 @@
-#!/homes/gws/aritter/local/bin/python
+#!/usr/bin/env python
 
 ###############################################################################
 # Tokinizes strings using the 'twokenize' module, but also splits up
