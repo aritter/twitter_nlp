@@ -4,6 +4,45 @@ contact: ritter.1492@osu.edu
 
 Example Usage:
 --------------
+*UPDATED:* : Added support for reading from file and writing to a tab seperated file which can have text in any column.
+
+### New useage:
+
+```
+export TWITTER_NLP=./
+python python/ner/extractEntities.py test.1k.txt -o output.txt
+```
+
+If the file is a tab separated file. Use the i-th (starting from 0) column as a text column to read from. 
+Output file will have that column data replaced with the annotated text.
+*_CAUTION_*: Make sure there are no newline characters in the text column. This will break the format.
+
+
+Shortened options for other features:
+```
+$ python/ner/extractEntities.py -h
+usage: extractEntities.py [-h] [--text-pos TEXT_POS]
+                          [--output-file OUTPUT_FILE] [--chunk] [--pos]
+                          [--event] [--classify]
+                          input_file
+
+positional arguments:
+  input_file            Path to the input file. Each line should have the
+                        text.Optionally it can be a tab delimited file.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --text-pos TEXT_POS, -t TEXT_POS
+                        Column number (starting from 0) of the column
+                        containing text
+  --output-file OUTPUT_FILE, -o OUTPUT_FILE
+                        Path to the output file
+  --chunk, -k
+  --pos, -p
+  --event, -e
+  --classify, -c
+```
+
 
 	export TWITTER_NLP=./
 	cat test.1k.txt | python python/ner/extractEntities2.py
