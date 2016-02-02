@@ -15,7 +15,8 @@ python python/ner/extractEntities.py test.1k.txt -o output.txt
 
 If the file is a tab separated file. Use the i-th (starting from 0) column as a text column to read from. 
 Output file will have that column data replaced with the annotated text.
-*_CAUTION_*: Make sure there are no newline characters in the text column. This will break the format.
+
+**CAUTION**: Make sure there are no newline characters in the text column. This will break the format.
 
 
 Shortened options for other features:
