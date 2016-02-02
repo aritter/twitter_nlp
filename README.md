@@ -4,9 +4,9 @@ contact: ritter.1492@osu.edu
 
 Example Usage:
 --------------
-*UPDATED:* : Added support for reading from file and writing to a tab seperated file which can have text in any column.
+**UPDATED:** : Added support for reading from file and writing to a tab seperated file which can have text in any column.
 
-### New useage:
+### NEW USAGE:
 
 ```
 export TWITTER_NLP=./
@@ -43,6 +43,8 @@ optional arguments:
   --classify, -c
 ```
 
+
+### OLD USAGE:
 
 	export TWITTER_NLP=./
 	cat test.1k.txt | python python/ner/extractEntities2.py
