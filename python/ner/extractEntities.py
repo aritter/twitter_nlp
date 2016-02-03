@@ -144,11 +144,19 @@ for line in open('%s/hbc/data/dict-label3' % (BASE_DIR)):
 # WRITE TO STDOUT IF NO FILE IS GIVEN FOR OUTPUT
 out_fp = open(options.output_file, "wb+") if options.output_file is not None else sys.stdout
 with open(options.input_file) as fp:
-    nLines = 1
-    row = fp.readline().strip().split("\t")
-    tweet = row[options.text_pos]
-    line = tweet.encode('utf-8')
+    nLines = 0
+    #row = fp.readline().strip().split("\t")
+    #tweet = row[options.text_pos]
+    #line = tweet.encode('utf-8')
     while line:
+        nLines += 1
+        row = fp.readline().strip().split("\t")
+        tweet = row[options.text_pos]
+        line = tweet.encode('utf-8', "ignore")
+        if not line:
+            print >> sys.stderr, "Finished reading %s lines from %s"  % (nLines -1, options.input_file)
+            break
+        #print >> sys.stderr, "Read Line: %s, %s" % (nLines, line),
         words = twokenize.tokenize(line)
         seq_features = []
         tags = []
@@ -240,6 +248,7 @@ with open(options.input_file) as fp:
         #sys.stdout.write((" ".join(output) + "\n").encode('utf8'))
         row[options.text_pos] = (" ".join(output))
         print >> out_fp, ("\t".join(row)).encode('utf8')
+        #print >> sys.stderr, "\tWrote Line: %s, %s" % (nLines, row[options.text_pos])
 
     #    if pos:
     #        sys.stdout.write((" ".join(["%s/%s/%s" % (words[x], tags[x], pos[x]) for x in range(len(words))]) + "\n").encode('utf8'))
@@ -249,7 +258,8 @@ with open(options.input_file) as fp:
         #sys.stdout.flush()
 
         #seems like there is a memory leak comming from mallet, so just restart it every 1,000 tweets or so
-        if nLines % 1000 == 0:
+        """
+        if nLines % 10000 == 0:
             start = time.time()
             ner.stdin.close()
             ner.stdout.close()
@@ -259,11 +269,8 @@ with open(options.input_file) as fp:
             os.kill(ner.pid, SIGTERM)       #Need to do this for python 2.4
             ner.wait()
             ner = GetNer(ner_model)
-        nLines += 1
-        
-        row = fp.readline().strip().split("\t")
-        tweet = row[options.text_pos]
-        line = tweet.encode('utf-8')
+        """
+       
 
 end_time = time.time()
 
