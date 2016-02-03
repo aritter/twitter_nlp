@@ -141,6 +141,7 @@ for line in open('%s/hbc/data/dict-label3' % (BASE_DIR)):
     (dictionary, label) = line.rstrip('\n').split(' ')
     dict2label[dictionary] = label
 
+print >> sys.stderr, "Finished loading all models. Now reading from %s and writing to %s"  % (options.input_file, options.output_file)
 # WRITE TO STDOUT IF NO FILE IS GIVEN FOR OUTPUT
 out_fp = open(options.output_file, "wb+") if options.output_file is not None else sys.stdout
 with open(options.input_file) as fp:
@@ -258,7 +259,6 @@ with open(options.input_file) as fp:
         #sys.stdout.flush()
 
         #seems like there is a memory leak comming from mallet, so just restart it every 1,000 tweets or so
-        """
         if nLines % 10000 == 0:
             start = time.time()
             ner.stdin.close()
@@ -269,7 +269,6 @@ with open(options.input_file) as fp:
             os.kill(ner.pid, SIGTERM)       #Need to do this for python 2.4
             ner.wait()
             ner = GetNer(ner_model)
-        """
        
 
 end_time = time.time()
