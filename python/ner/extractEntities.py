@@ -34,8 +34,8 @@ import pos_tagger_stdin
 import chunk_tagger_stdin
 import event_tagger_stdin
 
-def GetNer(ner_model):
-    return subprocess.Popen('java -Xmx256m -cp %s/mallet-2.0.6/lib/mallet-deps.jar:%s/mallet-2.0.6/class cc.mallet.fst.SimpleTaggerStdin --weights sparse --model-file %s/models/ner/%s' % (BASE_DIR, BASE_DIR, BASE_DIR, ner_model),
+def GetNer(ner_model, memory="256m"):
+    return subprocess.Popen('java -Xmx%s -cp %s/mallet-2.0.6/lib/mallet-deps.jar:%s/mallet-2.0.6/class cc.mallet.fst.SimpleTaggerStdin --weights sparse --model-file %s/models/ner/%s' % (memory, BASE_DIR, BASE_DIR, BASE_DIR, ner_model),
                            shell=True,
                            close_fds=True,
                            stdin=subprocess.PIPE,
@@ -61,6 +61,7 @@ parser.add_argument("--chunk", "-k", action="store_true", default=False)
 parser.add_argument("--pos", "-p", action="store_true", default=False)
 parser.add_argument("--event", "-e", action="store_true", default=False)
 parser.add_argument("--classify", "-c", action="store_true", default=False)
+parser.add_argument("--mallet-memory", "-m", default="256m", help="Memory allocated for Mallet instance")
 options = parser.parse_args()
 
 print >> sys.stderr , "Starting with the following configuration\n", "--"*20
@@ -71,6 +72,7 @@ print >> sys.stderr , "Chunk: %s" % options.chunk
 print >> sys.stderr , "POS: %s" % options.pos
 print >> sys.stderr , "Event: %s" % options.event
 print >> sys.stderr , "Classify: %s" % options.classify
+print >> sys.stderr , "Mallet Memory: %s" % options.mallet_memory
 print >> sys.stderr , "--"*20
 
 if options.input_file is None or options.input_file == "":
@@ -108,7 +110,7 @@ elif options.pos:
 else:
     ner_model = 'ner_nopos_nochunk.model'
 
-ner = GetNer(ner_model)
+ner = GetNer(ner_model, memory=options.mallet_memory)
 fe = Features.FeatureExtractor('%s/data/dictionaries' % (BASE_DIR))
 
 capClassifier = cap_classifier.CapClassifier()
