@@ -6,8 +6,6 @@ Example Usage:
 --------------
 **UPDATED:** : Added support for reading from file and writing to a tab seperated file which can have text in any column.
 
-### NEW USAGE:
-
 ```
 export TWITTER_NLP=./
 python python/ner/extractEntities.py test.1k.txt -o output.txt
@@ -45,7 +43,7 @@ optional arguments:
 ```
 
 
-### OLD USAGE:
+### OLD USAGE (Reading from stdin):
 
 	export TWITTER_NLP=./
 	cat test.1k.txt | python python/ner/extractEntities2.py
@@ -150,3 +148,5 @@ sumant81
 Yiye Ruan
 
 Lu Wang
+
+napsternxg
