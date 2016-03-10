@@ -34,7 +34,7 @@ def split_contractions(tokens):
             new_tk = token[:-3]
             new_token_list.append('\'ve')
         elif token[-3:] == '\'ll':
-            new_tok = token[:-3]
+            new_tk = token[:-3]
             new_token_list.append('\'ll')
         else:
             new_token_list.append(token)
