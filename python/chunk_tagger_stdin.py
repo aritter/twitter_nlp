@@ -31,7 +31,7 @@ class ChunkTagger:
         self.nTagged = 0
 
     def GetTagger(self):
-        self.tagger = subprocess.Popen('java -Xmx400m -cp %s/mallet-2.0.6/lib/mallet-deps.jar:%s/mallet-2.0.6/class cc.mallet.fst.SimpleTaggerStdin --model-file %s' % (BASE_DIR, BASE_DIR, _MODEL_FP),
+        self.tagger = subprocess.Popen('java -Xmx1000m -cp %s/mallet-2.0.6/lib/mallet-deps.jar:%s/mallet-2.0.6/class cc.mallet.fst.SimpleTaggerStdin --model-file %s' % (BASE_DIR, BASE_DIR, _MODEL_FP),
                                        shell=True,
                                        stdin=subprocess.PIPE,
                                        stdout=subprocess.PIPE)

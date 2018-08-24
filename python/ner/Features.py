@@ -140,7 +140,7 @@ def GetQuotes(words):
     return quoted
 
 class FeatureExtractor:
-    def __init__(self, dictDir="data/dictionaries", brownFile="%s/data/brown_clusters/60K_clusters.txt" % (BASE_DIR)):
+    def __init__(self, dictDir="%s/data/dictionaries" % (BASE_DIR), brownFile="%s/data/brown_clusters/60K_clusters.txt" % (BASE_DIR)):
         self.df = DictionaryFeatures(dictDir)
         if brownFile:
             self.df.AddBrownClusters(brownFile)
