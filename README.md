@@ -43,7 +43,7 @@ optional arguments:
 ```
 
 
-### OLD USAGE (Reading from stdin):
+### Alternate Usage (Reading from stdin):
 
 	export TWITTER_NLP=./
 	cat test.1k.txt | python python/ner/extractEntities2.py
