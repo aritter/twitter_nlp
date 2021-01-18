@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------
 
 1) Data
-- Training and development data is in the "data" directory.  This is represented using the ConLL data format (http://www.cnts.ua.ac.be/conll2002/ner/).
+- Training and development data is in the "data" directory.  This is represented using the 2002 ConLL Task [data format](https://www.clips.uantwerpen.be/conll2002/ner/).
 - There are 2 datasets corresponding to 2 seperate evaluations: one where the task is to predict fine-grained types and the other in which no type information is to be predicted.
 - The "train" data is the "2015 train" + "2015 dev" data
 - The "dev" data is the "2015 test" data
